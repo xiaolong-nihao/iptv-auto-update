@@ -4,6 +4,8 @@
 """
 IPTV Channel Manager - IPTV直播源管理工具
 功能：自动分类、去重、按类别保存直播源
+输出目录: output/
+文件名: 固定（每次覆盖）
 """
 
 import re
@@ -23,7 +25,6 @@ except ImportError:
     REGEX_LOADED = False
     print("⚠️ 未找到 regex_patterns.py，使用内置简单分类")
     
-    # 简单备用分类
     def match_category(name):
         if re.search(r'(?i)(CCTV|cctv|央视|中央|CGTN)', name):
             return '央视'
@@ -48,6 +49,25 @@ except ImportError:
         if re.search(r'(?i)(财经|经济|商业|投资|股市)', name):
             return '财经'
         return '其他'
+
+
+# ============================================
+# 固定文件名配置
+# ============================================
+OUTPUT_FILES = {
+    '央视': '央视.txt',
+    '卫视': '卫视.txt',
+    '港澳台': '港澳台.txt',
+    '赛事': '赛事.txt',
+    '新闻': '新闻.txt',
+    '电影': '电影.txt',
+    '音乐': '音乐.txt',
+    '综艺': '综艺.txt',
+    '纪录片': '纪录片.txt',
+    '儿童': '儿童.txt',
+    '财经': '财经.txt',
+    '其他': '其他.txt',
+}
 
 
 # ============================================
@@ -141,7 +161,7 @@ def parse_line(line):
 
 
 def backup_file(filepath):
-    """自动备份原文件"""
+    """自动备份原文件（带时间戳）"""
     if os.path.exists(filepath):
         backup_name = f"{filepath}.backup_{time.strftime('%Y%m%d_%H%M%S')}"
         shutil.copy2(filepath, backup_name)
@@ -153,7 +173,11 @@ def backup_file(filepath):
 def select_file():
     """交互式选择文件"""
     txt_files = glob.glob("*.txt")
-    txt_files = [f for f in txt_files if 'dedup' not in f and 'backup' not in f and 'report' not in f]
+    txt_files = [f for f in txt_files if 'backup' not in f and 'report' not in f]
+    
+    # 排除输出文件
+    output_names = list(OUTPUT_FILES.values())
+    txt_files = [f for f in txt_files if f not in output_names]
     
     if not txt_files:
         print("❌ 当前目录没有找到txt文件")
@@ -184,13 +208,18 @@ def select_file():
 
 
 def deduplicate_and_split(input_file, output_dir='output'):
-    """去重并按类别分别保存到不同文件"""
-    timestamp = time.strftime("%Y%m%d_%H%M%S")
-    
+    """
+    去重并按类别分别保存到不同文件
+    文件名固定，每次覆盖
+    """
+    # 创建输出目录
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
+        print(f"📁 创建目录: {output_dir}")
     
     print(f"\n📂 读取文件: {input_file}")
+    
+    # 备份原文件（带时间戳）
     backup_file(input_file)
     
     with open(input_file, 'r', encoding='utf-8', errors='ignore') as f:
@@ -198,13 +227,18 @@ def deduplicate_and_split(input_file, output_dir='output'):
     
     print(f"📊 总行数: {len(lines)}")
     
+    # 存储各类别数据
     categories_data = defaultdict(list)
     genre_lines = []
     sep_lines = []
+    header_lines = []
     
     stats = {
-        'total': 0, 'kept': 0, 'duplicates': 0,
-        'skipped': 0, 'invalid_urls': 0,
+        'total': 0,
+        'kept': 0,
+        'duplicates': 0,
+        'skipped': 0,
+        'invalid_urls': 0,
         'by_category': defaultdict(int)
     }
     seen_channels = defaultdict(set)
@@ -218,6 +252,9 @@ def deduplicate_and_split(input_file, output_dir='output'):
         
         if '#genre#' in line:
             genre_lines.append(line)
+            continue
+        if line.startswith('#'):
+            header_lines.append(line)
             continue
         if '⬇️' in line or '➡️' in line:
             sep_lines.append(line)
@@ -263,15 +300,20 @@ def deduplicate_and_split(input_file, output_dir='output'):
             seen_channels[category].add(clean_name)
             stats['kept'] += 1
     
-    # 保存
+    # 保存每个类别到固定文件（覆盖）
     saved_files = []
     categories_order = ['央视', '卫视', '港澳台', '赛事', '新闻', '电影', '音乐', '综艺', '纪录片', '儿童', '财经', '其他']
     
     for category in categories_order:
         if category not in categories_data or not categories_data[category]:
+            filename = os.path.join(output_dir, f"{category}.txt")
+            if os.path.exists(filename):
+                os.remove(filename)
+                print(f"  🗑️ 删除空文件: {filename}")
             continue
         
-        filename = f"{output_dir}/{category}_{timestamp}.txt"
+        filename = os.path.join(output_dir, f"{category}.txt")
+        
         with open(filename, 'w', encoding='utf-8') as f:
             f.write(f"# {category}频道列表\n")
             f.write(f"# 更新时间: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
@@ -283,23 +325,21 @@ def deduplicate_and_split(input_file, output_dir='output'):
         saved_files.append((category, filename, len(categories_data[category])))
         print(f"  ✅ {category}: {len(categories_data[category])} 个 → {filename}")
     
-    # 索引
-    index_file = f"{output_dir}/索引_{timestamp}.txt"
-    with open(index_file, 'w', encoding='utf-8') as f:
-        f.write("="*50 + "\n")
-        f.write("📊 IPTV直播源分类索引\n")
-        f.write("="*50 + "\n")
-        f.write(f"生成时间: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write(f"原始文件: {input_file}\n")
-        f.write(f"总行数: {stats['total']}\n")
-        f.write(f"有效频道: {stats['kept']}\n\n")
-        f.write("各分类统计:\n")
-        for category, count in sorted(stats['by_category'].items(), key=lambda x: x[1], reverse=True):
-            if count > 0:
-                f.write(f"  {category}: {count} 个 → {category}_{timestamp}.txt\n")
+    # 保存分类行和分隔线到单独文件
+    if genre_lines or sep_lines or header_lines:
+        filename = os.path.join(output_dir, "headers.txt")
+        with open(filename, 'w', encoding='utf-8') as f:
+            for line in header_lines:
+                f.write(line + '\n')
+            for line in genre_lines:
+                f.write(line + '\n')
+            f.write('\n')
+            for line in sep_lines:
+                f.write(line + '\n')
+        saved_files.append(('分类行', filename, len(genre_lines) + len(sep_lines) + len(header_lines)))
+        print(f"  ✅ 分类行: {len(genre_lines) + len(sep_lines) + len(header_lines)} 行 → {filename}")
     
-    saved_files.append(('索引', index_file, 1))
-    
+    # 统计
     print("\n" + "="*60)
     print("📊 处理完成")
     print("="*60)
@@ -311,10 +351,9 @@ def deduplicate_and_split(input_file, output_dir='output'):
     print("\n分类统计:")
     for category, count in sorted(stats['by_category'].items(), key=lambda x: x[1], reverse=True):
         if count > 0:
-            print(f"  {category}: {count} 个")
+            filename = os.path.join(output_dir, f"{category}.txt")
+            print(f"  {category}: {count} 个 → {filename}")
     print("="*60)
-    print(f"📁 输出目录: {output_dir}")
-    print(f"📄 索引文件: {index_file}")
     
     return saved_files
 
@@ -326,7 +365,8 @@ def main():
     print("="*60)
     print(f"版本: 2.0")
     print(f"正则配置: {'✅ 已加载' if REGEX_LOADED else '⚠️ 使用内置'}")
-    print(f"时间: {time.strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"输出目录: output/")
+    print(f"文件名: 固定（每次覆盖）")
     print("="*60)
     
     if len(sys.argv) > 1:
@@ -343,7 +383,7 @@ def main():
     
     saved_files = deduplicate_and_split(input_file, 'output')
     
-    print("\n💡 生成的文件:")
+    print("\n💡 生成的文件（固定文件名）:")
     for category, filename, count in saved_files:
         print(f"   {category}: {filename} ({count}个)")
     print("\n✅ 完成！请查看 output 目录")
