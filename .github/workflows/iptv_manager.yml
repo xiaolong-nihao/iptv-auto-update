@@ -1,14 +1,9 @@
 name: IPTV Channel Manager
 
 on:
-  # 手动触发
   workflow_dispatch:
-  
-  # 定时运行（每天凌晨2点）
   schedule:
     - cron: '0 2 * * *'
-  
-  # 当 myq.txt 更新时触发
   push:
     paths:
       - 'myq.txt'
@@ -16,41 +11,39 @@ on:
 jobs:
   organize:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 添加写权限
     
     steps:
-      # 1. 拉取代码
-      - name: 拉取代码
+      - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # 使用内置 token
       
-      # 2. 设置 Python
-      - name: 设置 Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       
-      # 3. 运行 IPTV 管理工具
-      - name: 运行 IPTV 管理工具
+      - name: Run IPTV Manager
         run: |
           python3 py/iptv_manager.py myq.txt
       
-      # 4. 查看结果
-      - name: 查看生成的文件
+      - name: List output
         run: |
           ls -la output/
           cat output/索引_*.txt
       
-      # 5. 上传结果
-      - name: 上传结果
+      - name: Upload results
         uses: actions/upload-artifact@v4
         with:
           name: IPTV分类结果
           path: output/
       
-      # 6. 提交并推送回仓库
-      - name: 提交更改
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output/
-          git commit -m "更新IPTV直播源分类 [skip ci]" || echo "没有变化"
+          git commit -m "Update IPTV channel classification [skip ci]" || echo "No changes"
           git push
