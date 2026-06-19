@@ -1,0 +1,28 @@
+# 纪录片频道列表
+# 更新时间: 2026-06-19 14:10:35
+# 共 24 个频道
+#genre#
+动物星球频道,http://61.221.215.25:8800/hls/57/index.m3u8
+国家地理4Gtv,http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
+疯狂动物园园长,https://live.ottiptv.cc/huya/29465891
+探索世界科普,https://live.ottiptv.cc/huya/20985813
+正经纪录片,https://live.ottiptv.cc/huya/23860049
+宇宙探索飞船,https://live.ottiptv.cc/douyu/9456028
+纪录片之家字幕组,https://live.ottiptv.cc/douyu/8834003
+动物启示录,https://live.ottiptv.cc/douyu/9443129
+纪录华夏,https://live.ottiptv.cc/douyu/11916256
+世界纪录大全,https://live.ottiptv.cc/douyu/9406359
+荒野动物园,https://live.ottiptv.cc/douyu/9663833
+老广的味道 第3季-美食纪录片,https://live.ottiptv.cc/yy/1382735565
+中国味道 第4季-美食纪录片,https://live.ottiptv.cc/yy/1382736845
+动物世界-领略原始野性,https://live.ottiptv.cc/yy/1382743138
+Discovery陆,p3p://focus169.org:25271/641383f300048101a59561c464b07293
+探索科学频陆,p3p://focus169.org:25271/6425241100084dfbea6e6650539d779f
+动物星球频陆,p3p://focus169.org:25271/6425241f00027d03ea6e9b836b853b0b
+BBCNew频陆,p3p://focus169.org:25271/641384e7000133cda5991a1b33cb3ea0
+BBC News HD,p3p://focus169.org:25271/641384e7000133cda5991a1b33cb3ea0
+BBC World News,p3p://focus169.org:25271/6465a784000201aee66e4af152371a81
+BBC Earth,p3p://focus169.org:25271/67f8aba70005e0effd547f80379a7488
+BBC Earth SONY,p3p://focus169.org:25271/67f8aad000038135fd51370c44c4360b
+國家地理高畫質野生,p3p://focus169.org:25271/642523f2000e0f35ea6deeb16ff816c9
+动物星球animal planet,p3p://focus169.org:25271/6425241f00027d03ea6e9b836b853b0b

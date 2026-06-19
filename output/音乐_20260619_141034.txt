@@ -1,0 +1,63 @@
+# 音乐频道列表
+# 更新时间: 2026-06-19 14:10:35
+# 共 59 个频道
+#genre#
+(贩)(已)AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
+古典音乐4Gtv,http://220.135.64.124:5050/4gtv-4gtv059/index.m3u8?proxy=true
+MTVLive4Gtv,http://220.135.64.124:5050/4gtv-live025/index.m3u8?proxy=true
+(卖)(变)音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
+粤语劲爆串烧,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8ccfd682b29e5010370019960c10c99258.mp4
+粤语精选串烧,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bfe4d0bd101e4f037001992d999551258.mp4
+粤语PG'串烧,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d89cc31cde8c4f037001998e2818b6258.mp4
+粤语-LAK串烧,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8db8745e895c80103700199998b9637258.mp4
+粤语家驹串烧,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8dfc99be7c5690103700199aa2ed5b3258.mp4
+粤语热门串烧,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8efad98e89ffa0103700199e8582d78258.mp4
+粤语歌全串烧,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8be4e1207f61d01037001992765d8f6258.mp4
+粤语抖音串烧,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8dfce27e8a6cd0103700199aa4081b1258.mp4
+粤语流行串烧,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8be57a9bbcc944f03700199278a8589258.mp4
+粤语旋律串烧,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8be6e30070a32010370019927e26463258.mp4
+粤国语歌串烧,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8be58b8bd78eb4f03700199278e02a1258.mp4
+粤国精选串烧,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c03260bd23944f037001992ec72dba258.mp4
+粤语dj歌串烧,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8be3073073131010370019926f1b6bf258.mp4
+开场低音串烧,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c02519bc71ce4f037001992e93a479258.mp4
+经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
+疯狂的音乐人,https://live.ottiptv.cc/huya/29982625
+放松轻音乐,https://live.ottiptv.cc/huya/21241813
+虎牙音乐,https://live.ottiptv.cc/huya/880207
+颜值DJ,https://live.ottiptv.cc/huya/21241770
+音乐台长,https://live.ottiptv.cc/douyu/9629943
+热星音乐菌,https://live.ottiptv.cc/douyu/8405922
+UP主DJC,https://live.ottiptv.cc/douyu/9429545
+音乐小石榴,https://live.ottiptv.cc/huya/17091681
+音乐才女与霸道总裁的治愈之恋,https://live.ottiptv.cc/yy/1382735573
+马年串烧贺岁,http://rihou.cc:555/tv/[mv]串烧贺岁
+音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖24
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖24
+今日演唱会上,http://rihou.cc:555/tv/[mv]今日演上
+今日演唱会中,http://rihou.cc:555/tv/[mv]今日演中
+今日演唱会下,http://rihou.cc:555/tv/[mv]今日演下
+今天演唱会一,http://rihou.cc:555/tv/[mv]今日演一
+今天演唱会二,http://rihou.cc:555/tv/[mv]今日演二
+今天演唱会三,http://rihou.cc:555/tv/[mv]今日演三
+今天演唱会四,http://rihou.cc:555/tv/[mv]今日演四
+fm891音乐播,http://iptv77.iptv66.eu.org:35455/bilibili/26544140
+周杰伦音乐播,http://iptv77.iptv66.eu.org:35455/bilibili/23765388
+爵士音乐直播,http://iptv77.iptv66.eu.org:35455/bilibili/543176
+音乐库播抖播,video://http://rihou.cc:555/tv/网页库播
+音乐播库抖播,video://http://rihou.cc:555/tv/网页播库
+翡翠音乐抖播,video://http://rihou.cc:555/tv/网页翡翠
+怀旧音乐抖播,video://http://rihou.cc:555/tv/网页怀音
+音乐库抖直播,video://http://rihou.cc:555/tv/mu10
+HiFi-音乐直播,video://https://live.douyin.com/110229825168
+38'6音乐直播,video://http://rihou.cc:555/tv/mu10
+舒耳音乐直播,video://https://live.douyin.com/388913203837
+小汤音乐直播,video://https://live.douyin.com/104244347308
+好听音乐直播,video://https://live.douyin.com/309117340504
+微风音乐直播,video://https://live.douyin.com/411054693943
+动耳音乐直播,video://https://live.douyin.com/630362171826
+BEYOND音乐,video://https://live.douyin.com/889699212954
+DJWEAPON,video://https://live.douyin.com/472502061760
+MTV LIVE my,p3p://focus169.org:25271/641381a8000b2beaa58c6e90661462b5
+MTV 2,p3p://focus169.org:25271/6465b57200035a76e6a4b4fa39e03456
+MTV CLASSIC,p3p://focus169.org:25271/6465b57e000664abe6a4e4a12a9c53c2
+MTV UHD,p3p://focus169.org:25271/6465b595000b11b4e6a53fac6b7c2eaa

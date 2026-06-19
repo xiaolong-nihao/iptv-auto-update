@@ -1,0 +1,47 @@
+# 儿童频道列表
+# 更新时间: 2026-06-19 14:10:35
+# 共 43 个频道
+#genre#
+靖洋卡通4Gtv,http://220.135.64.124:5050/4gtv-4gtv057/index.m3u8?proxy=true
+靖天卡通4Gtv,http://220.135.64.124:5050/4gtv-4gtv044/index.m3u8?proxy=true
+经典卡通4Gtv,http://220.135.64.124:5050/4gtv-live022/index.m3u8?proxy=true
+精选动漫4Gtv,http://220.135.64.124:5050/4gtv-live024/index.m3u8?proxy=true
+MO-亲子4Gtv,http://220.135.64.124:5050/4gtv-live107/index.m3u8?proxy=true
+广东少儿广州,http://tvtj1.jxwltx.com:8003/live1570.m3u8
+嘉佳卡通广州,http://tvtj1.jxwltx.com:8003/live1328.m3u8
+优漫卡通广州,http://tvtj1.jxwltx.com:8003/custom11.m3u8
+经典日本动漫速看,https://live.ottiptv.cc/huya/29982686
+小当家动漫社,https://live.ottiptv.cc/huya/24257300
+开心锤锤动漫,https://live.ottiptv.cc/douyu/9018297
+PP看动漫,https://live.ottiptv.cc/douyu/9837291
+动画大师姐,https://live.ottiptv.cc/douyu/9742136
+圈踢动漫,https://live.ottiptv.cc/douyu/1952680
+真香动漫解说,https://live.ottiptv.cc/douyu/9391292
+小陶气说动漫,https://live.ottiptv.cc/douyu/9527700
+蛋黄讲动漫,https://live.ottiptv.cc/douyu/9542834
+鑫酱盘动漫,https://live.ottiptv.cc/douyu/9547575
+三新动漫,https://live.ottiptv.cc/douyu/9548279
+米粒儿动漫,https://live.ottiptv.cc/douyu/9445279
+雨忆动漫,https://live.ottiptv.cc/douyu/9568700
+搞笑动漫大本营,https://live.ottiptv.cc/douyu/9650181
+动画魂,https://live.ottiptv.cc/douyu/9393242
+17号说动漫,https://live.ottiptv.cc/douyu/9822277
+动漫推荐i,https://live.ottiptv.cc/douyu/5187099
+漫尼动画,https://live.ottiptv.cc/douyu/10364790
+皮皮动漫星球,https://live.ottiptv.cc/douyu/8841920
+动漫唯美風,https://live.ottiptv.cc/douyu/8912038
+乔我说动漫频道,https://live.ottiptv.cc/huya/17941367
+杰克动漫,https://live.ottiptv.cc/huya/19757963
+老P仔动漫,https://live.ottiptv.cc/huya/26510802
+呆呆的动画,https://live.ottiptv.cc/huya/29837259
+集集动漫社,https://live.ottiptv.cc/huya/29832558
+南南说动漫,https://live.ottiptv.cc/huya/30296754
+动漫,https://live.ottiptv.cc/yy/26664495
+精彩动漫,https://live.ottiptv.cc/yy/1420843376
+国漫动漫,https://live.ottiptv.cc/yy/1354768828
+动漫《火影疾风传》,https://live.ottiptv.cc/yy/1459675153
+疯狂动漫 正在直播,https://live.ottiptv.cc/yy/1353937086
+MO亲子频陆,p3p://focus169.org:25271/6425226f000463e1ea68048207b3285f
+无线少儿频晴,P2p://starvod.xyz:19806/631732f5fa894772aec8ee750359e455.ts
+深圳少儿网页,video://https://www.sztv.com.cn/pindao/index.html?id=7881
+東森幼幼,p3p://focus169.org:25271/6430b41c0001f3831798d72948126428
