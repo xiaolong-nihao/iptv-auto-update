@@ -2,14 +2,14 @@
 # -*- coding: utf-8 -*-
 
 """
-频道分类正则匹配配置
-包含所有分类的正则表达式，大小写不敏感
+频道分类正则表达式配置
+所有分类的正则规则集中管理
 """
 
 import re
 
 # ============================================
-# 央视频道模式（大小写不敏感）
+# 1. 央视频道（大小写不敏感）
 # ============================================
 CCTV_PATTERNS = {
     'CCTV-1': r'(?i)(CCTV[- ]?1|CCTV01|央视综合|CCTV1)',
@@ -32,12 +32,10 @@ CCTV_PATTERNS = {
     'CCTV-17': r'(?i)(CCTV[- ]?17|CCTV17|央视农业农村|CCTV17)',
     'CGTN': r'(?i)(CGTN|cgtn|中国国际电视台)',
     '央视4K': r'(?i)(CCTV4K|央视4K|CCTV 4K)',
-    '央视': r'(?i)(CCTV|cctv|央视|中央[0-9]|CCTV-)',
 }
 
-
 # ============================================
-# 卫视频道模式（大小写不敏感）
+# 2. 卫视频道（大小写不敏感）
 # ============================================
 WEISHI_PATTERNS = {
     '北京卫视': r'(?i)(北京卫视|BTV|北京电视台)',
@@ -55,7 +53,6 @@ WEISHI_PATTERNS = {
     '四川卫视': r'(?i)(四川卫视|SCWS|四川台)',
     '湖北卫视': r'(?i)(湖北卫视|HBWS|湖北台)',
     '江西卫视': r'(?i)(江西卫视|JXWS|江西台)',
-    '福建卫视': r'(?i)(福建卫视|FJWS|东南卫视|福建台)',
     '东南卫视': r'(?i)(东南卫视|东南台)',
     '厦门卫视': r'(?i)(厦门卫视|厦门台)',
     '重庆卫视': r'(?i)(重庆卫视|CQWS|重庆台)',
@@ -75,12 +72,10 @@ WEISHI_PATTERNS = {
     '内蒙古卫视': r'(?i)(内蒙古卫视|内蒙古台|NMGWS)',
     '海南卫视': r'(?i)(海南卫视|海南台|HNWS)',
     '兵团卫视': r'(?i)(兵团卫视|兵团台)',
-    '卫视': r'(?i)(卫视)',
 }
 
-
 # ============================================
-# 港澳台频道模式（大小写不敏感）
+# 3. 港澳台频道（大小写不敏感）
 # ============================================
 HK_MO_TW_PATTERNS = {
     # === 香港 ===
@@ -111,7 +106,6 @@ HK_MO_TW_PATTERNS = {
     '澳门体育': r'(?i)(澳门体育|体育台)',
     '澳门综艺': r'(?i)(澳门综艺|综艺台)',
     '澳门莲花': r'(?i)(澳门莲花|莲花卫视|莲花台)',
-    '澳门卫星': r'(?i)(澳门卫星|卫星电视)',
     
     # === 台湾无线台 ===
     '台视': r'(?i)(台视|TTV|台湾电视)',
@@ -223,11 +217,21 @@ HK_MO_TW_PATTERNS = {
     'JET': r'(?i)(JET|JETtv)',
     '韩国娱乐': r'(?i)(韩国娱乐)',
     '金光布袋': r'(?i)(金光布袋|霹雳布袋)',
+    
+    # === 频陆/频晴/地波 ===
+    '频陆': r'(?i)(频陆|Mttv|SXtv|Hktv|FYtv|4Gtv)',
+    '频晴': r'(?i)(频晴|P2p://|P2p:)',
+    '频测': r'(?i)(频测)',
+    '地波': r'(?i)(地波)',
+    
+    # === 东南亚 ===
+    'astro': r'(?i)(astro|Astro|AOD|AEC|欢喜|爱奇艺|QJ)',
+    '八度空间': r'(?i)(八度空间|8TV)',
+    'Channel': r'(?i)(Channel [85U]|Channel\s*[85U])',
 }
 
-
 # ============================================
-# 赛事频道模式（大小写不敏感）
+# 4. 赛事频道（大小写不敏感）
 # ============================================
 SPORTS_PATTERNS = {
     'NBA': r'(?i)(NBA|nba|美国职业篮球)',
@@ -244,12 +248,10 @@ SPORTS_PATTERNS = {
     'F1': r'(?i)(F1|F-1|一级方程式|Formula)',
     '格斗': r'(?i)(格斗|搏击|拳击|UFC|MMA|WWE)',
     '赛马': r'(?i)(赛马|Horse Racing)',
-    '体育台': r'(?i)(体育台|体育频道)',
 }
 
-
 # ============================================
-# 新闻频道模式（大小写不敏感）
+# 5. 新闻频道（大小写不敏感）
 # ============================================
 NEWS_PATTERNS = {
     '新闻': r'(?i)(新闻|资讯|News|时事|报道|快讯)',
@@ -261,9 +263,8 @@ NEWS_PATTERNS = {
     'BBC': r'(?i)(BBC News|BBC新闻)',
 }
 
-
 # ============================================
-# 电影频道模式（大小写不敏感）
+# 6. 电影频道（大小写不敏感）
 # ============================================
 MOVIE_PATTERNS = {
     '电影': r'(?i)(电影|影院|大片|影厅|剧场|院线|Movies)',
@@ -274,31 +275,25 @@ MOVIE_PATTERNS = {
     '龙华': r'(?i)(龙华)',
     '天映': r'(?i)(天映)',
     'Star Movies': r'(?i)(Star Movies|卫视电影)',
-    '电影台': r'(?i)(电影台|电影频道)',
 }
 
-
 # ============================================
-# 音乐频道模式（大小写不敏感）
+# 7. 音乐频道（大小写不敏感）
 # ============================================
 MUSIC_PATTERNS = {
     '音乐': r'(?i)(音乐|歌曲|串烧|DJ|演唱会|MTV|Music)',
-    '音乐台': r'(?i)(音乐台|音乐频道)',
 }
 
-
 # ============================================
-# 综艺频道模式（大小写不敏感）
+# 8. 综艺频道（大小写不敏感）
 # ============================================
 VARIETY_PATTERNS = {
     '综艺': r'(?i)(综艺|娱乐|明星|秀|Variety)',
     '喜剧': r'(?i)(喜剧|小品|相声|脱口秀|Comedy)',
-    '娱乐': r'(?i)(娱乐|Entertainment)',
 }
 
-
 # ============================================
-# 纪录片频道模式（大小写不敏感）
+# 9. 纪录片频道（大小写不敏感）
 # ============================================
 DOCUMENTARY_PATTERNS = {
     '纪录片': r'(?i)(纪录|纪录片|Documentary)',
@@ -311,54 +306,26 @@ DOCUMENTARY_PATTERNS = {
     'BBC地球': r'(?i)(BBC Earth)',
 }
 
-
 # ============================================
-# 儿童频道模式（大小写不敏感）
+# 10. 儿童频道（大小写不敏感）
 # ============================================
 KIDS_PATTERNS = {
-    '少儿': r'(?i)(少儿|儿童|Kids)',
+    '儿童': r'(?i)(少儿|儿童|Kids|亲子)',
     '卡通': r'(?i)(卡通|Cartoon)',
     '动漫': r'(?i)(动漫|Anime)',
     '动画': r'(?i)(动画|Animation)',
-    '亲子': r'(?i)(亲子|Parenting)',
     '幼幼': r'(?i)(幼幼|YOYO)',
     'MoMo': r'(?i)(MoMo|MOMO)',
     'Nick': r'(?i)(Nick|Nickelodeon)',
     'Animax': r'(?i)(Animax)',
 }
 
-
 # ============================================
-# 财经频道模式（大小写不敏感）
+# 11. 财经频道（大小写不敏感）
 # ============================================
 FINANCE_PATTERNS = {
     '财经': r'(?i)(财经|经济|商业|投资|股市|Finance|Economy|Business)',
-    '财经台': r'(?i)(财经台|财经频道)',
 }
-
-
-# ============================================
-# 地波/频陆/频晴 模式
-# ============================================
-DI_BO_PATTERNS = {
-    '频陆': r'(?i)(频陆|Mttv|SXtv|Hktv|FYtv|4Gtv)',
-    '频晴': r'(?i)(频晴|P2p://|P2p:)',
-    '频测': r'(?i)(频测)',
-    '地波': r'(?i)(地波)',
-}
-
-
-# ============================================
-# 新加坡/马来西亚频道（大小写不敏感）
-# ============================================
-SEA_PATTERNS = {
-    'astro': r'(?i)(astro|Astro|AOD|AEC|欢喜|爱奇艺|QJ)',
-    '八度空间': r'(?i)(八度空间|8TV)',
-    'Channel': r'(?i)(Channel [85U]|Channel\s*[85U])',
-    'TV1': r'(?i)(TV1|TV2|TV3|TV6|NTV7|TV9)',
-    'SCTV': r'(?i)(SCTV|RCTI|INDOSIAR|TVRI|MNC|GTV|ANTV|Metro|TVOne)',
-}
-
 
 # ============================================
 # 组合所有模式
@@ -375,131 +342,100 @@ ALL_PATTERNS = {
     **DOCUMENTARY_PATTERNS,
     **KIDS_PATTERNS,
     **FINANCE_PATTERNS,
-    **DI_BO_PATTERNS,
-    **SEA_PATTERNS,
 }
 
 
 # ============================================
-# 兜底关键词（包含这些就归对应分类）
-# ============================================
-FALLBACK = {
-    '央视': ['CCTV', 'cctv', '央视', '中央', 'CGTN'],
-    '卫视': ['卫视'],
-    '港澳台': ['无线', '有线', 'Now', 'Viu', 'RTHK', '凤凰', '翡翠', '明珠',
-               '澳视', '莲花', '台视', '中视', '华视', '民视', '公视',
-               '东森', '纬来', '三立', 'TVBS', '八大', '靖天',
-               '龙华', '博斯', '爱尔达', 'HBO', 'AXN', '天映',
-               '频陆', '频晴', '地波', '特区', '特闽', '特马', '闽南'],
-    '赛事': ['体育', '赛事', 'NBA', '英超', '足球', '篮球', '中超', '世界杯', '欧冠', '网球', '高尔夫', 'F1', '格斗', '搏击', '拳击', '赛马'],
-    '新闻': ['新闻', '资讯', '新华社', '澎湃'],
-    '电影': ['电影', '影院', '美亚', 'HBO', 'AXN', '龙祥', '龙华', '天映'],
-    '音乐': ['音乐', '歌曲', '串烧', 'DJ', '演唱会', 'MTV'],
-    '综艺': ['综艺', '娱乐', '喜剧', '小品', '相声', '脱口秀'],
-    '纪录片': ['纪录', '探索', '地理', '动物', '自然', '国家地理', 'Discovery', 'BBC'],
-    '儿童': ['卡通', '动漫', '少儿', '动画', '亲子', '儿童', '幼幼', 'MoMo', 'Nick'],
-    '财经': ['财经', '经济', '商业', '投资', '股市'],
-}
-
-
-# ============================================
-# 匹配函数
+# 分类匹配函数
 # ============================================
 def match_category(name):
-    """匹配频道分类"""
+    """
+    匹配频道分类
+    返回: 分类名称
+    """
     name = str(name)
     
+    # 按优先级匹配
     # 1. 央视
     for pattern in CCTV_PATTERNS.values():
         if re.search(pattern, name):
             return '央视'
     
     # 2. 卫视
-    if re.search(r'(?i)卫视', name):
-        return '卫视'
+    for pattern in WEISHI_PATTERNS.values():
+        if re.search(pattern, name):
+            return '卫视'
     
     # 3. 港澳台
     for pattern in HK_MO_TW_PATTERNS.values():
         if re.search(pattern, name):
             return '港澳台'
     
-    # 4. 东南亚
-    for pattern in SEA_PATTERNS.values():
-        if re.search(pattern, name):
-            return '港澳台'  # 或 '东南亚'
-    
-    # 5. 赛事
+    # 4. 赛事
     for pattern in SPORTS_PATTERNS.values():
         if re.search(pattern, name):
             return '赛事'
     
-    # 6. 新闻
+    # 5. 新闻
     for pattern in NEWS_PATTERNS.values():
         if re.search(pattern, name):
             return '新闻'
     
-    # 7. 电影
+    # 6. 电影
     for pattern in MOVIE_PATTERNS.values():
         if re.search(pattern, name):
             return '电影'
     
-    # 8. 音乐
+    # 7. 音乐
     for pattern in MUSIC_PATTERNS.values():
         if re.search(pattern, name):
             return '音乐'
     
-    # 9. 综艺
+    # 8. 综艺
     for pattern in VARIETY_PATTERNS.values():
         if re.search(pattern, name):
             return '综艺'
     
-    # 10. 纪录片
+    # 9. 纪录片
     for pattern in DOCUMENTARY_PATTERNS.values():
         if re.search(pattern, name):
             return '纪录片'
     
-    # 11. 儿童
+    # 10. 儿童
     for pattern in KIDS_PATTERNS.values():
         if re.search(pattern, name):
             return '儿童'
     
-    # 12. 财经
+    # 11. 财经
     for pattern in FINANCE_PATTERNS.values():
         if re.search(pattern, name):
             return '财经'
     
-    # 兜底匹配
-    for category, keywords in FALLBACK.items():
-        for keyword in keywords:
-            if keyword in name:
-                return category
-    
     return '其他'
 
 
-def test_patterns():
-    """测试正则匹配"""
+def test():
+    """测试函数"""
     test_names = [
-        # 央视
+        # 央视测试
         'CCTV-1', 'CCTV-5+', 'cctv13', '央视新闻',
-        # 卫视
+        # 卫视测试
         '北京卫视', '东方卫视', '湖南卫视HD',
-        # 港澳台
+        # 港澳台测试
         '无线翡翠', 'Now新闻', 'VIUTV粤', '东森电影', '中天新闻4Gtv',
-        # 赛事
+        # 赛事测试
         'NBA直播', '英超联赛', '体育频道',
-        # 新闻
+        # 新闻测试
         '新闻频道', '新华社直播',
-        # 电影
+        # 电影测试
         'HBO电影', '电影频道',
-        # 其他
+        # 其他测试
         '音乐台', '综艺节目', '纪录片',
     ]
     
     print("="*60)
     print("测试频道分类匹配")
     print("="*60)
-    
     for name in test_names:
         result = match_category(name)
         print(f"{name:30} → {result}")
@@ -507,4 +443,4 @@ def test_patterns():
 
 
 if __name__ == "__main__":
-    test_patterns()
+    test()
