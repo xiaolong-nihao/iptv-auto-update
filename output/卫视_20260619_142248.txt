@@ -1,0 +1,36 @@
+# 卫视频道列表
+# 更新时间: 2026-06-19 14:22:49
+# 共 32 个频道
+#genre#
+北京卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/bjws4K.m3u8
+东方卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/dfws4K.m3u8
+浙江卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/zjws4K.m3u8
+江苏卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/jsws4K.m3u8
+深圳卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/szws4K.m3u8
+广东卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/gdws4K.m3u8
+山东卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/sdws4K.m3u8
+四川卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/scws4K.m3u8
+湖南卫视频4k,http://106.53.99.30/tv/api.php?id=hnws4k
+安徽卫视广州,http://tvtj1.jxwltx.com:8003/ahws.m3u8
+山西卫视广州,http://tvtj1.jxwltx.com:8003/sxws.m3u8
+河南卫视广州,http://tvtj1.jxwltx.com:8003/hnws.m3u8
+江西卫视广州,http://tvtj1.jxwltx.com:8003/jxws.m3u8
+广西卫视广州,http://tvtj1.jxwltx.com:8003/gxws.m3u8
+云南卫视广州,http://tvtj.jxwltx.com:8003/ynws.m3u8
+东南卫视广州,http://tvtj.jxwltx.com:8003/dnws.m3u8
+厦门卫视广州,http://tvtj1.jxwltx.com:8003/tjws.m3u8
+宁夏卫视广州,http://tvtj1.jxwltx.com:8003/linxws.m3u8
+青海卫视广州,http://tvtj1.jxwltx.com:8003/live1096.m3u8
+吉林卫视广州,http://tvtj1.jxwltx.com:8003/jlws.m3u8
+天津卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
+辽宁卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
+河北卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws
+重庆卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
+贵州卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
+湖北卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
+海南卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws
+陕西卫视咪咕,http://rihou.cc:555/tv/[mg]陕西卫视
+兵团卫视咪咕,http://rihou.cc:555/tv/[mg]兵团卫视
+甘肃卫视咪咕,http://t.061899.xyz/tl/tl.php?id=gsws
+新疆卫视咪咕,http://t.061899.xyz/tl/tl.php?id=xjws
+西藏卫视咪咕,http://t.061899.xyz/tl/tl.php?id=xzws

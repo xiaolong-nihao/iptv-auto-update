@@ -1,0 +1,48 @@
+# 儿童频道列表
+# 更新时间: 2026-06-19 14:22:49
+# 共 44 个频道
+#genre#
+YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+广东少儿广州,http://tvtj1.jxwltx.com:8003/live1570.m3u8
+嘉佳卡通广州,http://tvtj1.jxwltx.com:8003/live1328.m3u8
+优漫卡通广州,http://tvtj1.jxwltx.com:8003/custom11.m3u8
+momo,https://live.ottiptv.cc/huya/23352563
+yoyo,https://live.ottiptv.cc/huya/20985790
+经典日本动漫速看,https://live.ottiptv.cc/huya/29982686
+小当家动漫社,https://live.ottiptv.cc/huya/24257300
+开心锤锤动漫,https://live.ottiptv.cc/douyu/9018297
+PP看动漫,https://live.ottiptv.cc/douyu/9837291
+Svip丶YoYo,https://live.ottiptv.cc/douyu/3472959
+动画大师姐,https://live.ottiptv.cc/douyu/9742136
+圈踢动漫,https://live.ottiptv.cc/douyu/1952680
+真香动漫解说,https://live.ottiptv.cc/douyu/9391292
+小陶气说动漫,https://live.ottiptv.cc/douyu/9527700
+蛋黄讲动漫,https://live.ottiptv.cc/douyu/9542834
+鑫酱盘动漫,https://live.ottiptv.cc/douyu/9547575
+三新动漫,https://live.ottiptv.cc/douyu/9548279
+米粒儿动漫,https://live.ottiptv.cc/douyu/9445279
+雨忆动漫,https://live.ottiptv.cc/douyu/9568700
+搞笑动漫大本营,https://live.ottiptv.cc/douyu/9650181
+动画魂,https://live.ottiptv.cc/douyu/9393242
+17号说动漫,https://live.ottiptv.cc/douyu/9822277
+动漫推荐i,https://live.ottiptv.cc/douyu/5187099
+漫尼动画,https://live.ottiptv.cc/douyu/10364790
+皮皮动漫星球,https://live.ottiptv.cc/douyu/8841920
+动漫唯美風,https://live.ottiptv.cc/douyu/8912038
+乔我说动漫频道,https://live.ottiptv.cc/huya/17941367
+杰克动漫,https://live.ottiptv.cc/huya/19757963
+老P仔动漫,https://live.ottiptv.cc/huya/26510802
+呆呆的动画,https://live.ottiptv.cc/huya/29837259
+集集动漫社,https://live.ottiptv.cc/huya/29832558
+南南说动漫,https://live.ottiptv.cc/huya/30296754
+动漫,https://live.ottiptv.cc/yy/26664495
+精彩动漫,https://live.ottiptv.cc/yy/1420843376
+国漫动漫,https://live.ottiptv.cc/yy/1354768828
+动漫《火影疾风传》,https://live.ottiptv.cc/yy/1459675153
+疯狂动漫 正在直播,https://live.ottiptv.cc/yy/1353937086
+momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
+深圳少儿网页,video://https://www.sztv.com.cn/pindao/index.html?id=7881
+東森幼幼,p3p://focus169.org:25271/6430b41c0001f3831798d72948126428
+MOMO親子臺,p3p://focus169.org:25271/6425226f000463e1ea68048207b3285f
+Starz Kids,p3p://focus169.org:25271/645fb26f00087cd0cf292cbc765a234c
+UNIVERSAL KIDS,p3p://focus169.org:25271/64682b9c000e9ddaf0424bee25af494e
