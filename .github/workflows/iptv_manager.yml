@@ -12,13 +12,14 @@ jobs:
   organize:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # 添加写权限
+      contents: write
+      actions: write
     
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # 使用内置 token
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -29,10 +30,18 @@ jobs:
         run: |
           python3 py/iptv_manager.py myq.txt
       
-      - name: List output
+      - name: List generated files
         run: |
+          echo "📁 生成的文件:"
           ls -la output/
-          cat output/索引_*.txt
+          echo ""
+          echo "📊 各分类统计:"
+          for f in output/*.txt; do
+            if [ -f "$f" ]; then
+              count=$(grep -v "^#" "$f" | grep -v "^$" | wc -l)
+              echo "  $(basename "$f"): $count 个频道"
+            fi
+          done
       
       - name: Upload results
         uses: actions/upload-artifact@v4
@@ -40,10 +49,10 @@ jobs:
           name: IPTV分类结果
           path: output/
       
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
-          git commit -m "Update IPTV channel classification [skip ci]" || echo "No changes"
-          git push
+          git add output/*.txt 2>/dev/null || echo "没有文件需要添加"
+          git commit -m "Update IPTV channel classification [skip ci]" || echo "No changes to commit"
+          git push || echo "Push failed"
