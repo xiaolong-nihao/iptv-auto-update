@@ -1,0 +1,62 @@
+# 综艺频道列表
+# 更新时间: 2026-06-19 14:44:18
+# 共 58 个频道
+#genre#
+脱口秀大会肆,http://cfss.cc/cdn/hy/30080243.m3u8
+脱口秀大会伍,http://cfss.cc/cdn/hy/11352875.m3u8
+喜剧虎牙频道,http://cfss.cc/cdn/hy/11352877.m3u8
+喜剧专场频道,http://cfss.cc/cdn/hy/11602044.m3u8
+搞笑喜剧频道,http://cfss.cc/cdn/hy/11342423.m3u8
+中天娱乐频道,http://61.221.215.25:8800/hls/47/index.m3u8
+娱乐bb机,https://live.ottiptv.cc/huya/29982635
+香港喜剧大全,https://live.ottiptv.cc/huya/23865080
+君临剧优秀,https://live.ottiptv.cc/huya/24884334
+虎牙星娱乐,https://live.ottiptv.cc/huya/880203
+娱乐现场,https://live.ottiptv.cc/huya/17001286
+赵本山经典小品,https://live.ottiptv.cc/douyu/9817716
+开心麻花经典小品,https://live.ottiptv.cc/douyu/10153463
+贾玲经典小品,https://live.ottiptv.cc/douyu/10419541
+宋小宝小品,https://live.ottiptv.cc/douyu/9817729
+许君聪经典小品,https://live.ottiptv.cc/douyu/10419558
+3030相声小品,https://live.ottiptv.cc/douyu/9286868
+娱乐扒叔,https://live.ottiptv.cc/douyu/9624581
+淮秀帮官方,https://live.ottiptv.cc/douyu/2519745
+fans圈娱乐,https://live.ottiptv.cc/douyu/9630581
+秀才侃娱乐,https://live.ottiptv.cc/douyu/9382873
+娱乐新番,https://live.ottiptv.cc/douyu/9564845
+周星驰--喜剧之王,https://live.ottiptv.cc/huya/30631741
+LX娱乐-招主播,https://live.ottiptv.cc/huya/28259384
+喜剧大赏,https://live.ottiptv.cc/huya/30631713
+爆有料综艺,https://live.ottiptv.cc/huya/27695407
+布布娱乐,https://live.ottiptv.cc/huya/29882863
+小野综艺,https://live.ottiptv.cc/huya/29890508
+�逋鞠盗�-国产喜剧,https://live.ottiptv.cc/yy/1382736856
+爆笑小品大合集,https://live.ottiptv.cc/yy/1382736821
+国内喜剧,https://live.ottiptv.cc/yy/1382851598
+本山快乐营-爆笑小品,https://live.ottiptv.cc/yy/1354930948
+巩汉林春晚小品合集,https://live.ottiptv.cc/yy/1354889035
+憨豆先生-经典喜剧,https://live.ottiptv.cc/yy/1354936239
+国产喜剧,https://live.ottiptv.cc/yy/1382735584
+热门喜剧,https://live.ottiptv.cc/yy/1354931495
+蔡明春晚小品,https://live.ottiptv.cc/yy/1354936177
+贾玲春晚小品,https://live.ottiptv.cc/yy/1382736720
+喜剧闹翻天,https://live.ottiptv.cc/yy/1382735548
+宋小宝春晚小品合集,https://live.ottiptv.cc/yy/1382736866
+金牌喜剧班,https://live.ottiptv.cc/yy/1354889009
+闲暇观看综艺,https://live.ottiptv.cc/yy/1354932379
+本山选谁上-喜剧人选拔,https://live.ottiptv.cc/yy/1382749878
+赵本山宋小宝小品大全,https://live.ottiptv.cc/yy/1382745331
+港片 喜剧 动作,https://live.ottiptv.cc/yy/1355480591
+赌神 港片 喜剧,https://live.ottiptv.cc/yy/1355112116
+鬼片喜剧动作港剧,https://live.ottiptv.cc/yy/1355269576
+超喜剧地下交通站男神贾贵,https://live.ottiptv.cc/yy/1353428972
+24h 我爱我家 喜剧,https://live.ottiptv.cc/yy/1356212303
+《东北小品》,https://live.ottiptv.cc/yy/29600150
+东北小品王,https://live.ottiptv.cc/yy/34313906
+邵氏喜剧欣赏,http://rihou.cc:555/tv/[FY]邵氏喜剧
+娱乐扒叔轮播,http://8.155.43.98:35455/douyu/9624581
+粤语综艺轮播,http://8.155.43.98:35455/douyu/7919720
+Comedy Central ,p3p://focus169.org:25271/6413853b000926c2a59a644430b12c08
+Supersport Variety 3 USA,p3p://focus169.org:25271/6463a90d000d7e9adea44d0a511a6930
+Supersport Variety 3,p3p://focus169.org:25271/6463a90d000d7e9adea44d0a511a6930
+Supersport Variety 4,p3p://focus169.org:25271/6463a926000e1336dea4aed876667f60
