@@ -1,0 +1,57 @@
+name: 直播源去重
+
+on:
+  # 手动触发
+  workflow_dispatch:
+  
+  # 或者定时运行（每天凌晨2点）
+  schedule:
+    - cron: '0 2 * * *'
+  
+  # 或者推送代码时触发
+  push:
+    branches: [ main ]
+    paths:
+      - 'myq.txt'
+
+jobs:
+  dedup:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 1. 拉取代码
+      - name: 拉取代码
+        uses: actions/checkout@v4
+      
+      # 2. 设置 Python
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      # 3. 运行去重脚本
+      - name: 运行去重
+        run: |
+          python3 py/dedup.py myq.txt
+      
+      # 4. 查看结果
+      - name: 查看生成的文件
+        run: |
+          ls -la output/
+          cat output/索引_*.txt
+      
+      # 5. 上传结果到 Actions 产物
+      - name: 上传结果
+        uses: actions/upload-artifact@v4
+        with:
+          name: 直播源分类结果
+          path: output/
+      
+      # 6. 提交并推送回仓库（可选）
+      - name: 提交更改
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git commit -m "更新直播源分类 [skip ci]" || echo "没有变化"
+          git push
