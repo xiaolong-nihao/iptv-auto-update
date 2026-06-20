@@ -1,5 +1,5 @@
 # 儿童频道列表
-# 更新时间: 2026-06-19 14:44:18
+# 更新时间: 2026-06-20 06:20:18
 # 共 33 个频道
 #genre#
 广东少儿广州,http://tvtj1.jxwltx.com:8003/live1570.m3u8
@@ -10,21 +10,21 @@
 开心锤锤动漫,https://live.ottiptv.cc/douyu/9018297
 PP看动漫,https://live.ottiptv.cc/douyu/9837291
 圈踢动漫,https://live.ottiptv.cc/douyu/1952680
-真香动漫解说,https://live.ottiptv.cc/douyu/9391292
 小陶气说动漫,https://live.ottiptv.cc/douyu/9527700
+真香动漫解说,https://live.ottiptv.cc/douyu/9391292
+动漫推荐i,https://live.ottiptv.cc/douyu/5187099
 蛋黄讲动漫,https://live.ottiptv.cc/douyu/9542834
-鑫酱盘动漫,https://live.ottiptv.cc/douyu/9547575
 三新动漫,https://live.ottiptv.cc/douyu/9548279
 米粒儿动漫,https://live.ottiptv.cc/douyu/9445279
-雨忆动漫,https://live.ottiptv.cc/douyu/9568700
 搞笑动漫大本营,https://live.ottiptv.cc/douyu/9650181
 17号说动漫,https://live.ottiptv.cc/douyu/9822277
-动漫推荐i,https://live.ottiptv.cc/douyu/5187099
 皮皮动漫星球,https://live.ottiptv.cc/douyu/8841920
+雨忆动漫,https://live.ottiptv.cc/douyu/9568700
+鑫酱盘动漫,https://live.ottiptv.cc/douyu/9547575
 动漫唯美風,https://live.ottiptv.cc/douyu/8912038
+老P仔动漫,https://live.ottiptv.cc/huya/26510802
 乔我说动漫频道,https://live.ottiptv.cc/huya/17941367
 杰克动漫,https://live.ottiptv.cc/huya/19757963
-老P仔动漫,https://live.ottiptv.cc/huya/26510802
 集集动漫社,https://live.ottiptv.cc/huya/29832558
 南南说动漫,https://live.ottiptv.cc/huya/30296754
 动漫,https://live.ottiptv.cc/yy/26664495
@@ -33,5 +33,5 @@ PP看动漫,https://live.ottiptv.cc/douyu/9837291
 动漫《火影疾风传》,https://live.ottiptv.cc/yy/1459675153
 疯狂动漫 正在直播,https://live.ottiptv.cc/yy/1353937086
 深圳少儿网页,video://https://www.sztv.com.cn/pindao/index.html?id=7881
-Starz Kids,p3p://focus169.org:25271/645fb26f00087cd0cf292cbc765a234c
-UNIVERSAL KIDS,p3p://focus169.org:25271/64682b9c000e9ddaf0424bee25af494e
+Starz Kids,p3p://focus169.org:26571/645fb26f00087cd0cf292cbc765a234c
+UNIVERSAL KIDS,p3p://focus169.org:26571/64682b9c000e9ddaf0424bee25af494e

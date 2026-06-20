@@ -1,17 +1,25 @@
 # 港澳台频道列表
-# 更新时间: 2026-06-19 14:44:18
-# 共 384 个频道
+# 更新时间: 2026-06-20 06:20:18
+# 共 386 个频道
 #genre#
 无线翡翠4k音,https://o11.163189.xyz/stream/tvb/fct4k/
-CCTV'4KPetv,http://rihou.cc:555/tv/[Pe]CCTV4K
-now英超4k壹,p3p://focus169.org:25271/64d74cf7000556f0223ed6366e5f689a
-now英超4k贰,p3p://focus169.org:25271/64d74ca40007202e223d927267473868
+CCTV-01高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv1hd3000.m3u8
+CCTV-02高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv2hd3000.m3u8
+CCTV-03高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv3hd3000.m3u8
+CCTV-04高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv4hd3000.m3u8
+CCTV-05高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv5hd3000.m3u8
+CCTV-06高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv6hd3000.m3u8
+CCTV-07高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv7hd3000.m3u8
+CCTV-08高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv8hd3000.m3u8
+CCTV-09高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv9hd3000.m3u8
+now英超4k壹,p3p://focus169.org:26571/64d74cf7000556f0223ed6366e5f689a
+now英超4k贰,p3p://focus169.org:26571/64d74ca40007202e223d927267473868
 Plus综合高码,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
 有线新闻高码,http://feng163.com:8003/bysid/78.m3u8
 ViuTv粤高码,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
 ViuTv英高码,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
 RTHK-31高码,http://beishan008.asuscomm.com:8892/bysid/31.m3u8
-EPL Now Sports 英超4keng,p3p://focus169.org:25271/64d74cf7000556f0223ed6366e5f689a
+EPL Now Sports 英超4keng,p3p://focus169.org:26571/64d74cf7000556f0223ed6366e5f689a
 凤凰电影频道,http://iot-mqqt.111yao.cn:8080/live/diypfhdy.m3u8
 星空电影频道,http://iot-mqqt.111yao.cn:8080/live/diypstarmovies.m3u8
 星空音乐频道,http://iot-mqqt.111yao.cn:8080/live/diypchannelv.m3u8
@@ -139,15 +147,6 @@ GINXTV4Gtv,http://220.135.64.124:5050/4gtv-4gtv053/index.m3u8?proxy=true
 DW-之声4Gtv,http://220.135.64.124:5050/4gtv-live071/index.m3u8?proxy=true
 历史频道4Gtv,http://220.135.64.124:5050/4gtv-live026/index.m3u8?proxy=true
 国家地理4Gtv,http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
-CCTV-01广州,http://tvtj.jxwltx.com:8003/cctv1.m3u8
-CCTV-02广州,http://tvtj.jxwltx.com:8003/cctv2.m3u8
-CCTV-03广州,http://tvtj.jxwltx.com:8003/cctv3.m3u8
-CCTV-04广州,http://tvtj.jxwltx.com:8003/cctv4.m3u8
-CCTV-05广州,http://tvtj.jxwltx.com:8003/cctv5.m3u8
-CCTV-06广州,http://tvtj.jxwltx.com:8003/cctv6.m3u8
-CCTV-07广州,http://tvtj.jxwltx.com:8003/cctv7.m3u8
-CCTV-08广州,http://tvtj.jxwltx.com:8003/cctv8.m3u8
-CCTV-09广州,http://tvtj.jxwltx.com:8003/cctv9.m3u8
 Plus综合双语,https://o11.163189.xyz/stream/tvb/tvbp/
 astroaod双语,https://o11.163189.xyz/stream/live/aod/
 astroaec双语,https://o11.163189.xyz/stream/live/aec/
@@ -155,16 +154,18 @@ astroiqiyi单国,https://o11.163189.xyz/stream/live/iqiyi/
 astro欢喜双语,https://o11.163189.xyz/stream/live/hxt/
 Astro AEC(c),https://sc2022.stream-link.org/tv2306.php?id=h25
 仰望星空慢直播,https://live.ottiptv.cc/huya/29465892
-TVB练习生,https://live.ottiptv.cc/huya/23865132
-迪士尼姐姐,https://live.ottiptv.cc/huya/29982656
+TVB职场剧大全,https://live.ottiptv.cc/huya/23735153
 小虎牙-pTSEbHriOn,https://live.ottiptv.cc/huya/23863796
-探索世界科普,https://live.ottiptv.cc/huya/20985813
+迪士尼姐姐,https://live.ottiptv.cc/huya/29982656
 宇宙探索飞船,https://live.ottiptv.cc/douyu/9456028
 星空茶茶,https://live.ottiptv.cc/douyu/8635497
 欢喜冤家的爱情-夏日乐悠悠,https://live.ottiptv.cc/yy/1354936191
+国🔊21ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
+国'🔊21ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
+国🔊'21ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
+国🔊21'ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
 澳视澳门Pdtv,http://rihou.cc:555/tv/[Pd]澳视澳门
 八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
-VIUTV'粤Petv,http://rihou.cc:555/tv/[Pe]VIUTV粤
 年代新闻欣赏,http://rihou.cc:555/tv/[Hk]年代新闻
 闽壹新闻欣赏,http://rihou.cc:555/tv/[Hk]闽壹新闻
 tvbS新闻欣赏,http://rihou.cc:555/tv/[FY]tvbS新闻
@@ -180,6 +181,7 @@ pₒₚc电影欣赏,http://rihou.cc:555/tv/[Hv]pₒₚc电影
 黄金翡翠欣赏,http://rihou.cc:555/tv/[Hk]黄金翡翠
 HUB娱家欣赏,http://rihou.cc:555/tv/[Hk]HUB娱家
 HUB都会欣赏,http://rihou.cc:555/tv/[Hk]HUB都会
+VIUTV'壹欣赏,http://rihou.cc:555/tv/[Mt]VIUTV壹
 公视闽南地波,http://rihou.cc:555/tv/[mn]公视闽南
 公视闽语地波,http://rihou.cc:555/tv/[mn]公视闽语
 公视综合地波,http://rihou.cc:555/tv/[mn]公视综合
@@ -209,69 +211,69 @@ Football-FYtv,http://iptv.4666888.xyz/iptv2A.php?id=4
 Sports-3'FYtv,http://iptv.4666888.xyz/iptv2A.php?id=3
 History'1频晴,P2p://107.150.42.186:33001/29552e6fc29e837c7b14e424d71d55a0
 History'2频晴,P2p://107.150.42.186:33001/df0824acd116baaf72071fff86cab34d
-now新闻频陆,p3p://focus169.org:25271/693d2dab0008b200f0e8764436083836
-AstrAEC频陆,p3p://focus169.org:25271/64124c2d0006c6eba0d384f41e28720a
-Astr欢喜频陆,p3p://focus169.org:25271/64124caf0002a78fa0d57fb777596e7b
-hub如意频陆,p3p://focus169.org:25271/6427ba150003a8b2f48864c0637f78d5
-hub娱家频陆,p3p://focus169.org:25271/65f5aef60008044721b5ba22261e5d65
-hub都会频陆,p3p://focus169.org:25271/65f5aefd0000f16221b5d3aa029b351e
-now财经频陆,p3p://focus169.org:25271/67dd0d5300071ab09172ab3a56ad7555
-now爆谷频陆,p3p://focus169.org:25271/683c6792000d325d05e9065a074c5f94
-now星影频陆,p3p://focus169.org:25271/693d2c48000ebc01f0e30d165ba336d4
-now英超粤陆,p3p://focus169.org:25271/64d74c1600083555223b68096e79387e
-now体育英陆,p3p://focus169.org:25271/64b8f962000df4a32be40ef90d9f4afd
-now体育频陆,p3p://focus169.org:25271/6884d8f9000d594420e2313035a55d97
-now体育备陆,p3p://focus169.org:25271/6410211d00048968985b4de16d6e5b6a
-now直播频陆,p3p://focus169.org:25271/6417e77b0007feb1b6b9f4ca25bc6e04
-Ftv时代1频陆,p3p://focus169.org:25271/673bfb69000723791c484da526413354
-Ftv时代2频陆,p3p://focus169.org:25271/673bfb9b000310101c490fea44ce2cbc
-美亚电影粤陆,p3p://focus169.org:25271/68107e33000568555a624e1d359e237c
-天映频道粤陆,p3p://focus169.org:25271/64124e0f00045619a0dadf2552b73bf8
-龙翔电影国陆,p3p://focus169.org:25271/642d014b0009f96e092658cb4e1b23ff
-好莱坞电影陆,p3p://focus169.org:25271/6425244f0001184fea6f56a70aca63d2
-耀才财经频陆,p3p://focus169.org:25271/64102268000ecb1f98605d7b0a602bf4
-now英超1e陆,p3p://focus169.org:25271/64d74cb1000cc276223dc6ac654a2299
-now体育壹陆,p3p://focus169.org:25271/643361f20007b9a9220fabfc3001244e
-now体育贰陆,p3p://focus169.org:25271/643362090006b031221005903b883d07
-now体育叁陆,p3p://focus169.org:25271/6433621d000d9c3522105573223958e1
-now体育肆陆,p3p://focus169.org:25271/6437999f00025f983289265f38ef3722
-now体育伍陆,p3p://focus169.org:25271/643799aa000e7bac3289547135e05a80
-now体育陆陆,p3p://focus169.org:25271/643799bb00044f193289943e2e5f6ac1
-now体育柒陆,p3p://focus169.org:25271/643799ca000a29a43289d0542d57262c
-HBO-HD频陆,p3p://focus169.org:25271/64137f0b0006a17fa58238155813216c
-hbo家庭频陆,p3p://focus169.org:25271/64137f3c000d4a86a582f93235111bc5
-hbo原创频陆,p3p://focus169.org:25271/64137f700008f329a583c3344ddf5dfc
-hbo强档频陆,p3p://focus169.org:25271/64137f970005246ea5845a9326ce6233
-Discovery陆,p3p://focus169.org:25271/641383f300048101a59561c464b07293
-tvbs精彩频陆,p3p://focus169.org:25271/642521570001b275ea63be1073931dd1
-tvbs精彩备陆,p3p://focus169.org:25271/642521a2000c7beaea64e5cc482f669a
-大爱第一频陆,p3p://focus169.org:25271/6425225a0002859cea67b1ff6aaf6db6
-大爱第二频陆,p3p://focus169.org:25271/64252264000022beea67d87308e9122e
-MO亲子频陆,p3p://focus169.org:25271/6425226f000463e1ea68048207b3285f
-Eleven一频陆,p3p://focus169.org:25271/6425227b000100c6ea6832842d41783a
-Eleven二频陆,p3p://focus169.org:25271/64252292000127feea688c6630d312e7
-ELTA--综合陆,p3p://focus169.org:25271/642522cd000292e6ea69733b04032ded
-EYE-旅游频陆,p3p://focus169.org:25271/642524030003a5b2ea6e2e6f6efc45a1
-探索科学频陆,p3p://focus169.org:25271/6425241100084dfbea6e6650539d779f
-美食星球频陆,p3p://focus169.org:25271/6425252400079076ea72985811e07306
-星卫娱乐频陆,p3p://focus169.org:25271/6425242d000d55adea6ed4fa37195f98
-爱尔达影剧陆,p3p://focus169.org:25271/6425243c00046a2eea6f0d4964f8022d
-金光布袋戏陆,p3p://focus169.org:25271/6425246600099458ea6fb2ab4398320b
-Catc电影频陆,p3p://focus169.org:25271/64252479000b7f1aea6ffd6177e3015c
-卫视中文频陆,p3p://focus169.org:25271/64252507000eefc4ea7228f32f390502
-卫视电影频陆,p3p://focus169.org:25271/642525150008a4ecea725e071929091e
-星卫电影频陆,p3p://focus169.org:25271/642521030009ef43ea62780c438e2a38
-JETtv频道陆,p3p://focus169.org:25271/6425254d000d3abeea7339f47b5d4bf5
-thrill电影频陆,p3p://focus169.org:25271/644a0879000272f67a89b6687af342ae
-龙翔电影频陆,p3p://focus169.org:25271/642d014b0009f96e092658cb4e1b23ff
-BabyFirs频陆,p3p://focus169.org:25271/642d015f000070f00926a47a6a2e7d52
-CNNmy频陆,p3p://focus169.org:25271/641380c6000d7e73a588fc4e012b3240
-CNBcmy频陆,p3p://focus169.org:25271/64138101000e328aa589e2f46ee85f3d
-Skynews频陆,p3p://focus169.org:25271/641381340003e883a58aa78a57c53479
-Francem频陆,p3p://focus169.org:25271/6413816700069158a58b6f7a03cd341c
-Euronew频陆,p3p://focus169.org:25271/6413817b0003393aa58bbcbf158b6409
-FOXNEw频陆,p3p://focus169.org:25271/6413818e000154fca58c067b60210765
-BBCNew频陆,p3p://focus169.org:25271/641384e7000133cda5991a1b33cb3ea0
+now新闻频陆,p3p://focus169.org:26571/693d2dab0008b200f0e8764436083836
+AstrAEC频陆,p3p://focus169.org:26571/64124c2d0006c6eba0d384f41e28720a
+Astr欢喜频陆,p3p://focus169.org:26571/64124caf0002a78fa0d57fb777596e7b
+hub如意频陆,p3p://focus169.org:26571/6427ba150003a8b2f48864c0637f78d5
+hub娱家频陆,p3p://focus169.org:26571/65f5aef60008044721b5ba22261e5d65
+hub都会频陆,p3p://focus169.org:26571/65f5aefd0000f16221b5d3aa029b351e
+now财经频陆,p3p://focus169.org:26571/67dd0d5300071ab09172ab3a56ad7555
+now爆谷频陆,p3p://focus169.org:26571/683c6792000d325d05e9065a074c5f94
+now星影频陆,p3p://focus169.org:26571/693d2c48000ebc01f0e30d165ba336d4
+now英超粤陆,p3p://focus169.org:26571/64d74c1600083555223b68096e79387e
+now体育英陆,p3p://focus169.org:26571/64b8f962000df4a32be40ef90d9f4afd
+now体育频陆,p3p://focus169.org:26571/6884d8f9000d594420e2313035a55d97
+now体育备陆,p3p://focus169.org:26571/6410211d00048968985b4de16d6e5b6a
+now直播频陆,p3p://focus169.org:26571/6417e77b0007feb1b6b9f4ca25bc6e04
+Ftv时代1频陆,p3p://focus169.org:26571/673bfb69000723791c484da526413354
+Ftv时代2频陆,p3p://focus169.org:26571/673bfb9b000310101c490fea44ce2cbc
+美亚电影粤陆,p3p://focus169.org:26571/68107e33000568555a624e1d359e237c
+天映频道粤陆,p3p://focus169.org:26571/64124e0f00045619a0dadf2552b73bf8
+龙翔电影国陆,p3p://focus169.org:26571/642d014b0009f96e092658cb4e1b23ff
+好莱坞电影陆,p3p://focus169.org:26571/6425244f0001184fea6f56a70aca63d2
+耀才财经频陆,p3p://focus169.org:26571/64102268000ecb1f98605d7b0a602bf4
+now英超1e陆,p3p://focus169.org:26571/64d74cb1000cc276223dc6ac654a2299
+now体育壹陆,p3p://focus169.org:26571/643361f20007b9a9220fabfc3001244e
+now体育贰陆,p3p://focus169.org:26571/643362090006b031221005903b883d07
+now体育叁陆,p3p://focus169.org:26571/6433621d000d9c3522105573223958e1
+now体育肆陆,p3p://focus169.org:26571/6437999f00025f983289265f38ef3722
+now体育伍陆,p3p://focus169.org:26571/643799aa000e7bac3289547135e05a80
+now体育陆陆,p3p://focus169.org:26571/643799bb00044f193289943e2e5f6ac1
+now体育柒陆,p3p://focus169.org:26571/643799ca000a29a43289d0542d57262c
+HBO-HD频陆,p3p://focus169.org:26571/64137f0b0006a17fa58238155813216c
+hbo家庭频陆,p3p://focus169.org:26571/64137f3c000d4a86a582f93235111bc5
+hbo原创频陆,p3p://focus169.org:26571/64137f700008f329a583c3344ddf5dfc
+hbo强档频陆,p3p://focus169.org:26571/64137f970005246ea5845a9326ce6233
+Discovery陆,p3p://focus169.org:26571/641383f300048101a59561c464b07293
+tvbs精彩频陆,p3p://focus169.org:26571/642521570001b275ea63be1073931dd1
+tvbs精彩备陆,p3p://focus169.org:26571/642521a2000c7beaea64e5cc482f669a
+大爱第一频陆,p3p://focus169.org:26571/6425225a0002859cea67b1ff6aaf6db6
+大爱第二频陆,p3p://focus169.org:26571/64252264000022beea67d87308e9122e
+MO亲子频陆,p3p://focus169.org:26571/6425226f000463e1ea68048207b3285f
+Eleven一频陆,p3p://focus169.org:26571/6425227b000100c6ea6832842d41783a
+Eleven二频陆,p3p://focus169.org:26571/64252292000127feea688c6630d312e7
+ELTA--综合陆,p3p://focus169.org:26571/642522cd000292e6ea69733b04032ded
+EYE-旅游频陆,p3p://focus169.org:26571/642524030003a5b2ea6e2e6f6efc45a1
+探索科学频陆,p3p://focus169.org:26571/6425241100084dfbea6e6650539d779f
+美食星球频陆,p3p://focus169.org:26571/6425252400079076ea72985811e07306
+星卫娱乐频陆,p3p://focus169.org:26571/6425242d000d55adea6ed4fa37195f98
+爱尔达影剧陆,p3p://focus169.org:26571/6425243c00046a2eea6f0d4964f8022d
+金光布袋戏陆,p3p://focus169.org:26571/6425246600099458ea6fb2ab4398320b
+Catc电影频陆,p3p://focus169.org:26571/64252479000b7f1aea6ffd6177e3015c
+卫视中文频陆,p3p://focus169.org:26571/64252507000eefc4ea7228f32f390502
+卫视电影频陆,p3p://focus169.org:26571/642525150008a4ecea725e071929091e
+星卫电影频陆,p3p://focus169.org:26571/642521030009ef43ea62780c438e2a38
+JETtv频道陆,p3p://focus169.org:26571/6425254d000d3abeea7339f47b5d4bf5
+thrill电影频陆,p3p://focus169.org:26571/644a0879000272f67a89b6687af342ae
+龙翔电影频陆,p3p://focus169.org:26571/642d014b0009f96e092658cb4e1b23ff
+BabyFirs频陆,p3p://focus169.org:26571/642d015f000070f00926a47a6a2e7d52
+CNNmy频陆,p3p://focus169.org:26571/641380c6000d7e73a588fc4e012b3240
+CNBcmy频陆,p3p://focus169.org:26571/64138101000e328aa589e2f46ee85f3d
+Skynews频陆,p3p://focus169.org:26571/641381340003e883a58aa78a57c53479
+Francem频陆,p3p://focus169.org:26571/6413816700069158a58b6f7a03cd341c
+Euronew频陆,p3p://focus169.org:26571/6413817b0003393aa58bbcbf158b6409
+FOXNEw频陆,p3p://focus169.org:26571/6413818e000154fca58c067b60210765
+BBCNew频陆,p3p://focus169.org:26571/641384e7000133cda5991a1b33cb3ea0
 私人影院频晴,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
 Ftv城市频晴,P2p://starvod.xyz:19806/2b3efa01d8bf4c7fbbef69911802df3f.ts
 Ftv1时代东晴,P2p://starvod.xyz:19806/e485c2b5af154a638d9d54d10dcb73d9.ts
@@ -281,108 +283,108 @@ tvbs亚洲频晴,P2p://starvod.xyz:19806/62e69ecfa7ad4edfa092d77d9a9347d1.ts
 壹电影'tv频晴,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
 ELta影剧频晴,P2p://starvod.xyz:19806/0ae8227ad4ca480499bdd9280ca57f7f.ts
 壹综合'tv频晴,P2p://147.135.39.171:9906/685f810d000eeaf174db4a19563a6520.ts
-Channel 8,p3p://focus169.org:25271/642606be0002dd54ede3d8b40d6c04dc
-Channel 8(b),p3p://focus169.org:25271/642605590007b381edde676b090919b0
-Channel 5,p3p://focus169.org:25271/642606de000ae43dede457c221b81de1
-Channel 5(b),p3p://focus169.org:25271/642606cc000ea9beede41269137f162d
-Channel u,p3p://focus169.org:25271/642606fa000535beede4c3ae3202280b
-Channel u(b),p3p://focus169.org:25271/642606ee00041309ede4948330973faf
-AXN tw,p3p://focus169.org:25271/64137fb6000e2555a584d5f94945113b
-AXN tw2,p3p://focus169.org:25271/64137fed000660a5a585aad4055228a8
-AXN my,p3p://focus169.org:25271/6413800100002d47a585f75e0b4d15d4
-CINEMAX tw,p3p://focus169.org:25271/641380160003b61ca5864a4e3d49763a
-Cinemax my,p3p://focus169.org:25271/6413802a000969a0a58699e441aa3320
-Animax my,p3p://focus169.org:25271/6413803e00077f23a586e786585056af
-Animax tw,p3p://focus169.org:25271/6413807500012fe3a587bcbf2e6b7388
-Astro AEC(a),p3p://focus169.org:25271/64124c2d0006c6eba0d384f41e28720a
-Astro AEC(b),p3p://focus169.org:25271/64124c700006cf30a0d48aaf01411bf2
-Astro 全佳 Quanjia,p3p://focus169.org:25271/67d035dc000d05235f493a2940842b92
-Astro 欢喜 Huahee,p3p://focus169.org:25271/67d035a4000701b05f485dde16830637
-Astro双星 ShuangXing,p3p://focus169.org:25271/64124cd6000d2114a0d61abd59b301f5
-8TV,p3p://focus169.org:25271/64124384000000eda0b1af0f24c07c86
-8TV(b),p3p://focus169.org:25271/641243a500087b78a0b2322326f61656
-Astro Arena 1,p3p://focus169.org:25271/6412454a0000fbb4a0b89cb81723411e
-Astro Arena 1(b),p3p://focus169.org:25271/64124580000df2d5a0b972fa5e5d3940
-Astro Arena 2,p3p://focus169.org:25271/64124568000c643aa0b914d41041515b
-Astro Badminton 1,p3p://focus169.org:25271/671f18d8000c0d04ab73ed6c21864b80
-Astro Ria(a),p3p://focus169.org:25271/6412475a0001e9b4a0c0ab7757361ac3
-Astro Ria(b),p3p://focus169.org:25271/641248070002b154a0c34f73189527bb
-Astro Ria(d),p3p://focus169.org:25271/64124824000a5118a0c3c2af05400294
-Astro Prima (a),p3p://focus169.org:25271/6412483f000d7787a0c42cf514d31874
-Astro Prima (b),p3p://focus169.org:25271/641248560003257fa0c484296e73655f
-Astro Warna(a),p3p://focus169.org:25271/6412486f000d3f9ca0c4e86722ba3298
-Astro Warna(b),p3p://focus169.org:25271/6412488e00083532a0c5603560d334fe
-Astro Warna(c),p3p://focus169.org:25271/641248a6000225cba0c5bc684ca70c67
-Astro Oasis,p3p://focus169.org:25271/641248c4000c9a91a0c63446638407ba
-Astro Sensasi,p3p://focus169.org:25271/641248e100089063a0c6a4857a9e76f5
-Astro Aura,p3p://focus169.org:25271/6412490000029239a0c71c1415de4f23
-Astro Rania,p3p://focus169.org:25271/64124a04000b9fa4a0cb160c3ad51b32
-Astro Awani,p3p://focus169.org:25271/64124a1c000d2e3fa0cb743224ba1e56
-Astro Awani(b),p3p://focus169.org:25271/64124a3a00017fd2a0cbe6651aba048c
-Astro Ceria(a),p3p://focus169.org:25271/64124a76000afc5da0ccd33328db54d4
-Astro Citra,p3p://focus169.org:25271/64124a950004c142a0cd4ab321ff3eaa
-Astro Tutor UPSR,p3p://focus169.org:25271/64124ab1000a05e4a0cdb96c45713a25
-Astro Tutor SPM,p3p://focus169.org:25271/64124ad20003446da0ce389969675397
-TVN Movies,p3p://focus169.org:25271/64124b780007d1a1a0d0c23228543327
-TVN Sin,p3p://focus169.org:25271/64124bb50008793da0d1b0a6677f4152
-Astro AOD 351,p3p://focus169.org:25271/6427ba150003a8b2f48864c0637f78d5
-Astro AOD 352,p3p://focus169.org:25271/6427ba33000e1d77f488dc9d368a21a6
-Astro AOD 353,p3p://focus169.org:25271/6427ba4e000e68a7f4894628702a319e
-Astro AOD 354,p3p://focus169.org:25271/6427ba6b0002c078f489b4757d803340
-Astro AOD 355,p3p://focus169.org:25271/6427ba850008c867f48a1b90472f7860
-Astro 小太阳 Xiaotaiyang,p3p://focus169.org:25271/64124cfa00001c82a0d6a40858217ea4
-CCM 天映经典,p3p://focus169.org:25271/64124d990007b0aaa0d9131033d9354a
-CCM 天映经典 CN中英字幕,p3p://focus169.org:25271/64124dd500082194a0d9fd8d736a3dff
-Astro Cricket,p3p://focus169.org:25271/6413863000096560a59e215b32a17cc3
-Astro Vaanavil,p3p://focus169.org:25271/6413864100052c3da59e62ae01dd502f
-Astro Colors,p3p://focus169.org:25271/641386f70003798da5a1292811a2387f
-Astro Adithya,p3p://focus169.org:25271/6413872200000fa0a5a1d03f37ed2010
-Golf Channel USA my,p3p://focus169.org:25271/64311ed10003b7461939aaa6737c19fe
-Animal Planet,p3p://focus169.org:25271/64138361000ebac2a5932a2128c72b2e
-NatGeo,p3p://focus169.org:25271/6413837500016343a59374d77edf394b
-NatGeo Wild HD,p3p://focus169.org:25271/6413838c000428cca593cf656569021f
-HISTORY2,p3p://focus169.org:25271/641383a2000b3d73a59427257bb61a15
-BBC News HD,p3p://focus169.org:25271/641384e7000133cda5991a1b33cb3ea0
-Disney Channel,p3p://focus169.org:25271/6413851900016945a599dd79676c38
-SCTV (a),p3p://focus169.org:25271/64325cd7000a6a471e13f3cf797b77ae
-SCTV (b),p3p://focus169.org:25271/64325cec000c0b9c1e14464232a459fa
-cancel Astro Vaanavil,p3p://focus169.org:25271/6413864100052c3da59e62ae01dd502f
-NOW财经台,p3p://focus169.org:25271/67dd0d5300071ab09172ab3a56ad7555
-NOW直播台,p3p://focus169.org:25271/6417e77b0007feb1b6b9f4ca25bc6e04
-NOW新闻台,p3p://focus169.org:25271/68b068140004c9e4cb080a4e27bf524a
-BBC World News,p3p://focus169.org:25271/6465a784000201aee66e4af152371a81
-NOW 体育台,p3p://focus169.org:25271/6410211d00048968985b4de16d6e5b6a
-Astro Arena,p3p://focus169.org:25271/6412454a0000fbb4a0b89cb81723411e
-Golf Channel USA,p3p://focus169.org:25271/645fab54000b6df5cf0d6bfd479148d1
-ASTRO Cricket ,p3p://focus169.org:25271/6431265d0001c1b519572503322821da
-好莱坞电影台,p3p://focus169.org:25271/681f654b000782669498cdf850503b77
-卫视电影台scm,p3p://focus169.org:25271/642525150008a4ecea725e071929091e
-美亚电影台,p3p://focus169.org:25271/642525310003ad3cea72ca2155c734c3
-Disney Junior,p3p://focus169.org:25271/642d447f000958c70a2cdbc45c491a3c
-Disney XD HD,p3p://focus169.org:25271/642d449000005ce40a2d1be045a92dbb
-Nick Jr ,p3p://focus169.org:25271/642d449d000ac1ec0a2d5151582b3dea
-Cartoon Network,p3p://focus169.org:25271/642d44aa0000eb420a2d81945bea5d17
-Nickelodeon ,p3p://focus169.org:25271/642d44b90006faed0a2dbdba7c9816e4
-Cartoon Network USA,p3p://focus169.org:25271/645fbdca000b25b2cf5588e126f826a4
-BBC Earth,p3p://focus169.org:25271/67f8aba70005e0effd547f80379a7488
-BBC Earth SONY,p3p://focus169.org:25271/67f8aad000038135fd51370c44c4360b
-历史频道2,p3p://focus169.org:25271/642521e0000042a6ea65d4db3e9d23f9
-EYE TV旅遊台,p3p://focus169.org:25271/642524030003a5b2ea6e2e6f6efc45a1
-亚洲旅游台,p3p://focus169.org:25271/642520f70001a86dea62470d303d34d3
-动物星球animal planet,p3p://focus169.org:25271/6425241f00027d03ea6e9b836b853b0b
-大爱电视,p3p://focus169.org:25271/6425225a0002859cea67b1ff6aaf6db6
-大爱二台,p3p://focus169.org:25271/64252264000022beea67d87308e9122e
-nickelodeon MUSIC,p3p://focus169.org:25271/6462700200081b15d9dd78b270197060
-Nick Music,p3p://focus169.org:25271/6462701400067a04d9ddbe98570c53f1
-Fox Soccer PlUS,p3p://focus169.org:25271/645fa495000c20bccef3121a77156b7a
-CINEMAX LATINO,p3p://focus169.org:25271/645fa937000e6330cf052b7426d66c5d
-nickelodeon TOONS HD,p3p://focus169.org:25271/645fbc7000073512cf50404d40471c58
-NICK JR,p3p://focus169.org:25271/646270f7000efc24d9e1377e6e776138
-History,p3p://focus169.org:25271/6463afa5000ae40edebe0e274b9f668b
-History 2,p3p://focus169.org:25271/6463afb1000d7464debe3daf571548ff
-CINEMAX MOREMAX,p3p://focus169.org:25271/64682c13000f0c0bf0441ce2648a038d
-BALLY SPORTS ARIZONA PLUS,p3p://focus169.org:25271/64682c4400013c70f044d8c23c785ebb
-tvn,p3p://focus169.org:25271/641a163c000a4f64bf40974c0cad0cce
-Disney어린이 ,p3p://focus169.org:25271/641a16b700065bbcbf4276c121e67572
-CTS Onstyle,p3p://focus169.org:25271/641a16f60006f6dabf436d0104342620
-SBS plus,p3p://focus169.org:25271/641a17b200050b2cbf464ae169a83ce6
+Channel 8,p3p://focus169.org:26571/642606be0002dd54ede3d8b40d6c04dc
+Channel 8(b),p3p://focus169.org:26571/642605590007b381edde676b090919b0
+Channel 5,p3p://focus169.org:26571/642606de000ae43dede457c221b81de1
+Channel 5(b),p3p://focus169.org:26571/642606cc000ea9beede41269137f162d
+Channel u,p3p://focus169.org:26571/642606fa000535beede4c3ae3202280b
+Channel u(b),p3p://focus169.org:26571/642606ee00041309ede4948330973faf
+AXN tw,p3p://focus169.org:26571/64137fb6000e2555a584d5f94945113b
+AXN tw2,p3p://focus169.org:26571/64137fed000660a5a585aad4055228a8
+AXN my,p3p://focus169.org:26571/6413800100002d47a585f75e0b4d15d4
+CINEMAX tw,p3p://focus169.org:26571/641380160003b61ca5864a4e3d49763a
+Cinemax my,p3p://focus169.org:26571/6413802a000969a0a58699e441aa3320
+Animax my,p3p://focus169.org:26571/6413803e00077f23a586e786585056af
+Animax tw,p3p://focus169.org:26571/6413807500012fe3a587bcbf2e6b7388
+Astro AEC(a),p3p://focus169.org:26571/64124c2d0006c6eba0d384f41e28720a
+Astro AEC(b),p3p://focus169.org:26571/64124c700006cf30a0d48aaf01411bf2
+Astro 全佳 Quanjia,p3p://focus169.org:26571/67d035dc000d05235f493a2940842b92
+Astro 欢喜 Huahee,p3p://focus169.org:26571/67d035a4000701b05f485dde16830637
+Astro双星 ShuangXing,p3p://focus169.org:26571/64124cd6000d2114a0d61abd59b301f5
+8TV,p3p://focus169.org:26571/64124384000000eda0b1af0f24c07c86
+8TV(b),p3p://focus169.org:26571/641243a500087b78a0b2322326f61656
+Astro Arena 1,p3p://focus169.org:26571/6412454a0000fbb4a0b89cb81723411e
+Astro Arena 1(b),p3p://focus169.org:26571/64124580000df2d5a0b972fa5e5d3940
+Astro Arena 2,p3p://focus169.org:26571/64124568000c643aa0b914d41041515b
+Astro Badminton 1,p3p://focus169.org:26571/671f18d8000c0d04ab73ed6c21864b80
+Astro Ria(a),p3p://focus169.org:26571/6412475a0001e9b4a0c0ab7757361ac3
+Astro Ria(b),p3p://focus169.org:26571/641248070002b154a0c34f73189527bb
+Astro Ria(d),p3p://focus169.org:26571/64124824000a5118a0c3c2af05400294
+Astro Prima (a),p3p://focus169.org:26571/6412483f000d7787a0c42cf514d31874
+Astro Prima (b),p3p://focus169.org:26571/641248560003257fa0c484296e73655f
+Astro Warna(a),p3p://focus169.org:26571/6412486f000d3f9ca0c4e86722ba3298
+Astro Warna(b),p3p://focus169.org:26571/6412488e00083532a0c5603560d334fe
+Astro Warna(c),p3p://focus169.org:26571/641248a6000225cba0c5bc684ca70c67
+Astro Oasis,p3p://focus169.org:26571/641248c4000c9a91a0c63446638407ba
+Astro Sensasi,p3p://focus169.org:26571/641248e100089063a0c6a4857a9e76f5
+Astro Aura,p3p://focus169.org:26571/6412490000029239a0c71c1415de4f23
+Astro Rania,p3p://focus169.org:26571/64124a04000b9fa4a0cb160c3ad51b32
+Astro Awani,p3p://focus169.org:26571/64124a1c000d2e3fa0cb743224ba1e56
+Astro Awani(b),p3p://focus169.org:26571/64124a3a00017fd2a0cbe6651aba048c
+Astro Ceria(a),p3p://focus169.org:26571/64124a76000afc5da0ccd33328db54d4
+Astro Citra,p3p://focus169.org:26571/64124a950004c142a0cd4ab321ff3eaa
+Astro Tutor UPSR,p3p://focus169.org:26571/64124ab1000a05e4a0cdb96c45713a25
+Astro Tutor SPM,p3p://focus169.org:26571/64124ad20003446da0ce389969675397
+TVN Movies,p3p://focus169.org:26571/64124b780007d1a1a0d0c23228543327
+TVN Sin,p3p://focus169.org:26571/64124bb50008793da0d1b0a6677f4152
+Astro AOD 351,p3p://focus169.org:26571/6427ba150003a8b2f48864c0637f78d5
+Astro AOD 352,p3p://focus169.org:26571/6427ba33000e1d77f488dc9d368a21a6
+Astro AOD 353,p3p://focus169.org:26571/6427ba4e000e68a7f4894628702a319e
+Astro AOD 354,p3p://focus169.org:26571/6427ba6b0002c078f489b4757d803340
+Astro AOD 355,p3p://focus169.org:26571/6427ba850008c867f48a1b90472f7860
+Astro 小太阳 Xiaotaiyang,p3p://focus169.org:26571/64124cfa00001c82a0d6a40858217ea4
+CCM 天映经典,p3p://focus169.org:26571/64124d990007b0aaa0d9131033d9354a
+CCM 天映经典 CN中英字幕,p3p://focus169.org:26571/64124dd500082194a0d9fd8d736a3dff
+Astro Cricket,p3p://focus169.org:26571/6413863000096560a59e215b32a17cc3
+Astro Vaanavil,p3p://focus169.org:26571/6413864100052c3da59e62ae01dd502f
+Astro Colors,p3p://focus169.org:26571/641386f70003798da5a1292811a2387f
+Astro Adithya,p3p://focus169.org:26571/6413872200000fa0a5a1d03f37ed2010
+Golf Channel USA my,p3p://focus169.org:26571/64311ed10003b7461939aaa6737c19fe
+Animal Planet,p3p://focus169.org:26571/64138361000ebac2a5932a2128c72b2e
+NatGeo,p3p://focus169.org:26571/6413837500016343a59374d77edf394b
+NatGeo Wild HD,p3p://focus169.org:26571/6413838c000428cca593cf656569021f
+HISTORY2,p3p://focus169.org:26571/641383a2000b3d73a59427257bb61a15
+BBC News HD,p3p://focus169.org:26571/641384e7000133cda5991a1b33cb3ea0
+Disney Channel,p3p://focus169.org:26571/6413851900016945a599dd79676c38
+SCTV (a),p3p://focus169.org:26571/64325cd7000a6a471e13f3cf797b77ae
+SCTV (b),p3p://focus169.org:26571/64325cec000c0b9c1e14464232a459fa
+cancel Astro Vaanavil,p3p://focus169.org:26571/6413864100052c3da59e62ae01dd502f
+NOW财经台,p3p://focus169.org:26571/67dd0d5300071ab09172ab3a56ad7555
+NOW直播台,p3p://focus169.org:26571/6417e77b0007feb1b6b9f4ca25bc6e04
+NOW新闻台,p3p://focus169.org:26571/68b068140004c9e4cb080a4e27bf524a
+BBC World News,p3p://focus169.org:26571/6465a784000201aee66e4af152371a81
+NOW 体育台,p3p://focus169.org:26571/6410211d00048968985b4de16d6e5b6a
+Astro Arena,p3p://focus169.org:26571/6412454a0000fbb4a0b89cb81723411e
+Golf Channel USA,p3p://focus169.org:26571/645fab54000b6df5cf0d6bfd479148d1
+ASTRO Cricket ,p3p://focus169.org:26571/6431265d0001c1b519572503322821da
+好莱坞电影台,p3p://focus169.org:26571/681f654b000782669498cdf850503b77
+卫视电影台scm,p3p://focus169.org:26571/642525150008a4ecea725e071929091e
+美亚电影台,p3p://focus169.org:26571/642525310003ad3cea72ca2155c734c3
+Disney Junior,p3p://focus169.org:26571/642d447f000958c70a2cdbc45c491a3c
+Disney XD HD,p3p://focus169.org:26571/642d449000005ce40a2d1be045a92dbb
+Nick Jr ,p3p://focus169.org:26571/642d449d000ac1ec0a2d5151582b3dea
+Cartoon Network,p3p://focus169.org:26571/642d44aa0000eb420a2d81945bea5d17
+Nickelodeon ,p3p://focus169.org:26571/642d44b90006faed0a2dbdba7c9816e4
+Cartoon Network USA,p3p://focus169.org:26571/645fbdca000b25b2cf5588e126f826a4
+BBC Earth,p3p://focus169.org:26571/67f8aba70005e0effd547f80379a7488
+BBC Earth SONY,p3p://focus169.org:26571/67f8aad000038135fd51370c44c4360b
+历史频道2,p3p://focus169.org:26571/642521e0000042a6ea65d4db3e9d23f9
+EYE TV旅遊台,p3p://focus169.org:26571/642524030003a5b2ea6e2e6f6efc45a1
+亚洲旅游台,p3p://focus169.org:26571/642520f70001a86dea62470d303d34d3
+动物星球animal planet,p3p://focus169.org:26571/6425241f00027d03ea6e9b836b853b0b
+大爱电视,p3p://focus169.org:26571/6425225a0002859cea67b1ff6aaf6db6
+大爱二台,p3p://focus169.org:26571/64252264000022beea67d87308e9122e
+nickelodeon MUSIC,p3p://focus169.org:26571/6462700200081b15d9dd78b270197060
+Nick Music,p3p://focus169.org:26571/6462701400067a04d9ddbe98570c53f1
+Fox Soccer PlUS,p3p://focus169.org:26571/645fa495000c20bccef3121a77156b7a
+CINEMAX LATINO,p3p://focus169.org:26571/645fa937000e6330cf052b7426d66c5d
+nickelodeon TOONS HD,p3p://focus169.org:26571/645fbc7000073512cf50404d40471c58
+NICK JR,p3p://focus169.org:26571/646270f7000efc24d9e1377e6e776138
+History,p3p://focus169.org:26571/6463afa5000ae40edebe0e274b9f668b
+History 2,p3p://focus169.org:26571/6463afb1000d7464debe3daf571548ff
+CINEMAX MOREMAX,p3p://focus169.org:26571/64682c13000f0c0bf0441ce2648a038d
+BALLY SPORTS ARIZONA PLUS,p3p://focus169.org:26571/64682c4400013c70f044d8c23c785ebb
+tvn,p3p://focus169.org:26571/641a163c000a4f64bf40974c0cad0cce
+Disney어린이 ,p3p://focus169.org:26571/641a16b700065bbcbf4276c121e67572
+CTS Onstyle,p3p://focus169.org:26571/641a16f60006f6dabf436d0104342620
+SBS plus,p3p://focus169.org:26571/641a17b200050b2cbf464ae169a83ce6
