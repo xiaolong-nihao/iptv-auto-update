@@ -1,6 +1,6 @@
 # 港澳台频道列表
-# 更新时间: 2026-06-20 06:20:18
-# 共 386 个频道
+# 更新时间: 2026-06-21 06:50:42
+# 共 388 个频道
 #genre#
 无线翡翠4k音,https://o11.163189.xyz/stream/tvb/fct4k/
 CCTV-01高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv1hd3000.m3u8
@@ -153,17 +153,19 @@ astroaec双语,https://o11.163189.xyz/stream/live/aec/
 astroiqiyi单国,https://o11.163189.xyz/stream/live/iqiyi/
 astro欢喜双语,https://o11.163189.xyz/stream/live/hxt/
 Astro AEC(c),https://sc2022.stream-link.org/tv2306.php?id=h25
-仰望星空慢直播,https://live.ottiptv.cc/huya/29465892
-TVB职场剧大全,https://live.ottiptv.cc/huya/23735153
+TVB追剧小能手,https://live.ottiptv.cc/huya/23865179
 小虎牙-pTSEbHriOn,https://live.ottiptv.cc/huya/23863796
+仰望星空慢直播,https://live.ottiptv.cc/huya/29465892
+探索世界科普,https://live.ottiptv.cc/huya/20985813
 迪士尼姐姐,https://live.ottiptv.cc/huya/29982656
 宇宙探索飞船,https://live.ottiptv.cc/douyu/9456028
 星空茶茶,https://live.ottiptv.cc/douyu/8635497
 欢喜冤家的爱情-夏日乐悠悠,https://live.ottiptv.cc/yy/1354936191
 国🔊21ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
-国'🔊21ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
-国🔊'21ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
-国🔊21'ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
+国🔊22ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
+国'🔊22ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
+国🔊'22ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
+国🔊22'ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
 澳视澳门Pdtv,http://rihou.cc:555/tv/[Pd]澳视澳门
 八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
 年代新闻欣赏,http://rihou.cc:555/tv/[Hk]年代新闻
