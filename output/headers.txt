@@ -1,6 +1,6 @@
 注意事项,#genre#
-国篮赛评,#genre#
 世界杯赛,#genre#
+国篮赛评,#genre#
 赛事精锦,#genre#
 赛事咪咕,#genre#
 央卫咪咕,#genre#
@@ -65,13 +65,13 @@ zonghe,#genre#
 game,#genre#
 car,#genre#
 
-06-23⬇️中国男篮系列热身赛⬇️🏀📡,http://rihou.cc:555/tv/t
 06-23⬇️世界杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-24⬇️世界杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-25⬇️世界杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-26⬇️世界杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-27⬇️世界杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-28⬇️世界杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
+06-23⬇️中国男篮系列热身赛⬇️🏀📡,http://rihou.cc:555/tv/t
 ⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
 ⬇️特闽新闻⬇️,http://rihou.cc:555/tv/v
 ⬇️特闽电影⬇️,http://rihou.cc:555/tv/v
