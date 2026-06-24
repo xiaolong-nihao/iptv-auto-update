@@ -1,6 +1,6 @@
 # 儿童频道列表
-# 更新时间: 2026-06-23 06:06:15
-# 共 32 个频道
+# 更新时间: 2026-06-24 06:06:10
+# 共 31 个频道
 #genre#
 广东少儿广州,http://tvtj1.jxwltx.com:8003/live1570.m3u8
 嘉佳卡通广州,http://tvtj1.jxwltx.com:8003/live1328.m3u8
@@ -15,17 +15,16 @@ PP看动漫,https://live.ottiptv.cc/douyu/9837291
 米粒儿动漫,https://live.ottiptv.cc/douyu/9445279
 皮皮动漫星球,https://live.ottiptv.cc/douyu/8841920
 蛋黄讲动漫,https://live.ottiptv.cc/douyu/9542834
+三新动漫,https://live.ottiptv.cc/douyu/9548279
 动漫推荐i,https://live.ottiptv.cc/douyu/5187099
 搞笑动漫大本营,https://live.ottiptv.cc/douyu/9650181
 17号说动漫,https://live.ottiptv.cc/douyu/9822277
-三新动漫,https://live.ottiptv.cc/douyu/9548279
-雨忆动漫,https://live.ottiptv.cc/douyu/9568700
 鑫酱盘动漫,https://live.ottiptv.cc/douyu/9547575
+雨忆动漫,https://live.ottiptv.cc/douyu/9568700
 动漫唯美風,https://live.ottiptv.cc/douyu/8912038
 杰克动漫,https://live.ottiptv.cc/huya/19757963
 乔我说动漫频道,https://live.ottiptv.cc/huya/17941367
-集集动漫社,https://live.ottiptv.cc/huya/29832558
-南南说动漫,https://live.ottiptv.cc/huya/30296754
+老P仔动漫,https://live.ottiptv.cc/huya/26510802
 动漫,https://live.ottiptv.cc/yy/26664495
 精彩动漫,https://live.ottiptv.cc/yy/1420843376
 国漫动漫,https://live.ottiptv.cc/yy/1354768828

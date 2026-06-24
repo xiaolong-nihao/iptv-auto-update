@@ -1,16 +1,16 @@
 # 央视频道列表
-# 更新时间: 2026-06-23 06:06:15
+# 更新时间: 2026-06-24 06:06:10
 # 共 18 个频道
 #genre#
-CCTV-5+高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv5phd3000.m3u8
-CCTV-10高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv10hd3000.m3u8
-CCTV-11高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv11hd3000.m3u8
-CCTV-12高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv12hd3000.m3u8
-CCTV-13高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv13hd3000.m3u8
-CCTV-14高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv17hd3000.m3u8
-CCTV-15高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv15hd3000.m3u8
-CCTV-16高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv16hd3000.m3u8
-CCTV-17高码,http://115.56.90.71:843/live02.hrtn.net/live/cctv14hd3000.m3u8
+CCTV-10广州,http://tvtj.jxwltx.com:8003/cctv10.m3u8
+CCTV-11广州,http://tvtj.jxwltx.com:8003/cctv11.m3u8
+CCTV-12广州,http://tvtj.jxwltx.com:8003/cctv12.m3u8
+CCTV-13广州,http://tvtj.jxwltx.com:8003/cctv13.m3u8
+CCTV-14广州,http://tvtj.jxwltx.com:8003/cctv14.m3u8
+CCTV-15广州,http://tvtj.jxwltx.com:8003/cctv15.m3u8
+CCTV-16广州,http://tvtj.jxwltx.com:8003/cctv5p.m3u8
+CCTV-17广州,http://tvtj.jxwltx.com:8003/cctv17.m3u8
+CCTV-5+咪咕,http://rihou.cc:555/tv/[mg]CCTV-5p
 CGTN-西咪咕,http://rihou.cc:555/tv/[mg]CGTN-西
 CGTN-阿咪咕,http://rihou.cc:555/tv/[mg]CGTN-阿
 CGTN-法咪咕,http://rihou.cc:555/tv/[mg]CGTN-法
