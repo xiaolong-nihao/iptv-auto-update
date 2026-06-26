@@ -1,8 +1,10 @@
 注意事项,#genre#
-世界杯赛,#genre#
+村超赛评,#genre#
 中超赛评,#genre#
+世杯小组,#genre#
 6/27赛事,#genre#
 6/28赛事,#genre#
+世杯16强,#genre#
 赛事精锦,#genre#
 赛事咪咕,#genre#
 央卫咪咕,#genre#
@@ -66,10 +68,12 @@ zonghe,#genre#
 game,#genre#
 car,#genre#
 
-06-26⬇️世界杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
+06-26⬇️贵州村超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
+06-26⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-27⬇️世界杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-28⬇️世界杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
-06-26⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
+06-27⬇️贵州村超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
+06-27⬇️云南省城市足球联赛半决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-27⬇️广东省城市足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-27⬇️内蒙古足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-27⬇️山东省齐鲁足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
@@ -83,11 +87,13 @@ car,#genre#
 06-27⬇️粤BA常规赛🏀📡,http://rihou.cc:555/tv/t
 06-27⬇️四川省城市足球联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-27⬇️苏超常规赛第11周⬇️⚽📡,http://rihou.cc:555/tv/t
+06-28⬇️贵州村超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-28⬇️内蒙古足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-28⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-28⬇️新疆足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-28⬇️山东省齐鲁足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-28⬇️甘肃省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
+06-29⬇️世界杯1/16决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 ⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
 ⬇️特闽新闻⬇️,http://rihou.cc:555/tv/v
 ⬇️特闽电影⬇️,http://rihou.cc:555/tv/v
