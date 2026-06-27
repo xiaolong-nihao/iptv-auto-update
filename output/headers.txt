@@ -1,8 +1,20 @@
 注意事项,#genre#
-村超赛评,#genre#
-中超赛评,#genre#
 世杯小组,#genre#
-6/27赛事,#genre#
+村超赛评,#genre#
+滇超赛评,#genre#
+粤超赛评,#genre#
+蒙超赛评,#genre#
+鲁超赛评,#genre#
+陇超赛评,#genre#
+疆超赛评,#genre#
+东北超赛,#genre#
+闽超赛评,#genre#
+中超赛评,#genre#
+鄂超赛评,#genre#
+赣超赛评,#genre#
+粤BA赛评,#genre#
+川超赛评,#genre#
+苏超赛评,#genre#
 6/28赛事,#genre#
 世杯16强,#genre#
 赛事精锦,#genre#
@@ -68,8 +80,6 @@ zonghe,#genre#
 game,#genre#
 car,#genre#
 
-06-26⬇️贵州村超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-06-26⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-27⬇️世界杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-28⬇️世界杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-27⬇️贵州村超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
@@ -94,6 +104,7 @@ car,#genre#
 06-28⬇️山东省齐鲁足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-28⬇️甘肃省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-29⬇️世界杯1/16决赛⬇️⚽📡,http://rihou.cc:555/tv/t
+06-30⬇️世界杯1/16决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 ⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
 ⬇️特闽新闻⬇️,http://rihou.cc:555/tv/v
 ⬇️特闽电影⬇️,http://rihou.cc:555/tv/v
