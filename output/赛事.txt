@@ -1,17 +1,19 @@
 # 赛事频道列表
-# 更新时间: 2026-06-27 05:52:47
-# 共 183 个频道
+# 更新时间: 2026-06-28 06:17:12
+# 共 180 个频道
 #genre#
 赛事咪咕播4k,http://feilong123.vip/409990236/iptv/gdy.php?id=7
 广东体育广州,http://tvtj1.jxwltx.com:8003/live2915.m3u8
-汇竞技,https://live.ottiptv.cc/douyu/12837494
 摇滚足球本,https://live.ottiptv.cc/huya/29982616
+世界格斗场,https://live.ottiptv.cc/huya/11352969
 最篮球,https://live.ottiptv.cc/huya/29982651
+吐槽运动,https://live.ottiptv.cc/huya/11342436
 大头猴足球,https://live.ottiptv.cc/huya/29982605
-足球TOP,https://live.ottiptv.cc/huya/29982607
 哈拉少足球,https://live.ottiptv.cc/huya/29982619
-治霖足球故事,https://live.ottiptv.cc/huya/29982606
+足球TOP,https://live.ottiptv.cc/huya/29982607
+雨燕体育直播,https://live.ottiptv.cc/huya/29982618
 亚运体育7号台,https://live.ottiptv.cc/huya/136154
+治霖足球故事,https://live.ottiptv.cc/huya/29982606
 篮球人物,https://live.ottiptv.cc/douyu/8434598
 篮球过人技巧,https://live.ottiptv.cc/douyu/9406897
 篮球小人物,https://live.ottiptv.cc/douyu/9184257
@@ -20,7 +22,7 @@
 篮球之家老李,https://live.ottiptv.cc/douyu/9170147
 屿风体育,https://live.ottiptv.cc/douyu/10329889
 拳击大王,https://live.ottiptv.cc/douyu/9385340
-黄金赛事,https://live.ottiptv.cc/douyu/12701197
+小虎牙体育,https://live.ottiptv.cc/huya/29812501
 我的体育老师,https://live.ottiptv.cc/yy/1382745169
 鸭子天空-翱翔于篮球的梦想,https://live.ottiptv.cc/yy/1354930894
 拳拳到肉，搏击燃情,https://live.ottiptv.cc/yy/1382736870
@@ -56,27 +58,22 @@
 赛事咪咕播30,http://feilong123.vip/409990236/iptv/gdy.php?id=22
 赛事咪咕播31,http://feilong123.vip/409990236/iptv/gdy.php?id=16
 赛事咪咕播32,http://feilong123.vip/409990236/iptv/gdy.php?id=19
-粤🔊27广东体育,http://rihou.cc:555/tv/[At|]广东体育
-粤🔊28广东体育,http://rihou.cc:555/tv/[At|]广东体育
-粤'🔊28广东体育,http://rihou.cc:555/tv/[At|]广东体育
-粤🔊28'广东体育,http://rihou.cc:555/tv/[At|]广东体育
-14:30场坝大河口将军岩队🆚俾吊岑村足球队,http://rihou.cc:555/tv/v
-16:30车江二村足球队🆚富民村足球队,http://rihou.cc:555/tv/v
-20:30小堡村足球队🆚色边村足球队,http://rihou.cc:555/tv/v
 12:30大利村🆚阳光村足球队,http://rihou.cc:555/tv/v
 14:30场坝龙泉井村队🆚水尾村足球队,http://rihou.cc:555/tv/v
 16:30党调村贵州村徒队🆚安乐村足球队,http://rihou.cc:555/tv/v
 18:30忠诚村足球队🆚车江一村足球队,http://rihou.cc:555/tv/v
-世赛赛事回放,http://rihou.cc:555/tv/世赛回放赛27
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛27
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛27
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛27
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛27
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛27
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛27
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛27
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛27
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛27
+20:30仁吉村村牛足球队🆚扒王村足球队,http://rihou.cc:555/tv/v
+粤🔊29广东体育,http://rihou.cc:555/tv/[At|]广东体育
+世赛赛事回放,http://rihou.cc:555/tv/世赛回放赛29
+联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛29
+NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛29
+羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛29
+橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛29
+乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛29
+网球赛事回放,http://rihou.cc:555/tv/网球回放赛29
+排球赛事回放,http://rihou.cc:555/tv/排球回放赛29
+格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛29
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛29
 赛事睛彩竞技,http://feilong123.vip/409990236/iptv/gdy.php?id=18
 赛事睛彩篮球,http://feilong123.vip/409990236/iptv/gdy.php?id=2
 赛事睛彩青少,http://feilong123.vip/409990236/iptv/gdy.php?id=1
