@@ -1,10 +1,4 @@
 注意事项,#genre#
-村超赛事,#genre#
-蒙超赛事,#genre#
-中超赛事,#genre#
-疆超赛事,#genre#
-鲁超赛事,#genre#
-陇超赛事,#genre#
 世杯16强,#genre#
 赛事精锦,#genre#
 赛事咪咕,#genre#
@@ -69,13 +63,6 @@ zonghe,#genre#
 game,#genre#
 car,#genre#
 
-06-28⬇️贵州村超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-06-28⬇️内蒙古足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-06-28⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-06-28⬇️新疆足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-06-28⬇️山东省齐鲁足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-06-28⬇️甘肃省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-06-29⬇️世界杯1/16决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 06-30⬇️世界杯1/16决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-01⬇️世界杯1/16决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-02⬇️世界杯1/16决赛⬇️⚽📡,http://rihou.cc:555/tv/t

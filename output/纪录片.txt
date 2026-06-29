@@ -1,9 +1,10 @@
 # 纪录片频道列表
-# 更新时间: 2026-06-28 06:17:12
-# 共 5 个频道
+# 更新时间: 2026-06-29 06:46:08
+# 共 6 个频道
 #genre#
 正经纪录片,https://live.ottiptv.cc/huya/23860049
 纪录片之家字幕组,https://live.ottiptv.cc/douyu/8834003
 世界纪录大全,https://live.ottiptv.cc/douyu/9406359
+纪录华夏,https://live.ottiptv.cc/douyu/11916256
 老广的味道 第3季-美食纪录片,https://live.ottiptv.cc/yy/1382735565
 中国味道 第4季-美食纪录片,https://live.ottiptv.cc/yy/1382736845
