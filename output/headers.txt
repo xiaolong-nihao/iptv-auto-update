@@ -64,7 +64,6 @@ zonghe,#genre#
 game,#genre#
 car,#genre#
 
-07-02⬇️世界杯1/16决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-03⬇️世界杯1/16决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-04⬇️世界杯1/16决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-05⬇️世界杯1/8决赛⬇️⚽📡,http://rihou.cc:555/tv/t

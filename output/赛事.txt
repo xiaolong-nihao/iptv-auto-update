@@ -1,17 +1,16 @@
 # 赛事频道列表
-# 更新时间: 2026-07-01 06:25:39
-# 共 185 个频道
+# 更新时间: 2026-07-02 05:58:25
+# 共 181 个频道
 #genre#
 赛事咪咕播4k,http://feilong123.vip/409990236/iptv/gdy.php?id=7
 广东体育广州,http://tvtj1.jxwltx.com:8003/live2915.m3u8
 摇滚足球本,https://live.ottiptv.cc/huya/29982616
+吐槽运动,https://live.ottiptv.cc/huya/11342436
 最篮球,https://live.ottiptv.cc/huya/29982651
 大头猴足球,https://live.ottiptv.cc/huya/29982605
 世界格斗场,https://live.ottiptv.cc/huya/11352969
-足球TOP,https://live.ottiptv.cc/huya/29982607
-雨燕体育直播,https://live.ottiptv.cc/huya/29982618
-亚运体育7号台,https://live.ottiptv.cc/huya/136154
 治霖足球故事,https://live.ottiptv.cc/huya/29982606
+亚运体育7号台,https://live.ottiptv.cc/huya/136154
 哈拉少足球,https://live.ottiptv.cc/huya/29982619
 篮球人物,https://live.ottiptv.cc/douyu/8434598
 篮球过人技巧,https://live.ottiptv.cc/douyu/9406897
@@ -56,9 +55,6 @@
 赛事咪咕播30,http://feilong123.vip/409990236/iptv/gdy.php?id=22
 赛事咪咕播31,http://feilong123.vip/409990236/iptv/gdy.php?id=16
 赛事咪咕播32,http://feilong123.vip/409990236/iptv/gdy.php?id=19
-粤🔊02广东体育,http://rihou.cc:555/tv/[At|]广东体育
-粤'🔊02广东体育,http://rihou.cc:555/tv/[At|]广东体育
-粤🔊'02广东体育,http://rihou.cc:555/tv/[At|]广东体育
 粤🔊03广东体育,http://rihou.cc:555/tv/[At|]广东体育
 粤'🔊03广东体育,http://rihou.cc:555/tv/[At|]广东体育
 粤🔊'03广东体育,http://rihou.cc:555/tv/[At|]广东体育
@@ -69,16 +65,16 @@
 粤'🔊05广东体育,http://rihou.cc:555/tv/[At|]广东体育
 粤🔊06广东体育,http://rihou.cc:555/tv/[At|]广东体育
 粤'🔊06广东体育,http://rihou.cc:555/tv/[At|]广东体育
-世赛赛事回放,http://rihou.cc:555/tv/世赛回放赛02
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛02
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛02
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛02
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛02
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛02
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛02
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛02
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛02
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛02
+世赛赛事回放,http://rihou.cc:555/tv/世赛回放赛03
+联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛03
+NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛03
+羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛03
+橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛03
+乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛03
+网球赛事回放,http://rihou.cc:555/tv/网球回放赛03
+排球赛事回放,http://rihou.cc:555/tv/排球回放赛03
+格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛03
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛03
 赛事睛彩竞技,http://feilong123.vip/409990236/iptv/gdy.php?id=18
 赛事睛彩篮球,http://feilong123.vip/409990236/iptv/gdy.php?id=2
 赛事睛彩青少,http://feilong123.vip/409990236/iptv/gdy.php?id=1
