@@ -1,17 +1,19 @@
 # 赛事频道列表
-# 更新时间: 2026-07-02 05:58:25
-# 共 181 个频道
+# 更新时间: 2026-07-03 05:52:44
+# 共 191 个频道
 #genre#
 赛事咪咕播4k,http://feilong123.vip/409990236/iptv/gdy.php?id=7
 广东体育广州,http://tvtj1.jxwltx.com:8003/live2915.m3u8
-摇滚足球本,https://live.ottiptv.cc/huya/29982616
-吐槽运动,https://live.ottiptv.cc/huya/11342436
 最篮球,https://live.ottiptv.cc/huya/29982651
+吐槽运动,https://live.ottiptv.cc/huya/11342436
+摇滚足球本,https://live.ottiptv.cc/huya/29982616
 大头猴足球,https://live.ottiptv.cc/huya/29982605
 世界格斗场,https://live.ottiptv.cc/huya/11352969
+足球TOP,https://live.ottiptv.cc/huya/29982607
+雨燕体育直播,https://live.ottiptv.cc/huya/29982618
+哈拉少足球,https://live.ottiptv.cc/huya/29982619
 治霖足球故事,https://live.ottiptv.cc/huya/29982606
 亚运体育7号台,https://live.ottiptv.cc/huya/136154
-哈拉少足球,https://live.ottiptv.cc/huya/29982619
 篮球人物,https://live.ottiptv.cc/douyu/8434598
 篮球过人技巧,https://live.ottiptv.cc/douyu/9406897
 篮球小人物,https://live.ottiptv.cc/douyu/9184257
@@ -56,15 +58,23 @@
 赛事咪咕播31,http://feilong123.vip/409990236/iptv/gdy.php?id=16
 赛事咪咕播32,http://feilong123.vip/409990236/iptv/gdy.php?id=19
 粤🔊03广东体育,http://rihou.cc:555/tv/[At|]广东体育
-粤'🔊03广东体育,http://rihou.cc:555/tv/[At|]广东体育
-粤🔊'03广东体育,http://rihou.cc:555/tv/[At|]广东体育
 粤🔊04广东体育,http://rihou.cc:555/tv/[At|]广东体育
 粤'🔊04广东体育,http://rihou.cc:555/tv/[At|]广东体育
 粤🔊'04广东体育,http://rihou.cc:555/tv/[At|]广东体育
+16:30扒王村足球队🆚寿洞村足球队,http://rihou.cc:555/tv/v
+18:30水尾村足球队🆚车江二村足球队,http://rihou.cc:555/tv/v
+20:30富民村足球队🆚阳光村足球队,http://rihou.cc:555/tv/v
+22:30大利村足球队🆚腊酉村足球队,http://rihou.cc:555/tv/v
+13:00忠诚村足球队🆚小堡村足球队,http://rihou.cc:555/tv/v
+15:00平永村足球队🆚高硐村足球队,http://rihou.cc:555/tv/v
+18:00车江一村足球队🆚大利村足球队,http://rihou.cc:555/tv/v
+20:00俾吊岑村足球队🆚党调村贵州村徒队,http://rihou.cc:555/tv/v
 粤🔊05广东体育,http://rihou.cc:555/tv/[At|]广东体育
 粤'🔊05广东体育,http://rihou.cc:555/tv/[At|]广东体育
 粤🔊06广东体育,http://rihou.cc:555/tv/[At|]广东体育
 粤'🔊06广东体育,http://rihou.cc:555/tv/[At|]广东体育
+16:30安乐村足球队🆚仁吉村村牛足球队,http://rihou.cc:555/tv/v
+18:30腊酉村足球队🆚色边村足球队,http://rihou.cc:555/tv/v
 世赛赛事回放,http://rihou.cc:555/tv/世赛回放赛03
 联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛03
 NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛03
