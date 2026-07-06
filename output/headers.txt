@@ -1,12 +1,4 @@
 注意事项,#genre#
-鲁超赛评,#genre#
-村超赛评,#genre#
-中超赛评,#genre#
-疆超赛评,#genre#
-赣超赛评,#genre#
-川超赛评,#genre#
-国青赛评,#genre#
-粤超赛评,#genre#
 世杯八强,#genre#
 世杯四强,#genre#
 赛事精锦,#genre#
@@ -72,18 +64,11 @@ zonghe,#genre#
 game,#genre#
 car,#genre#
 
-07-05⬇️山东省齐鲁超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-07-05⬇️贵州村超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-07-05⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-07-05⬇️新疆足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-07-05⬇️江西省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-07-05⬇️四川省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-07-05⬇️中国之队·银川国际青年足球锦标赛⬇️⚽📡,http://rihou.cc:555/tv/t
-07-05⬇️广东省城市足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-07-06⬇️世界杯1/8决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-07⬇️世界杯1/8决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-08⬇️世界杯1/8决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-10⬇️世界杯1/4决赛⬇️⚽📡,http://rihou.cc:555/tv/t
+07-11⬇️世界杯1/4决赛⬇️⚽📡,http://rihou.cc:555/tv/t
+07-12⬇️世界杯1/4决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 ⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
 ⬇️特闽新闻⬇️,http://rihou.cc:555/tv/v
 ⬇️特闽电影⬇️,http://rihou.cc:555/tv/v
