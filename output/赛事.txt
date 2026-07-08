@@ -1,25 +1,28 @@
 # 赛事频道列表
-# 更新时间: 2026-07-07 06:06:53
-# 共 177 个频道
+# 更新时间: 2026-07-08 05:20:17
+# 共 178 个频道
 #genre#
 赛事咪咕播4k,http://feilong123.vip/409990236/iptv/gdy.php?id=7
 广东体育广州,http://tvtj1.jxwltx.com:8003/live2915.m3u8
 最篮球,https://live.ottiptv.cc/huya/29982651
-吐槽运动,https://live.ottiptv.cc/huya/11342436
+摇滚足球本,https://live.ottiptv.cc/huya/29982616
 大头猴足球,https://live.ottiptv.cc/huya/29982605
-哈拉少足球,https://live.ottiptv.cc/huya/29982619
 世界格斗场,https://live.ottiptv.cc/huya/11352969
+吐槽运动,https://live.ottiptv.cc/huya/11342436
+治霖足球故事,https://live.ottiptv.cc/huya/29982606
+哈拉少足球,https://live.ottiptv.cc/huya/29982619
 雨燕体育直播,https://live.ottiptv.cc/huya/29982618
-亚运体育7号台,https://live.ottiptv.cc/huya/136154
 足球TOP,https://live.ottiptv.cc/huya/29982607
+亚运体育7号台,https://live.ottiptv.cc/huya/136154
 篮球人物,https://live.ottiptv.cc/douyu/8434598
 篮球过人技巧,https://live.ottiptv.cc/douyu/9406897
 篮球小人物,https://live.ottiptv.cc/douyu/9184257
 篮球长镜头,https://live.ottiptv.cc/douyu/9399887
 绘说篮球C,https://live.ottiptv.cc/douyu/9401305
 篮球之家老李,https://live.ottiptv.cc/douyu/9170147
-屿风体育,https://live.ottiptv.cc/douyu/10329889
 拳击大王,https://live.ottiptv.cc/douyu/9385340
+屿风体育,https://live.ottiptv.cc/douyu/10329889
+小虎牙体育,https://live.ottiptv.cc/huya/29812501
 我的体育老师,https://live.ottiptv.cc/yy/1382745169
 鸭子天空-翱翔于篮球的梦想,https://live.ottiptv.cc/yy/1354930894
 拳拳到肉，搏击燃情,https://live.ottiptv.cc/yy/1382736870
@@ -55,22 +58,20 @@
 赛事咪咕播30,http://feilong123.vip/409990236/iptv/gdy.php?id=22
 赛事咪咕播31,http://feilong123.vip/409990236/iptv/gdy.php?id=16
 赛事咪咕播32,http://feilong123.vip/409990236/iptv/gdy.php?id=19
-粤🔊08广东体育,http://rihou.cc:555/tv/[At|]广东体育
-粤'🔊08广东体育,http://rihou.cc:555/tv/[At|]广东体育
 粤🔊10广东体育,http://rihou.cc:555/tv/[At|]广东体育
 粤🔊11广东体育,http://rihou.cc:555/tv/[At|]广东体育
 粤🔊12广东体育,http://rihou.cc:555/tv/[At|]广东体育
 粤'🔊12广东体育,http://rihou.cc:555/tv/[At|]广东体育
-世赛赛事回放,http://rihou.cc:555/tv/世赛回放赛07
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛07
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛07
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛07
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛07
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛07
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛07
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛07
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛07
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛07
+世赛赛事回放,http://rihou.cc:555/tv/世赛回放赛08
+联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛08
+NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛08
+羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛08
+橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛08
+乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛08
+网球赛事回放,http://rihou.cc:555/tv/网球回放赛08
+排球赛事回放,http://rihou.cc:555/tv/排球回放赛08
+格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛08
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛08
 赛事睛彩竞技,http://feilong123.vip/409990236/iptv/gdy.php?id=18
 赛事睛彩篮球,http://feilong123.vip/409990236/iptv/gdy.php?id=2
 赛事睛彩青少,http://feilong123.vip/409990236/iptv/gdy.php?id=1
