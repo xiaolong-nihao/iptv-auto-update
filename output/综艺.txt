@@ -1,5 +1,5 @@
 # 综艺频道列表
-# 更新时间: 2026-07-09 06:13:40
+# 更新时间: 2026-07-10 06:02:40
 # 共 58 个频道
 #genre#
 中天娱乐频道,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -14,9 +14,9 @@
 宋小宝小品,https://live.ottiptv.cc/douyu/9817729
 许君聪经典小品,https://live.ottiptv.cc/douyu/10419558
 3030相声小品,https://live.ottiptv.cc/douyu/9286868
-娱乐扒叔,https://live.ottiptv.cc/douyu/9624581
 淮秀帮官方,https://live.ottiptv.cc/douyu/2519745
 fans圈娱乐,https://live.ottiptv.cc/douyu/9630581
+娱乐扒叔,https://live.ottiptv.cc/douyu/9624581
 秀才侃娱乐,https://live.ottiptv.cc/douyu/9382873
 娱乐新番,https://live.ottiptv.cc/douyu/9564845
 LX娱乐-招主播,https://live.ottiptv.cc/huya/28259384
@@ -56,7 +56,7 @@ LX娱乐-招主播,https://live.ottiptv.cc/huya/28259384
 喜剧虎牙频道,http://120.220.76.91:2003/huya.php?id=11352877
 喜剧专场频道,http://120.220.76.91:2003/huya.php?id=11602044
 搞笑喜剧频道,http://120.220.76.91:2003/huya.php?id=11342423
-Comedy Central ,p3p://focus169.org:26571/6413853b000926c2a59a644430b12c08
-Supersport Variety 3 USA,p3p://focus169.org:26571/6463a90d000d7e9adea44d0a511a6930
-Supersport Variety 3,p3p://focus169.org:26571/6463a90d000d7e9adea44d0a511a6930
-Supersport Variety 4,p3p://focus169.org:26571/6463a926000e1336dea4aed876667f60
+Comedy Central ,p3p://focus169.org:36826/6413853b000926c2a59a644430b12c08
+Supersport Variety 3 USA,p3p://focus169.org:36826/6463a90d000d7e9adea44d0a511a6930
+Supersport Variety 3,p3p://focus169.org:36826/6463a90d000d7e9adea44d0a511a6930
+Supersport Variety 4,p3p://focus169.org:36826/6463a926000e1336dea4aed876667f60

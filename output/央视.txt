@@ -1,5 +1,5 @@
 # 央视频道列表
-# 更新时间: 2026-07-09 06:13:40
+# 更新时间: 2026-07-10 06:02:40
 # 共 18 个频道
 #genre#
 CCTV-16咪咕,http://58.255.201.70:10443/tsfile/live/10011.m3u8
@@ -17,6 +17,6 @@ CGTN-法咪咕,http://116.52.28.98:8877/609006476
 央视综合Pdtv,http://rihou.cc:555/tv/[Pd]央视综合
 央视新闻直播,video://https://live.douyin.com/282773369501
 央视新闻抖播,video://https://live.douyin.com/282773369501
-CCTV-4 ,p3p://focus169.org:26571/67dcfe77000b52d79138a0ed4cc7303a
-CCTV-5 ,p3p://focus169.org:26571/68b063570001c261caf5873a28f36cae
-CCTV-6,p3p://focus169.org:26571/64260cc800087ffdedfb712c61a06569
+CCTV-4 ,p3p://focus169.org:36826/67dcfe77000b52d79138a0ed4cc7303a
+CCTV-5 ,p3p://focus169.org:36826/68b063570001c261caf5873a28f36cae
+CCTV-6,p3p://focus169.org:36826/64260cc800087ffdedfb712c61a06569

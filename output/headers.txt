@@ -1,8 +1,24 @@
 注意事项,#genre#
-世杯四强,#genre#
 村超赛评,#genre#
+滇超赛评,#genre#
 中超赛评,#genre#
-7/11赛事,#genre#
+世杯四强,#genre#
+蒙超赛评',#genre#
+村超赛评',#genre#
+鲁超赛评',#genre#
+闽超赛评',#genre#
+陇超赛评',#genre#
+中超赛评',#genre#
+鄂超赛评',#genre#
+滇超赛评',#genre#
+赣超赛评',#genre#
+粤超赛评',#genre#
+粤BA赛评',#genre#
+国青赛评',#genre#
+东北超赛',#genre#
+川超赛评',#genre#
+苏超赛评',#genre#
+疆超赛评',#genre#
 7/12赛事,#genre#
 赛事精锦,#genre#
 赛事咪咕,#genre#
@@ -67,11 +83,11 @@ zonghe,#genre#
 game,#genre#
 car,#genre#
 
-07-10⬇️世界杯1/4决赛⬇️⚽📡,http://rihou.cc:555/tv/t
+07-10⬇️贵州村超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
+07-10⬇️云南省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
+07-10⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-11⬇️世界杯1/4决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-12⬇️世界杯1/4决赛⬇️⚽📡,http://rihou.cc:555/tv/t
-07-10⬇️贵州村超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-07-10⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-11⬇️内蒙古足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-11⬇️贵州村超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-11⬇️山东省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
@@ -79,8 +95,10 @@ car,#genre#
 07-11⬇️甘肃省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-11⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-11⬇️湖北省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
+07-11⬇️云南省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-11⬇️江西省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-11⬇️广东省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
+07-11⬇️粤BA季军赛首回合⬇️🏀📡,http://rihou.cc:555/tv/t
 07-11⬇️银川国际青年足球锦标赛 第3轮⬇️⚽📡,http://rihou.cc:555/tv/t
 07-11⬇️东北地区足球超级赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-11⬇️四川省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t

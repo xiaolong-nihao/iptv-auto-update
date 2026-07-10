@@ -1,27 +1,28 @@
 # 赛事频道列表
-# 更新时间: 2026-07-09 06:13:40
+# 更新时间: 2026-07-10 06:02:40
 # 共 188 个频道
 #genre#
 赛事咪咕播4k,http://156.233.226.200:65486/其他/咪咕五大联赛4K-1?cors
 赛事至臻视界,http://156.233.226.200:65486/其他/移动咪咕五大联赛4K-2?cors
 广东体育广州,http://tvtj1.jxwltx.com:8003/live2915.m3u8
-摇滚足球本,https://live.ottiptv.cc/huya/29982616
 吐槽运动,https://live.ottiptv.cc/huya/11342436
-最篮球,https://live.ottiptv.cc/huya/29982651
+摇滚足球本,https://live.ottiptv.cc/huya/29982616
 大头猴足球,https://live.ottiptv.cc/huya/29982605
-世界格斗场,https://live.ottiptv.cc/huya/11352969
-足球TOP,https://live.ottiptv.cc/huya/29982607
-哈拉少足球,https://live.ottiptv.cc/huya/29982619
-治霖足球故事,https://live.ottiptv.cc/huya/29982606
+最篮球,https://live.ottiptv.cc/huya/29982651
 雨燕体育直播,https://live.ottiptv.cc/huya/29982618
+足球TOP,https://live.ottiptv.cc/huya/29982607
+亚运体育7号台,https://live.ottiptv.cc/huya/136154
+哈拉少足球,https://live.ottiptv.cc/huya/29982619
+世界格斗场,https://live.ottiptv.cc/huya/11352969
+治霖足球故事,https://live.ottiptv.cc/huya/29982606
 篮球人物,https://live.ottiptv.cc/douyu/8434598
 篮球过人技巧,https://live.ottiptv.cc/douyu/9406897
 篮球小人物,https://live.ottiptv.cc/douyu/9184257
 篮球长镜头,https://live.ottiptv.cc/douyu/9399887
 绘说篮球C,https://live.ottiptv.cc/douyu/9401305
 篮球之家老李,https://live.ottiptv.cc/douyu/9170147
-屿风体育,https://live.ottiptv.cc/douyu/10329889
 拳击大王,https://live.ottiptv.cc/douyu/9385340
+屿风体育,https://live.ottiptv.cc/douyu/10329889
 小虎牙体育,https://live.ottiptv.cc/huya/29812501
 我的体育老师,https://live.ottiptv.cc/yy/1382745169
 鸭子天空-翱翔于篮球的梦想,https://live.ottiptv.cc/yy/1354930894
@@ -58,13 +59,12 @@
 赛事咪咕播30,http://feilong123.vip/409990236/iptv/gdy.php?id=22
 赛事咪咕播31,http://feilong123.vip/409990236/iptv/gdy.php?id=16
 赛事咪咕播32,http://feilong123.vip/409990236/iptv/gdy.php?id=19
-粤🔊10广东体育,http://rihou.cc:555/tv/[At|]广东体育
-粤🔊11广东体育,http://rihou.cc:555/tv/[At|]广东体育
-粤🔊12广东体育,http://rihou.cc:555/tv/[At|]广东体育
-粤'🔊12广东体育,http://rihou.cc:555/tv/[At|]广东体育
 16:30大利村足球队🆚水尾村足球队,http://rihou.cc:555/tv/v
 18:30仁吉村村牛足球队🆚党调村贵州村徒队,http://rihou.cc:555/tv/v
 20:30俾吊岑村足球队🆚党相村塔石羊瘪队,http://rihou.cc:555/tv/v
+粤🔊11广东体育,http://rihou.cc:555/tv/[At|]广东体育
+粤🔊12广东体育,http://rihou.cc:555/tv/[At|]广东体育
+粤'🔊12广东体育,http://rihou.cc:555/tv/[At|]广东体育
 14:30场坝大河口将军岩队🆚平永村足球队,http://rihou.cc:555/tv/v
 16:30寿洞村足球队🆚安乐村足球队,http://rihou.cc:555/tv/v
 20:30小堡村足球队🆚场坝龙泉井村队,http://rihou.cc:555/tv/v
@@ -73,16 +73,16 @@
 18:30色边村足球队🆚富民村足球队,http://rihou.cc:555/tv/v
 20:30车江二村足球队🆚车江一村足球队,http://rihou.cc:555/tv/v
 22:30党相村塔石羊瘪队🆚寿洞村足球队,http://rihou.cc:555/tv/v
-世赛赛事回放,http://rihou.cc:555/tv/世赛回放赛10
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛10
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛10
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛10
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛10
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛10
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛10
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛10
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛10
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛10
+世赛赛事回放,http://rihou.cc:555/tv/世赛回放赛11
+联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛11
+NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛11
+羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛11
+橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛11
+乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛11
+网球赛事回放,http://rihou.cc:555/tv/网球回放赛11
+排球赛事回放,http://rihou.cc:555/tv/排球回放赛11
+格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛11
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛11
 赛事睛彩竞技,http://156.233.226.200:65486/其他/睛彩竞技?cors
 赛事睛彩广场,http://156.233.226.200:65486/其他/睛彩广场舞?cors
 赛事睛彩篮球,http://feilong123.vip/409990236/iptv/gdy.php?id=2
@@ -94,8 +94,8 @@ WWE格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 足球小将解说,http://120.220.76.91:2003/huya.php?id=25725150
 DAZN-体育壹,rtmp://f13h.mine.nu/sat/tv731
 DAZN-体育贰,rtmp://f13h.mine.nu/sat/tv741
-CH288赛马陆,p3p://focus169.org:26571/6533f484000c2b3e2cfa19b55cab3b9b
-CH289赛马陆,p3p://focus169.org:26571/6533f5040003559d2cfc0b7268db0ab8
+CH288赛马陆,p3p://focus169.org:36826/6533f484000c2b3e2cfa19b55cab3b9b
+CH289赛马陆,p3p://focus169.org:36826/6533f5040003559d2cfc0b7268db0ab8
 广东体育抖页,video://https://live.douyin.com/137995681287
 广竞体育抖页,video://https://live.douyin.com/802006140488
 优酷体育抖页,video://https://live.douyin.com/645565226352
@@ -124,69 +124,69 @@ CH289赛马陆,p3p://focus169.org:26571/6533f5040003559d2cfc0b7268db0ab8
 辽宁足球抖页,video://https://live.douyin.com/838385022891
 广竞体育直播,video://https://live.douyin.com/802006140488
 广竞体育抖播,video://https://live.douyin.com/802006140488
-SUPER Sports CH11,p3p://focus169.org:26571/682cef2c0000819cc97aefff0ab433ee
-Golf Channel tw,p3p://focus169.org:26571/64311ec30002641e1939739f2a9f6e82
-Golf SuperSports ,p3p://focus169.org:26571/64311edf000047af1939e0754ac733f5
-BeIN Sports,p3p://focus169.org:26571/641381d2000619c4a58d11-07b6d
-BeIN Max Sports,p3p://focus169.org:26571/641381e300044201a58d534366ce199d
-WWE Network,p3p://focus169.org:26571/641381f6000cd704a58d9fae064d2ede
-UEFA SPOTV Stadia ,p3p://focus169.org:26571/666eb0c90002a992fa61f3eb2c9a2b8b
-UEFA SPOTV2 Stadia ,p3p://focus169.org:26571/666eb0820002ba46fa60de976a307000
-Golf Channel SKY SPORT,p3p://focus169.org:26571/6413821c000b77b6a58e33c27f83093b
-ELEVEN 体育1,p3p://focus169.org:26571/6425227b000100c6ea6832842d41783a
-ELEVEN 体育2,p3p://focus169.org:26571/64252292000127feea688c6630d312e7
-NBA TV,p3p://focus169.org:26571/64311e75000090631938427279742fef
-NBA TV(b),p3p://focus169.org:26571/64311e81000176281938718d4b003c1b
-beIN Sports 1,p3p://focus169.org:26571/64311e93000ba7aa1938ba7e1e4b3642
-beIN Sports 2,p3p://focus169.org:26571/64311ea0000526211938eb9c63bc100c
-beIN Sports 3,p3p://focus169.org:26571/64311eac00023ce5193919bd41e13e59
-NBCgolf,p3p://focus169.org:26571/64311ec30002641e1939739f2a9f6e82
-SuperSports Golf,p3p://focus169.org:26571/64311edf000047af1939e0754ac733f5
-WWE HD backup,p3p://focus169.org:26571/642fa8b7000065051384543f2842233e
-Fight Sports T,p3p://focus169.org:26571/64311efc000d6103193a55176c7f5df0
-UFC Fight Pass UK,p3p://focus169.org:26571/64311f0a0003c10b193a89517a060079
-Tennis Channel,p3p://focus169.org:26571/6431257d000c445b1953bcb05b6e7e1a
-SKY SPORTS CRICKET HD,p3p://focus169.org:26571/643125f6000c1bc9195595521266639c
-SKY SPORT F1,p3p://focus169.org:26571/64312677000c166b19578d3854af5dbc
-Fox Sports News AU,p3p://focus169.org:26571/64312683000d39211957bc627ed1087d
-Fox Sports 501 AU,p3p://focus169.org:26571/643127000001d7eb1959a1c15b2e5498
-Fox Sports 502 AU,p3p://focus169.org:26571/6431270b000a24ff1959ced93173500e
-Fox Sports 503 AU,p3p://focus169.org:26571/6431271a00081cc9195a08ec32034279
-Fox Sports 504 AU,p3p://focus169.org:26571/6431272a0000d1b5195a458e5f7560f2
-Fox Sports 505 AU,p3p://focus169.org:26571/6431273a000479c1195a84fe134c0433
-Fox Sports 506 AU,p3p://focus169.org:26571/6431274800023ad9195abb1b74513383
-Fox Sports 507 AU,p3p://focus169.org:26571/643127fc0003ca86195d7aa277b31909
-Fox Sports 2,p3p://focus169.org:26571/643128290007b145195e2b6a6384316a
-FOX Sports Racing HD,p3p://focus169.org:26571/64312865000d9bbf195f174e5ec83175
-Dubai Sports 2 ,p3p://focus169.org:26571/6431287f0003edcc195f7a6369cf47b8
-Dubai Sports 2b ,p3p://focus169.org:26571/64312936000a354e196246d611a14be4
-KY SPORTS RACING,p3p://focus169.org:26571/6431295b0006afff1962d67737a347d9
-STAR SPORTS 1 HD,p3p://focus169.org:26571/643129690000652719630b8b0f766ba7
-Star Sports 2 HD,p3p://focus169.org:26571/64312975000bc42d19633d543ad20d2e
-Star Sports Select 1,p3p://focus169.org:26571/643129c6000c2bdb196479d77b6f7e96
-Star Sports Select 1b,p3p://focus169.org:26571/643129d50004aa151964b2834730348c
-Star Sports Select 2,p3p://focus169.org:26571/643129e6000a70531964f6661182226c
-SKY SPORTS FOOTBALL,p3p://focus169.org:26571/64312a3d000a7d6c19664a3f15773237
-SKY SPORTS MAIN EVENT,p3p://focus169.org:26571/64312a4d0002b877196686c254e3270d
-SKY SPORTS NFL UK,p3p://focus169.org:26571/64312a6b000a8eed1966fdf44a0647cc
-SKY Sports News (b),p3p://focus169.org:26571/64312a790008c9e5196734307fc34a77
-WWE USA,p3p://focus169.org:26571/6462701400067a04d9ddbe9873b90463
-BEIN SPORTS 11 USA,p3p://focus169.org:26571/6463a5b400077f08de9737e474b0055b
-USA: BeIN Sports 4 USA,p3p://focus169.org:26571/6463a5cb00045120de9790ec0ec340aa
-beIN Sports USA1,p3p://focus169.org:26571/6463a5eb000a7089de980f6e0e9c48d5
-Supersport Premier League USA,p3p://focus169.org:26571/6463a5f80008b1c0de9841c45e2d124f
-MoviePlex FHD,p3p://focus169.org:26571/64682d6e000ead8df049684444cc6e25
-CBS Sports Network HD,p3p://focus169.org:26571/645fa8fa00080514cf043b8b1b77368c
-Golf Channel,p3p://focus169.org:26571/645fab54000b6df5cf0d6bfd479148d1
-WWE,p3p://focus169.org:26571/6462701400067a04d9ddbe9873b90463
-BEIN SPORTS 11,p3p://focus169.org:26571/6463a5b400077f08de9737e474b0055b
-USA: BeIN Sports 6,p3p://focus169.org:26571/6463a5de00091722de97dc4d0e413139
-beIN Sports USA,p3p://focus169.org:26571/6463a5eb000a7089de980f6e0e9c48d5
-Supersport Football,p3p://focus169.org:26571/6463a606000229f7de9876c846553fcc
-USA: BeIN Sports 4,p3p://focus169.org:26571/6463a5cb00045120de9790ec0ec340aa
-BALLY SPORTS GREAT LAKES,p3p://focus169.org:26571/64682c4f000040f3f04503797ca74a7c
-J SPORTS 1,p3p://focus169.org:26571/641a20d7000988debf6a04905a174f61
-J SPORTS 2,p3p://focus169.org:26571/641a20ba000cdc3bbf69942274820099
-J SPORTS 3,p3p://focus169.org:26571/641a20a200018b30bf69337c51750a0c
-J SPORTS 4,p3p://focus169.org:26571/641a208100012886bf68b27a61ba4329
-スカイ A sports,p3p://focus169.org:26571/641a1e3400024affbf5fb60300fa762f
+SUPER Sports CH11,p3p://focus169.org:36826/682cef2c0000819cc97aefff0ab433ee
+Golf Channel tw,p3p://focus169.org:36826/64311ec30002641e1939739f2a9f6e82
+Golf SuperSports ,p3p://focus169.org:36826/64311edf000047af1939e0754ac733f5
+BeIN Sports,p3p://focus169.org:36826/641381d2000619c4a58d11-07b6d
+BeIN Max Sports,p3p://focus169.org:36826/641381e300044201a58d534366ce199d
+WWE Network,p3p://focus169.org:36826/641381f6000cd704a58d9fae064d2ede
+UEFA SPOTV Stadia ,p3p://focus169.org:36826/666eb0c90002a992fa61f3eb2c9a2b8b
+UEFA SPOTV2 Stadia ,p3p://focus169.org:36826/666eb0820002ba46fa60de976a307000
+Golf Channel SKY SPORT,p3p://focus169.org:36826/6413821c000b77b6a58e33c27f83093b
+ELEVEN 体育1,p3p://focus169.org:36826/6425227b000100c6ea6832842d41783a
+ELEVEN 体育2,p3p://focus169.org:36826/64252292000127feea688c6630d312e7
+NBA TV,p3p://focus169.org:36826/64311e75000090631938427279742fef
+NBA TV(b),p3p://focus169.org:36826/64311e81000176281938718d4b003c1b
+beIN Sports 1,p3p://focus169.org:36826/64311e93000ba7aa1938ba7e1e4b3642
+beIN Sports 2,p3p://focus169.org:36826/64311ea0000526211938eb9c63bc100c
+beIN Sports 3,p3p://focus169.org:36826/64311eac00023ce5193919bd41e13e59
+NBCgolf,p3p://focus169.org:36826/64311ec30002641e1939739f2a9f6e82
+SuperSports Golf,p3p://focus169.org:36826/64311edf000047af1939e0754ac733f5
+WWE HD backup,p3p://focus169.org:36826/642fa8b7000065051384543f2842233e
+Fight Sports T,p3p://focus169.org:36826/64311efc000d6103193a55176c7f5df0
+UFC Fight Pass UK,p3p://focus169.org:36826/64311f0a0003c10b193a89517a060079
+Tennis Channel,p3p://focus169.org:36826/6431257d000c445b1953bcb05b6e7e1a
+SKY SPORTS CRICKET HD,p3p://focus169.org:36826/643125f6000c1bc9195595521266639c
+SKY SPORT F1,p3p://focus169.org:36826/64312677000c166b19578d3854af5dbc
+Fox Sports News AU,p3p://focus169.org:36826/64312683000d39211957bc627ed1087d
+Fox Sports 501 AU,p3p://focus169.org:36826/643127000001d7eb1959a1c15b2e5498
+Fox Sports 502 AU,p3p://focus169.org:36826/6431270b000a24ff1959ced93173500e
+Fox Sports 503 AU,p3p://focus169.org:36826/6431271a00081cc9195a08ec32034279
+Fox Sports 504 AU,p3p://focus169.org:36826/6431272a0000d1b5195a458e5f7560f2
+Fox Sports 505 AU,p3p://focus169.org:36826/6431273a000479c1195a84fe134c0433
+Fox Sports 506 AU,p3p://focus169.org:36826/6431274800023ad9195abb1b74513383
+Fox Sports 507 AU,p3p://focus169.org:36826/643127fc0003ca86195d7aa277b31909
+Fox Sports 2,p3p://focus169.org:36826/643128290007b145195e2b6a6384316a
+FOX Sports Racing HD,p3p://focus169.org:36826/64312865000d9bbf195f174e5ec83175
+Dubai Sports 2 ,p3p://focus169.org:36826/6431287f0003edcc195f7a6369cf47b8
+Dubai Sports 2b ,p3p://focus169.org:36826/64312936000a354e196246d611a14be4
+KY SPORTS RACING,p3p://focus169.org:36826/6431295b0006afff1962d67737a347d9
+STAR SPORTS 1 HD,p3p://focus169.org:36826/643129690000652719630b8b0f766ba7
+Star Sports 2 HD,p3p://focus169.org:36826/64312975000bc42d19633d543ad20d2e
+Star Sports Select 1,p3p://focus169.org:36826/643129c6000c2bdb196479d77b6f7e96
+Star Sports Select 1b,p3p://focus169.org:36826/643129d50004aa151964b2834730348c
+Star Sports Select 2,p3p://focus169.org:36826/643129e6000a70531964f6661182226c
+SKY SPORTS FOOTBALL,p3p://focus169.org:36826/64312a3d000a7d6c19664a3f15773237
+SKY SPORTS MAIN EVENT,p3p://focus169.org:36826/64312a4d0002b877196686c254e3270d
+SKY SPORTS NFL UK,p3p://focus169.org:36826/64312a6b000a8eed1966fdf44a0647cc
+SKY Sports News (b),p3p://focus169.org:36826/64312a790008c9e5196734307fc34a77
+WWE USA,p3p://focus169.org:36826/6462701400067a04d9ddbe9873b90463
+BEIN SPORTS 11 USA,p3p://focus169.org:36826/6463a5b400077f08de9737e474b0055b
+USA: BeIN Sports 4 USA,p3p://focus169.org:36826/6463a5cb00045120de9790ec0ec340aa
+beIN Sports USA1,p3p://focus169.org:36826/6463a5eb000a7089de980f6e0e9c48d5
+Supersport Premier League USA,p3p://focus169.org:36826/6463a5f80008b1c0de9841c45e2d124f
+MoviePlex FHD,p3p://focus169.org:36826/64682d6e000ead8df049684444cc6e25
+CBS Sports Network HD,p3p://focus169.org:36826/645fa8fa00080514cf043b8b1b77368c
+Golf Channel,p3p://focus169.org:36826/645fab54000b6df5cf0d6bfd479148d1
+WWE,p3p://focus169.org:36826/6462701400067a04d9ddbe9873b90463
+BEIN SPORTS 11,p3p://focus169.org:36826/6463a5b400077f08de9737e474b0055b
+USA: BeIN Sports 6,p3p://focus169.org:36826/6463a5de00091722de97dc4d0e413139
+beIN Sports USA,p3p://focus169.org:36826/6463a5eb000a7089de980f6e0e9c48d5
+Supersport Football,p3p://focus169.org:36826/6463a606000229f7de9876c846553fcc
+USA: BeIN Sports 4,p3p://focus169.org:36826/6463a5cb00045120de9790ec0ec340aa
+BALLY SPORTS GREAT LAKES,p3p://focus169.org:36826/64682c4f000040f3f04503797ca74a7c
+J SPORTS 1,p3p://focus169.org:36826/641a20d7000988debf6a04905a174f61
+J SPORTS 2,p3p://focus169.org:36826/641a20ba000cdc3bbf69942274820099
+J SPORTS 3,p3p://focus169.org:36826/641a20a200018b30bf69337c51750a0c
+J SPORTS 4,p3p://focus169.org:36826/641a208100012886bf68b27a61ba4329
+スカイ A sports,p3p://focus169.org:36826/641a1e3400024affbf5fb60300fa762f
