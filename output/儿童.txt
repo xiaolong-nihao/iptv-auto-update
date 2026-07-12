@@ -1,5 +1,5 @@
 # 儿童频道列表
-# 更新时间: 2026-07-11 05:12:38
+# 更新时间: 2026-07-12 05:26:48
 # 共 33 个频道
 #genre#
 广东少儿广州,http://tvtj1.jxwltx.com:8003/live1570.m3u8
@@ -9,17 +9,17 @@
 小当家动漫社,https://live.ottiptv.cc/huya/24257300
 开心锤锤动漫,https://live.ottiptv.cc/douyu/9018297
 PP看动漫,https://live.ottiptv.cc/douyu/9837291
-小陶气说动漫,https://live.ottiptv.cc/douyu/9527700
 圈踢动漫,https://live.ottiptv.cc/douyu/1952680
+小陶气说动漫,https://live.ottiptv.cc/douyu/9527700
 真香动漫解说,https://live.ottiptv.cc/douyu/9391292
 米粒儿动漫,https://live.ottiptv.cc/douyu/9445279
-动漫推荐i,https://live.ottiptv.cc/douyu/5187099
 皮皮动漫星球,https://live.ottiptv.cc/douyu/8841920
-蛋黄讲动漫,https://live.ottiptv.cc/douyu/9542834
 鑫酱盘动漫,https://live.ottiptv.cc/douyu/9547575
 三新动漫,https://live.ottiptv.cc/douyu/9548279
 雨忆动漫,https://live.ottiptv.cc/douyu/9568700
+动漫推荐i,https://live.ottiptv.cc/douyu/5187099
 17号说动漫,https://live.ottiptv.cc/douyu/9822277
+蛋黄讲动漫,https://live.ottiptv.cc/douyu/9542834
 搞笑动漫大本营,https://live.ottiptv.cc/douyu/9650181
 动漫唯美風,https://live.ottiptv.cc/douyu/8912038
 杰克动漫,https://live.ottiptv.cc/huya/19757963

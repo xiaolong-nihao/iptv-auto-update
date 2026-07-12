@@ -1,19 +1,18 @@
 # 赛事频道列表
-# 更新时间: 2026-07-11 05:12:38
-# 共 184 个频道
+# 更新时间: 2026-07-12 05:26:48
+# 共 178 个频道
 #genre#
 赛事咪咕播4k,http://156.233.226.200:65486/其他/咪咕五大联赛4K-1?cors
 赛事至臻视界,http://156.233.226.200:65486/其他/移动咪咕五大联赛4K-2?cors
 广东体育广州,http://tvtj1.jxwltx.com:8003/live2915.m3u8
 摇滚足球本,https://live.ottiptv.cc/huya/29982616
-吐槽运动,https://live.ottiptv.cc/huya/11342436
-哈拉少足球,https://live.ottiptv.cc/huya/29982619
-大头猴足球,https://live.ottiptv.cc/huya/29982605
 世界格斗场,https://live.ottiptv.cc/huya/11352969
-亚运体育7号台,https://live.ottiptv.cc/huya/136154
-治霖足球故事,https://live.ottiptv.cc/huya/29982606
-雨燕体育直播,https://live.ottiptv.cc/huya/29982618
+吐槽运动,https://live.ottiptv.cc/huya/11342436
 足球TOP,https://live.ottiptv.cc/huya/29982607
+治霖足球故事,https://live.ottiptv.cc/huya/29982606
+大头猴足球,https://live.ottiptv.cc/huya/29982605
+雨燕体育直播,https://live.ottiptv.cc/huya/29982618
+哈拉少足球,https://live.ottiptv.cc/huya/29982619
 篮球人物,https://live.ottiptv.cc/douyu/8434598
 篮球过人技巧,https://live.ottiptv.cc/douyu/9406897
 篮球小人物,https://live.ottiptv.cc/douyu/9184257
@@ -57,11 +56,6 @@
 赛事咪咕播30,http://feilong123.vip/409990236/iptv/gdy.php?id=22
 赛事咪咕播31,http://feilong123.vip/409990236/iptv/gdy.php?id=16
 赛事咪咕播32,http://feilong123.vip/409990236/iptv/gdy.php?id=19
-14:30场坝大河口将军岩队🆚平永村足球队,http://rihou.cc:555/tv/v
-16:30寿洞村足球队🆚安乐村足球队,http://rihou.cc:555/tv/v
-20:30小堡村足球队🆚场坝龙泉井村队,http://rihou.cc:555/tv/v
-粤🔊12广东体育,http://rihou.cc:555/tv/[At|]广东体育
-粤'🔊12广东体育,http://rihou.cc:555/tv/[At|]广东体育
 14:30阳光村足球队🆚忠诚村足球队,http://rihou.cc:555/tv/v
 16:30高硐村足球队🆚扒王村足球队,http://rihou.cc:555/tv/v
 18:30色边村足球队🆚富民村足球队,http://rihou.cc:555/tv/v
@@ -79,10 +73,10 @@ NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛12
 排球赛事回放,http://rihou.cc:555/tv/排球回放赛12
 格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛12
 斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛12
-赛事睛彩竞技,http://156.233.226.200:65486/其他/睛彩竞技?cors
-赛事睛彩广场,http://156.233.226.200:65486/其他/睛彩广场舞?cors
-赛事睛彩篮球,http://feilong123.vip/409990236/iptv/gdy.php?id=2
-赛事睛彩青少,http://feilong123.vip/409990236/iptv/gdy.php?id=1
+赛事睛彩竞技,http://bigy.timwin.top:5400/rtp/239.3.1.125:8001
+赛事睛彩篮球,http://bigy.timwin.top:5400/rtp/239.3.1.126:8001
+赛事睛彩青少,http://bigy.timwin.top:5400/rtp/239.3.1.127:8001
+赛事睛彩广场,http://bigy.timwin.top:5400/rtp/239.3.1.128:8001
 wwe格斗欣赏,http://rihou.cc:555/tv/[FY]wwe格斗
 WWE格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 足球小将剧集,http://8.155.43.98:35455/douyu/997925
