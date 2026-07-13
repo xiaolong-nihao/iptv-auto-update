@@ -1,12 +1,6 @@
 注意事项,#genre#
-村超赛评,#genre#
-蒙超赛评,#genre#
-陇超赛评,#genre#
-鲁超赛评,#genre#
-疆超赛评,#genre#
-女篮赛评,#genre#
-闽超赛评',#genre#
-赣超赛评',#genre#
+闽超赛评,#genre#
+赣超赛评,#genre#
 世杯半决,#genre#
 赛事精锦,#genre#
 赛事咪咕,#genre#
@@ -71,12 +65,6 @@ zonghe,#genre#
 game,#genre#
 car,#genre#
 
-07-12⬇️贵州村超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-07-12⬇️内蒙古足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-07-12⬇️甘肃省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-07-12⬇️山东省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-07-12⬇️新疆足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-07-12⬇️U17女篮世界杯小组赛⬇️🏀📡,http://rihou.cc:555/tv/t
 07-13⬇️福建省足球超级联赛第三轮⬇️⚽📡,http://rihou.cc:555/tv/t
 07-13⬇️江西省足球超级联赛第7轮⬇️⚽📡,http://rihou.cc:555/tv/t
 07-15⬇️世界杯半决赛⬇️⚽📡,http://rihou.cc:555/tv/t
