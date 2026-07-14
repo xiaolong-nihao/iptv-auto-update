@@ -1,5 +1,5 @@
 # 央视频道列表
-# 更新时间: 2026-07-13 05:36:10
+# 更新时间: 2026-07-14 04:50:09
 # 共 18 个频道
 #genre#
 CCTV-16咪咕,http://58.255.201.70:10443/tsfile/live/10011.m3u8
@@ -10,13 +10,13 @@ CCTV-13广州,http://tvtj.jxwltx.com:8003/cctv13.m3u8
 CCTV-14广州,http://tvtj.jxwltx.com:8003/cctv14.m3u8
 CCTV-15广州,http://tvtj.jxwltx.com:8003/cctv15.m3u8
 CCTV-17广州,http://tvtj.jxwltx.com:8003/cctv17.m3u8
-CCTV-5+咪咕,http://183.247.194.196:7788/641886773
-CGTN-西咪咕,http://183.247.194.196:7788/609006450
-CGTN-阿咪咕,http://183.247.194.196:7788/609154345
-CGTN-法咪咕,http://183.247.194.196:7788/609006476
+CCTV-5+咪咕,http://mg.cttv.vip/641886773
+CGTN-西咪咕,http://mg.cttv.vip/609006450
+CGTN-阿咪咕,http://mg.cttv.vip/609154345
+CGTN-法咪咕,http://mg.cttv.vip/609006476
 央视综合Pdtv,http://rihou.cc:555/tv/[Pd]央视综合
 央视新闻直播,video://https://live.douyin.com/282773369501
 央视新闻抖播,video://https://live.douyin.com/282773369501
-CCTV-4 ,p3p://focus169.org:36826/67dcfe77000b52d79138a0ed4cc7303a
-CCTV-5 ,p3p://focus169.org:36826/68b063570001c261caf5873a28f36cae
-CCTV-6,p3p://focus169.org:36826/64260cc800087ffdedfb712c61a06569
+CCTV-4 ,p3p://focus169.org:35351/67dcfe77000b52d79138a0ed4cc7303a
+CCTV-5 ,p3p://focus169.org:35351/68b063570001c261caf5873a28f36cae
+CCTV-6,p3p://focus169.org:35351/64260cc800087ffdedfb712c61a06569

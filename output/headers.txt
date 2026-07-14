@@ -1,6 +1,6 @@
 注意事项,#genre#
-闽超赛评,#genre#
-赣超赛评,#genre#
+女篮赛评,#genre#
+中超赛评,#genre#
 世杯半决,#genre#
 赛事精锦,#genre#
 赛事咪咕,#genre#
@@ -65,8 +65,8 @@ zonghe,#genre#
 game,#genre#
 car,#genre#
 
-07-13⬇️福建省足球超级联赛第三轮⬇️⚽📡,http://rihou.cc:555/tv/t
-07-13⬇️江西省足球超级联赛第7轮⬇️⚽📡,http://rihou.cc:555/tv/t
+07-14⬇️U17女篮世界杯小组赛⬇️🏀📡,http://rihou.cc:555/tv/t
+07-14⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-15⬇️世界杯半决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-16⬇️世界杯半决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 ⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t

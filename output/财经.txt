@@ -1,9 +1,9 @@
 # 财经频道列表
-# 更新时间: 2026-07-13 05:36:10
+# 更新时间: 2026-07-14 04:50:09
 # 共 5 个频道
 #genre#
 文茜财经周报,http://nmk.ioapk.com:5050/ofiii205/index.m3u8?proxy=true
 广东经济广州,http://tvtj1.jxwltx.com:8003/live3001.m3u8
 深圳财经网页,video://https://www.sztv.com.cn/pindao/index.html?id=7871
-有線耀才财经,p3p://focus169.org:36826/64102268000ecb1f98605d7b0a602bf4
-台視财经台,p3p://focus169.org:36826/6448a761000bec1a75267316701e7a90
+有線耀才财经,p3p://focus169.org:35351/64102268000ecb1f98605d7b0a602bf4
+台視财经台,p3p://focus169.org:35351/6448a761000bec1a75267316701e7a90

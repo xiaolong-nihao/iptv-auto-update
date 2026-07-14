@@ -1,5 +1,5 @@
 # 儿童频道列表
-# 更新时间: 2026-07-13 05:36:10
+# 更新时间: 2026-07-14 04:50:09
 # 共 33 个频道
 #genre#
 广东少儿广州,http://tvtj1.jxwltx.com:8003/live1570.m3u8
@@ -24,8 +24,8 @@ PP看动漫,https://live.ottiptv.cc/douyu/9837291
 动漫唯美風,https://live.ottiptv.cc/douyu/8912038
 杰克动漫,https://live.ottiptv.cc/huya/19757963
 老P仔动漫,https://live.ottiptv.cc/huya/26510802
-集集动漫社,https://live.ottiptv.cc/huya/29832558
 乔我说动漫频道,https://live.ottiptv.cc/huya/17941367
+集集动漫社,https://live.ottiptv.cc/huya/29832558
 南南说动漫,https://live.ottiptv.cc/huya/30296754
 动漫,https://live.ottiptv.cc/yy/26664495
 精彩动漫,https://live.ottiptv.cc/yy/1420843376
@@ -33,5 +33,5 @@ PP看动漫,https://live.ottiptv.cc/douyu/9837291
 动漫《火影疾风传》,https://live.ottiptv.cc/yy/1459675153
 疯狂动漫 正在直播,https://live.ottiptv.cc/yy/1353937086
 深圳少儿网页,video://https://www.sztv.com.cn/pindao/index.html?id=7881
-Starz Kids,p3p://focus169.org:36826/645fb26f00087cd0cf292cbc765a234c
-UNIVERSAL KIDS,p3p://focus169.org:36826/64682b9c000e9ddaf0424bee25af494e
+Starz Kids,p3p://focus169.org:35351/645fb26f00087cd0cf292cbc765a234c
+UNIVERSAL KIDS,p3p://focus169.org:35351/64682b9c000e9ddaf0424bee25af494e
