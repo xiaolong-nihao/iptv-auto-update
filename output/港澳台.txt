@@ -1,9 +1,9 @@
 # 港澳台频道列表
-# 更新时间: 2026-07-14 04:50:09
-# 共 383 个频道
+# 更新时间: 2026-07-15 04:50:49
+# 共 386 个频道
 #genre#
 无线翡翠4k音,https://o11.163189.xyz/stream/tvb/fct4k/
-粤🔊15Now4k体,http://rihou.cc:555/tv/[At|]Now4k体
+粤🔊16Now4k体,http://rihou.cc:555/tv/[At|]Now4k体
 now英超4k壹,p3p://focus169.org:35351/64d74cf7000556f0223ed6366e5f689a
 now英超4k贰,p3p://focus169.org:35351/64d74ca40007202e223d927267473868
 Plus综合高码,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
@@ -153,13 +153,16 @@ astroaec双语,https://o11.163189.xyz/stream/live/aec/
 astroiqiyi单国,https://o11.163189.xyz/stream/live/iqiyi/
 astro欢喜双语,https://o11.163189.xyz/stream/live/hxt/
 Astro AEC(c),https://sc2022.stream-link.org/tv2306.php?id=h25
-TVB追剧小能手,https://live.ottiptv.cc/huya/23865179
+iTVB大后宫,https://live.ottiptv.cc/huya/23863804
+小虎牙-pTSEbHriOn,https://live.ottiptv.cc/huya/23863796
+仰望星空慢直播,https://live.ottiptv.cc/huya/29465892
 探索世界科普,https://live.ottiptv.cc/huya/20985813
 宇宙探索飞船,https://live.ottiptv.cc/douyu/9456028
 星空茶茶,https://live.ottiptv.cc/douyu/8635497
 欢喜冤家的爱情-夏日乐悠悠,https://live.ottiptv.cc/yy/1354936191
-国🔊15ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
 国🔊16ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
+国🔊19ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
+国🔊20ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
 澳视澳门Pdtv,http://rihou.cc:555/tv/[Pd]澳视澳门
 八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
 astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
