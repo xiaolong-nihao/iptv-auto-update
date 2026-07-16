@@ -1,7 +1,7 @@
 注意事项,#genre#
-世杯半决,#genre#
 村超赛评,#genre#
 中超赛评,#genre#
+蒙超赛评,#genre#
 粤BA赛评,#genre#
 鲁超'赛评,#genre#
 村超'赛评,#genre#
@@ -82,9 +82,9 @@ zonghe,#genre#
 game,#genre#
 car,#genre#
 
-07-16⬇️世界杯半决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-17⬇️贵州村超1/4决赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-17⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
+07-17⬇️内蒙古足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-17⬇️粤BA季军赛次回合⬇️🏀📡,http://rihou.cc:555/tv/t
 07-18⬇️山东省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-18⬇️贵州村超1/4决赛⬇️⚽📡,http://rihou.cc:555/tv/t

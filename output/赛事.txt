@@ -1,28 +1,28 @@
 # 赛事频道列表
-# 更新时间: 2026-07-15 04:50:49
-# 共 180 个频道
+# 更新时间: 2026-07-16 05:09:34
+# 共 179 个频道
 #genre#
 赛事咪咕播4k,http://156.233.226.200:65486/其他/咪咕五大联赛4K-1?cors
 赛事至臻视界,http://156.233.226.200:65486/其他/移动咪咕五大联赛4K-2?cors
 广东体育广州,http://tvtj1.jxwltx.com:8003/live2915.m3u8
 摇滚足球本,https://live.ottiptv.cc/huya/29982616
 最篮球,https://live.ottiptv.cc/huya/29982651
-世界格斗场,https://live.ottiptv.cc/huya/11352969
-大头猴足球,https://live.ottiptv.cc/huya/29982605
-吐槽运动,https://live.ottiptv.cc/huya/11342436
-治霖足球故事,https://live.ottiptv.cc/huya/29982606
-雨燕体育直播,https://live.ottiptv.cc/huya/29982618
-亚运体育7号台,https://live.ottiptv.cc/huya/136154
 足球TOP,https://live.ottiptv.cc/huya/29982607
+吐槽运动,https://live.ottiptv.cc/huya/11342436
+大头猴足球,https://live.ottiptv.cc/huya/29982605
+世界格斗场,https://live.ottiptv.cc/huya/11352969
+亚运体育7号台,https://live.ottiptv.cc/huya/136154
+雨燕体育直播,https://live.ottiptv.cc/huya/29982618
 哈拉少足球,https://live.ottiptv.cc/huya/29982619
+治霖足球故事,https://live.ottiptv.cc/huya/29982606
 篮球人物,https://live.ottiptv.cc/douyu/8434598
 篮球过人技巧,https://live.ottiptv.cc/douyu/9406897
 篮球小人物,https://live.ottiptv.cc/douyu/9184257
 篮球长镜头,https://live.ottiptv.cc/douyu/9399887
 绘说篮球C,https://live.ottiptv.cc/douyu/9401305
 篮球之家老李,https://live.ottiptv.cc/douyu/9170147
-屿风体育,https://live.ottiptv.cc/douyu/10329889
 拳击大王,https://live.ottiptv.cc/douyu/9385340
+屿风体育,https://live.ottiptv.cc/douyu/10329889
 我的体育老师,https://live.ottiptv.cc/yy/1382745169
 鸭子天空-翱翔于篮球的梦想,https://live.ottiptv.cc/yy/1354930894
 拳拳到肉，搏击燃情,https://live.ottiptv.cc/yy/1382736870
@@ -58,7 +58,6 @@
 赛事咪咕播30,http://feilong123.vip/409990236/iptv/gdy.php?id=22
 赛事咪咕播31,http://feilong123.vip/409990236/iptv/gdy.php?id=16
 赛事咪咕播32,http://feilong123.vip/409990236/iptv/gdy.php?id=19
-粤🔊16广东体育,http://rihou.cc:555/tv/[At|]广东体育
 18:30忠诚村足球队🆚寿洞村足球队,http://rihou.cc:555/tv/v
 20:30平永村足球队🆚场坝龙泉井村队,http://rihou.cc:555/tv/v
 16:30党相村塔石羊瘪队🆚大利村足球队,http://rihou.cc:555/tv/v
