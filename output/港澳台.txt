@@ -1,9 +1,8 @@
 # 港澳台频道列表
-# 更新时间: 2026-07-19 05:20:42
-# 共 385 个频道
+# 更新时间: 2026-07-20 05:38:36
+# 共 381 个频道
 #genre#
 无线翡翠4k音,https://o11.163189.xyz/stream/tvb/fct4k/
-粤🔊20Now4k体,http://rihou.cc:555/tv/[At|]Now4k体
 now英超4k壹,p3p://focus169.org:35351/64d74cf7000556f0223ed6366e5f689a
 now英超4k贰,p3p://focus169.org:35351/64d74ca40007202e223d927267473868
 Plus综合高码,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
@@ -11,6 +10,7 @@ Plus综合高码,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
 ViuTv粤高码,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
 ViuTv英高码,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
 RTHK-31高码,http://beishan008.asuscomm.com:8892/bysid/31.m3u8
+EPL Now Sports 英超4keng,p3p://focus169.org:35351/64d74cf7000556f0223ed6366e5f689a
 凤凰电影频道,http://iot-mqqt.111yao.cn:8080/live/diypfhdy.m3u8
 星空电影频道,http://iot-mqqt.111yao.cn:8080/live/diypstarmovies.m3u8
 星空音乐频道,http://iot-mqqt.111yao.cn:8080/live/diypchannelv.m3u8
@@ -153,15 +153,11 @@ astroaec双语,https://o11.163189.xyz/stream/live/aec/
 astroiqiyi单国,https://o11.163189.xyz/stream/live/iqiyi/
 astro欢喜双语,https://o11.163189.xyz/stream/live/hxt/
 Astro AEC(c),https://sc2022.stream-link.org/tv2306.php?id=h25
-iTVB大后宫,https://live.ottiptv.cc/huya/23863804
-仰望星空慢直播,https://live.ottiptv.cc/huya/29465892
+TVB练习生,https://live.ottiptv.cc/huya/23865132
 迪士尼姐姐,https://live.ottiptv.cc/huya/29982656
-小虎牙-pTSEbHriOn,https://live.ottiptv.cc/huya/23863796
-探索世界科普,https://live.ottiptv.cc/huya/20985813
 宇宙探索飞船,https://live.ottiptv.cc/douyu/9456028
 星空茶茶,https://live.ottiptv.cc/douyu/8635497
 欢喜冤家的爱情-夏日乐悠悠,https://live.ottiptv.cc/yy/1354936191
-国🔊20ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
 澳视澳门Pdtv,http://rihou.cc:555/tv/[Pd]澳视澳门
 八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
 astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
