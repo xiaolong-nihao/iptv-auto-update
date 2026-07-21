@@ -3,6 +3,7 @@
 女篮赛评,#genre#
 足协赛评,#genre#
 赛事精锦,#genre#
+鞋佬回放,#genre#
 赛事咪咕,#genre#
 央卫咪咕,#genre#
 特新Pdtv,#genre#
@@ -73,10 +74,12 @@ car,#genre#
 ➡️分享更新⬅️,http://rihou.cc:555/tv/[mv]分享更新
 ➡️爱扒随便⬅️,http://rihou.cc:555/tv/[mv]爱扒随便
 ➡️不必纠结⬅️,http://rihou.cc:555/tv/[mv]不必纠结
-07-20⬇️全国女子篮球锦标赛⬇️🏀📡,http://rihou.cc:555/tv/t
+07-21⬇️全国女子篮球锦标赛⬇️🏀📡,http://rihou.cc:555/tv/t
+07-22⬇️全国女子篮球锦标赛⬇️🏀📡,http://rihou.cc:555/tv/t
 07-21⬇️足协杯联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-22⬇️足协杯联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 ⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
+⬇️世界杯决赛+半决赛赛事回放⬇️,http://rihou.cc:555/tv/t
 ⬇️特闽新闻⬇️,http://rihou.cc:555/tv/v
 ⬇️特闽电影⬇️,http://rihou.cc:555/tv/v
 ⬇️特区资讯⬇️,http://rihou.cc:555/tv/v
