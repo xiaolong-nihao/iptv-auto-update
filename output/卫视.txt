@@ -1,6 +1,6 @@
 # 卫视频道列表
-# 更新时间: 2026-07-21 05:19:34
-# 共 32 个频道
+# 更新时间: 2026-07-22 05:18:24
+# 共 24 个频道
 #genre#
 北京卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/bjws4K.m3u8
 东方卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/dfws4K.m3u8
@@ -26,11 +26,3 @@
 海南卫视咪咕,http://42.194.148.122:1234/947472502
 陕西卫视咪咕,http://42.194.148.122:1234/738910838
 兵团卫视咪咕,http://42.194.148.122:1234/956923145
-天津卫视咪咕,http://t.061899.xyz/tl/tl.php?id=tjws
-辽宁卫视咪咕,http://t.061899.xyz/tl/tl.php?id=lnws
-河北卫视咪咕,http://t.061899.xyz/tl/tl.php?id=hbws
-重庆卫视咪咕,http://t.061899.xyz/tl/tl.php?id=cqws
-贵州卫视咪咕,http://t.061899.xyz/tl/tl.php?id=gzws
-甘肃卫视咪咕,http://t.061899.xyz/tl/tl.php?id=gsws
-新疆卫视咪咕,http://t.061899.xyz/tl/tl.php?id=xjws
-西藏卫视咪咕,http://t.061899.xyz/tl/tl.php?id=xzws
