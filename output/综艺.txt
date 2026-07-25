@@ -1,12 +1,12 @@
 # 综艺频道列表
-# 更新时间: 2026-07-24 05:19:02
-# 共 54 个频道
+# 更新时间: 2026-07-25 05:13:41
+# 共 50 个频道
 #genre#
 中天娱乐频道,http://61.221.215.25:8800/hls/47/index.m3u8
 香港喜剧大全,https://live.ottiptv.cc/huya/23865080
 娱乐bb机,https://live.ottiptv.cc/huya/29982635
-娱乐现场,https://live.ottiptv.cc/huya/17001286
 君临剧优秀,https://live.ottiptv.cc/huya/24884334
+娱乐现场,https://live.ottiptv.cc/huya/17001286
 赵本山经典小品,https://live.ottiptv.cc/douyu/9817716
 贾玲经典小品,https://live.ottiptv.cc/douyu/10419541
 开心麻花经典小品,https://live.ottiptv.cc/douyu/10153463
@@ -18,9 +18,9 @@
 秀才侃娱乐,https://live.ottiptv.cc/douyu/9382873
 娱乐新番,https://live.ottiptv.cc/douyu/9564845
 fans圈娱乐,https://live.ottiptv.cc/douyu/9630581
-LX娱乐-招主播,https://live.ottiptv.cc/huya/28259384
 周星驰--喜剧之王,https://live.ottiptv.cc/huya/30631741
-喜剧大赏,https://live.ottiptv.cc/huya/30631713
+LX娱乐-招主播,https://live.ottiptv.cc/huya/28259384
+布布娱乐,https://live.ottiptv.cc/huya/29882863
 �逋鞠盗�-国产喜剧,https://live.ottiptv.cc/yy/1382736856
 爆笑小品大合集,https://live.ottiptv.cc/yy/1382736821
 国内喜剧,https://live.ottiptv.cc/yy/1382851598
@@ -52,7 +52,3 @@ LX娱乐-招主播,https://live.ottiptv.cc/huya/28259384
 喜剧虎牙频道,http://120.220.76.91:2003/huya.php?id=11352877
 喜剧专场频道,http://120.220.76.91:2003/huya.php?id=11602044
 搞笑喜剧频道,http://120.220.76.91:2003/huya.php?id=11342423
-Comedy Central ,p3p://focus169.org:35351/6413853b000926c2a59a644430b12c08
-Supersport Variety 3 USA,p3p://focus169.org:35351/6463a90d000d7e9adea44d0a511a6930
-Supersport Variety 3,p3p://focus169.org:35351/6463a90d000d7e9adea44d0a511a6930
-Supersport Variety 4,p3p://focus169.org:35351/6463a926000e1336dea4aed876667f60
