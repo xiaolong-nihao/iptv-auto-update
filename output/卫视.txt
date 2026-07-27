@@ -1,5 +1,5 @@
 # 卫视频道列表
-# 更新时间: 2026-07-26 05:31:15
+# 更新时间: 2026-07-27 05:49:09
 # 共 24 个频道
 #genre#
 北京卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/bjws4K.m3u8
@@ -11,11 +11,10 @@
 山东卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/sdws4K.m3u8
 四川卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/scws4K.m3u8
 湖南卫视频4k,http://106.53.99.30/tv/api.php?id=hnws4k
-河南卫视咪咕,http://221.221.137.78:8888/tsfile/live/01391.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视咪咕,http://221.221.137.78:8888/tsfile/live/01381.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视咪咕,http://221.221.137.78:8888/tsfile/live/01321.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视广州,http://tvtj1.jxwltx.com:8003/ahws.m3u8
 山西卫视广州,http://tvtj1.jxwltx.com:8003/sxws.m3u8
+河南卫视广州,http://tvtj1.jxwltx.com:8003/hnws.m3u8
+江西卫视广州,http://tvtj1.jxwltx.com:8003/jxws.m3u8
 广西卫视广州,http://tvtj1.jxwltx.com:8003/gxws.m3u8
 云南卫视广州,http://tvtj.jxwltx.com:8003/ynws.m3u8
 东南卫视广州,http://tvtj.jxwltx.com:8003/dnws.m3u8
@@ -23,6 +22,7 @@
 宁夏卫视广州,http://tvtj1.jxwltx.com:8003/linxws.m3u8
 青海卫视广州,http://tvtj1.jxwltx.com:8003/live1096.m3u8
 吉林卫视广州,http://tvtj1.jxwltx.com:8003/jlws.m3u8
+湖北卫视咪咕,http://1.202.119.183:15500/947472496
 海南卫视咪咕,http://1.202.119.183:15500/947472502
 陕西卫视咪咕,http://1.202.119.183:15500/738910838
 兵团卫视咪咕,http://1.202.119.183:15500/956923145

@@ -1,6 +1,6 @@
 # 其他频道列表
-# 更新时间: 2026-07-26 05:31:15
-# 共 3289 个频道
+# 更新时间: 2026-07-27 05:49:09
+# 共 3251 个频道
 #genre#
 苏州4k频道超,https://tylive.kan0512.com/norecord/csztv4k4k.m3u8
 河北4k频道超,https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -622,7 +622,6 @@ Q版-三国粤39,https://vip.dytt-cine.com/20250715/39351b8e8d48c/index.m3u8
 古都惊雷粤68,https://vip.ffzy-play.com/20221209/31672a8aeb6ed/index.m3u8
 古都惊雷粤69,https://vip.ffzy-play.com/20221209/3167305d48252/index.m3u8
 古都惊雷粤70,https://vip.ffzy-play.com/20221209/3167419cdda48/index.m3u8
-黑龙江视咪咕,http://221.221.137.78:8888/tsfile/live/01431.m3u8?key=txiptv&playlive=1&authid=0
 香港卫视频道,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港C+-频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 环球电视频道,http://utv1.hqtvzb.com:9999/hls/world.m3u8
@@ -2906,9 +2905,10 @@ Storm憋了一年大招,https://live.ottiptv.cc/yy/1382735559
 (请)(地)每日一首,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
 cct4欧洲咪咕,http://1.202.119.183:15500/608807419
 cct4美洲咪咕,http://1.202.119.183:15500/608807416
+黑龙江视咪咕,http://1.202.119.183:15500/738906901
 全运开幕咪咕,http://rihou.cc:555/tv/[mv]开幕咪咕
 全运闭幕咪咕,http://rihou.cc:555/tv/[mv]闭幕咪咕
-20260726041940仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
+20260727042906仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
 林咏诗翻唱一,http://rihou.cc:555/tv/林咏诗翻唱一
 林咏诗翻唱二,http://rihou.cc:555/tv/林咏诗翻唱二
 林咏诗翻唱三,http://rihou.cc:555/tv/林咏诗翻唱三
@@ -2922,44 +2922,6 @@ cct4美洲咪咕,http://1.202.119.183:15500/608807416
 港风粤语女三,http://rihou.cc:555/tv/港风粤语女三
 港风粤语女四,http://rihou.cc:555/tv/港风粤语女四
 港风粤语女五,http://rihou.cc:555/tv/港风粤语女五
-10:00山东赤水河酒🆚北京师范大学,http://rihou.cc:555/tv/v
-国🔊26篮评述,http://rihou.cc:555/tv/26女篮咪评述
-14:30黑龙江队🆚陕西榆林天泽,http://rihou.cc:555/tv/v
-国🔊26篮述评,http://rihou.cc:555/tv/26女篮咪述评
-17:00合肥文旅🆚武汉盛帆黄鹤,http://rihou.cc:555/tv/v
-国🔊26篮评评,http://rihou.cc:555/tv/26女篮咪评评
-19:30新疆天山🆚赣州章贡赣星,http://rihou.cc:555/tv/v
-国🔊26篮述述,http://rihou.cc:555/tv/26女篮咪述述
-18:00阿勒泰队🆚伊犁队,http://rihou.cc:555/tv/v
-国🔊26疆评述,http://rihou.cc:555/tv/26疆超咪评述
-19:00云南玉昆🆚深圳鹏城,http://rihou.cc:555/tv/v
-国🔊26中评述,http://rihou.cc:555/tv/26中超咪评述
-19:35成都蓉城🆚北京国安,http://rihou.cc:555/tv/v
-国🔊26中述评,http://rihou.cc:555/tv/26中超咪述评
-19:35山东泰山🆚河南俱乐,http://rihou.cc:555/tv/v
-国🔊26中评评,http://rihou.cc:555/tv/26中超咪评评
-20:00浙江俱乐🆚大连英博,http://rihou.cc:555/tv/v
-国🔊26中述述,http://rihou.cc:555/tv/26中超咪述述
-19:25武汉华工科技队🆚神农架队,http://rihou.cc:555/tv/v
-国🔊26鄂评述,http://rihou.cc:555/tv/26鄂超咪评述
-19:30枣庄丰源轮胎队🆚淄博齐櫻锐思达,http://rihou.cc:555/tv/v
-国🔊26鲁评述,http://rihou.cc:555/tv/26鲁超咪评述
-19:30上饶队🆚南昌队,http://rihou.cc:555/tv/v
-国🔊26赣评述,http://rihou.cc:555/tv/26赣超咪评述
-19:30新余队🆚抚州队,http://rihou.cc:555/tv/v
-国🔊26赣述评,http://rihou.cc:555/tv/26赣超咪述评
-19:38娄底队🆚郴州队,http://rihou.cc:555/tv/v
-国🔊26湘评述,http://rihou.cc:555/tv/26湘超咪评述
-19:38常德队🆚株洲队,http://rihou.cc:555/tv/v
-国🔊26湘述评,http://rihou.cc:555/tv/26湘超咪述评
-19:38岳阳队🆚益阳队,http://rihou.cc:555/tv/v
-国🔊26湘评评,http://rihou.cc:555/tv/26湘超咪评评
-19:38湘潭队🆚怀化队,http://rihou.cc:555/tv/v
-国🔊26湘述述,http://rihou.cc:555/tv/26湘超咪述述
-19:38张家界队🆚湘西州队,http://rihou.cc:555/tv/v
-国🔊26湘旁述,http://rihou.cc:555/tv/26湘超咪旁述
-19:38衡阳队🆚邵阳队,http://rihou.cc:555/tv/v
-国🔊26湘述旁,http://rihou.cc:555/tv/26湘超咪述旁
 CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合

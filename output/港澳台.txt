@@ -1,5 +1,5 @@
 # 港澳台频道列表
-# 更新时间: 2026-07-26 05:31:15
+# 更新时间: 2026-07-27 05:49:09
 # 共 190 个频道
 #genre#
 无线翡翠4k音,https://o11.163189.xyz/stream/tvb/fct4k/
@@ -8,15 +8,6 @@ Plus综合高码,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
 ViuTv粤高码,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
 ViuTv英高码,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
 RTHK-31高码,http://beishan008.asuscomm.com:8892/bysid/31.m3u8
-CCTV-01咪咕,http://221.221.137.78:8888/tsfile/live/00011.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-02咪咕,http://221.221.137.78:8888/tsfile/live/00021.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-03咪咕,http://221.221.137.78:8888/tsfile/live/00031.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-04咪咕,http://221.221.137.78:8888/tsfile/live/00041.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-05咪咕,http://221.221.137.78:8888/tsfile/live/00051.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-06咪咕,http://221.221.137.78:8888/tsfile/live/00061.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-07咪咕,http://221.221.137.78:8888/tsfile/live/00071.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-08咪咕,http://221.221.137.78:8888/tsfile/live/00081.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-09咪咕,http://221.221.137.78:8888/tsfile/live/00091.m3u8?key=txiptv&playlive=1&authid=0
 凤凰电影频道,http://iot-mqqt.111yao.cn:8080/live/diypfhdy.m3u8
 星空电影频道,http://iot-mqqt.111yao.cn:8080/live/diypstarmovies.m3u8
 星空音乐频道,http://iot-mqqt.111yao.cn:8080/live/diypchannelv.m3u8
@@ -144,6 +135,15 @@ GINXTV4Gtv,http://nmk.ioapk.com:5050/4gtv-4gtv053/index.m3u8?proxy=true
 DW-之声4Gtv,http://nmk.ioapk.com:5050/4gtv-live071/index.m3u8?proxy=true
 历史频道4Gtv,http://nmk.ioapk.com:5050/4gtv-live026/index.m3u8?proxy=true
 国家地理4Gtv,http://nmk.ioapk.com:5050/4gtv-live208/index.m3u8?proxy=true
+CCTV-01广州,http://tvtj.jxwltx.com:8003/cctv1.m3u8
+CCTV-02广州,http://tvtj.jxwltx.com:8003/cctv2.m3u8
+CCTV-03广州,http://tvtj.jxwltx.com:8003/cctv3.m3u8
+CCTV-04广州,http://tvtj.jxwltx.com:8003/cctv4.m3u8
+CCTV-05广州,http://tvtj.jxwltx.com:8003/cctv5.m3u8
+CCTV-06广州,http://tvtj.jxwltx.com:8003/cctv6.m3u8
+CCTV-07广州,http://tvtj.jxwltx.com:8003/cctv7.m3u8
+CCTV-08广州,http://tvtj.jxwltx.com:8003/cctv8.m3u8
+CCTV-09广州,http://tvtj.jxwltx.com:8003/cctv9.m3u8
 Plus综合双语,https://o11.163189.xyz/stream/tvb/tvbp/
 astroaod双语,https://o11.163189.xyz/stream/live/aod/
 astroaec双语,https://o11.163189.xyz/stream/live/aec/
