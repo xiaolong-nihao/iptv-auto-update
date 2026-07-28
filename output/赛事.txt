@@ -1,5 +1,5 @@
 # 赛事频道列表
-# 更新时间: 2026-07-27 05:49:09
+# 更新时间: 2026-07-28 05:13:40
 # 共 66 个频道
 #genre#
 广东体育广州,http://tvtj1.jxwltx.com:8003/live2915.m3u8
@@ -24,15 +24,15 @@
 我的体育老师,https://live.ottiptv.cc/yy/1382745169
 鸭子天空-翱翔于篮球的梦想,https://live.ottiptv.cc/yy/1354930894
 拳拳到肉，搏击燃情,https://live.ottiptv.cc/yy/1382736870
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛27
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛27
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛27
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛27
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛27
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛27
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛27
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛27
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛27
+联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛28
+NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛28
+羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛28
+橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛28
+乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛28
+网球赛事回放,http://rihou.cc:555/tv/网球回放赛28
+排球赛事回放,http://rihou.cc:555/tv/排球回放赛28
+格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛28
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛28
 wwe格斗欣赏,http://rihou.cc:555/tv/[FY]wwe格斗
 WWE格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 足球小将剧集,http://8.155.43.98:35455/douyu/997925

@@ -1,5 +1,5 @@
 # 电影频道列表
-# 更新时间: 2026-07-27 05:49:09
+# 更新时间: 2026-07-28 05:13:40
 # 共 329 个频道
 #genre#
 电影大片频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57fast7381080Pt10/c57fast7381080Pt10.m3u8?d

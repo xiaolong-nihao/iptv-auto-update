@@ -1,6 +1,6 @@
 # 其他频道列表
-# 更新时间: 2026-07-27 05:49:09
-# 共 3251 个频道
+# 更新时间: 2026-07-28 05:13:40
+# 共 3279 个频道
 #genre#
 苏州4k频道超,https://tylive.kan0512.com/norecord/csztv4k4k.m3u8
 河北4k频道超,https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -2908,7 +2908,7 @@ cct4美洲咪咕,http://1.202.119.183:15500/608807416
 黑龙江视咪咕,http://1.202.119.183:15500/738906901
 全运开幕咪咕,http://rihou.cc:555/tv/[mv]开幕咪咕
 全运闭幕咪咕,http://rihou.cc:555/tv/[mv]闭幕咪咕
-20260727042906仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
+20260728035322仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
 林咏诗翻唱一,http://rihou.cc:555/tv/林咏诗翻唱一
 林咏诗翻唱二,http://rihou.cc:555/tv/林咏诗翻唱二
 林咏诗翻唱三,http://rihou.cc:555/tv/林咏诗翻唱三
@@ -2925,6 +2925,34 @@ cct4美洲咪咕,http://1.202.119.183:15500/608807416
 CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
+10:00陕西榆林天泽🆚武汉盛帆黄鹤,http://rihou.cc:555/tv/v
+国🔊28篮评述,http://rihou.cc:555/tv/28女篮咪评述
+14:30赣州章贡赣星🆚合肥文旅,http://rihou.cc:555/tv/v
+国🔊28篮述评,http://rihou.cc:555/tv/28女篮咪述评
+17:00山东赤水河酒🆚新疆天山,http://rihou.cc:555/tv/v
+国🔊28篮评评,http://rihou.cc:555/tv/28女篮咪评评
+19:30北京师范大学🆚黑龙江队,http://rihou.cc:555/tv/v
+国🔊28篮述述,http://rihou.cc:555/tv/28女篮咪述述
+17:45车路士🆚西悉尼流浪者,http://rihou.cc:555/tv/v
+国🔊28热评述,http://rihou.cc:555/tv/28热身咪评述
+10:00新疆天山🆚合肥文旅,http://rihou.cc:555/tv/v
+国🔊29篮评述,http://rihou.cc:555/tv/29女篮咪评述
+14:30黑龙江队🆚山东赤水河酒,http://rihou.cc:555/tv/v
+国🔊29篮述评,http://rihou.cc:555/tv/29女篮咪述评
+17:00陕西榆林天泽🆚赣州章贡赣星,http://rihou.cc:555/tv/v
+国🔊29篮评评,http://rihou.cc:555/tv/29女篮咪评评
+19:30武汉盛帆黄鹤🆚北京师范大学,http://rihou.cc:555/tv/v
+国🔊29篮述述,http://rihou.cc:555/tv/29女篮咪述述
+17:45热刺🆚悉尼FC,http://rihou.cc:555/tv/v
+国🔊29热评述,http://rihou.cc:555/tv/29热身咪评述
+10:00赣州章贡赣星🆚黑龙江队,http://rihou.cc:555/tv/v
+国🔊30篮评述,http://rihou.cc:555/tv/30女篮咪评述
+14:30北京师范大学🆚陕西榆林天泽,http://rihou.cc:555/tv/v
+国🔊30篮述评,http://rihou.cc:555/tv/30女篮咪述评
+17:00武汉盛帆黄鹤🆚新疆天山,http://rihou.cc:555/tv/v
+国🔊30篮评评,http://rihou.cc:555/tv/30女篮咪评评
+19:30合肥文旅🆚山东赤水河酒,http://rihou.cc:555/tv/v
+国🔊30篮述述,http://rihou.cc:555/tv/30女篮咪述述
 粤语戏曲欣赏,http://rihou.cc:555/tv/[Uk]无线戏曲
 粤语长片欣赏,http://rihou.cc:555/tv/[Uk]无线粤片
 邵氏武侠欣赏,http://rihou.cc:555/tv/[FY]邵氏武侠
