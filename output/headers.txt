@@ -2,11 +2,9 @@
 猫TV影视,#genre#
 欣赏港乐,#genre#
 欣赏Pdtv,#genre#
-女篮30赛,#genre#
-国青30赛,#genre#
-赛事精锦,#genre#
 中超31赛,#genre#
 湘超31赛,#genre#
+赛事精锦,#genre#
 央卫咪咕,#genre#
 特区双音,#genre#
 特区频晴,#genre#
@@ -57,11 +55,9 @@ car,#genre#
 ⬇️港乐翻唱⬇️,http://rihou.cc:555/tv/t
 ⬇️港乐粤翻⬇️,http://rihou.cc:555/tv/t
 ⬇️港风女声⬇️,http://rihou.cc:555/tv/t
-07-30⬇️全国女子篮球锦标赛⬇️🏀📡,http://rihou.cc:555/tv/t
-07-30⬇️国青男篮热身赛⬇️🏀📡,http://rihou.cc:555/tv/t
-⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
 07-31⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 07-31⬇️湖南省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
+⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
 ⬇️特闽新闻⬇️,http://rihou.cc:555/tv/v
 ⬇️特闽电影⬇️,http://rihou.cc:555/tv/v
 ⬇️特区资讯⬇️,http://rihou.cc:555/tv/v
