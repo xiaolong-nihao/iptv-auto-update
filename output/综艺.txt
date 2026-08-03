@@ -1,9 +1,8 @@
 # 综艺频道列表
-# 更新时间: 2026-08-02 05:25:49
+# 更新时间: 2026-08-03 05:40:34
 # 共 52 个频道
 #genre#
 中天娱乐频道,http://61.221.215.25:8800/hls/47/index.m3u8
-娱乐bb机,https://live.ottiptv.cc/huya/29982635
 香港喜剧大全,https://live.ottiptv.cc/huya/23865080
 娱乐现场,https://live.ottiptv.cc/huya/17001286
 赵本山经典小品,https://live.ottiptv.cc/douyu/9817716
@@ -22,6 +21,7 @@ LX娱乐-招主播,https://live.ottiptv.cc/huya/28259384
 爆有料综艺,https://live.ottiptv.cc/huya/27695407
 小野综艺,https://live.ottiptv.cc/huya/29890508
 喜剧大赏,https://live.ottiptv.cc/huya/30631713
+布布娱乐,https://live.ottiptv.cc/huya/29882863
 �逋鞠盗�-国产喜剧,https://live.ottiptv.cc/yy/1382736856
 爆笑小品大合集,https://live.ottiptv.cc/yy/1382736821
 国内喜剧,https://live.ottiptv.cc/yy/1382851598
