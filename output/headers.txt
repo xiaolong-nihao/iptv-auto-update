@@ -2,7 +2,6 @@
 猫TV影视,#genre#
 欣赏港乐,#genre#
 欣赏Pdtv,#genre#
-国青03赛,#genre#
 蒙超04赛,#genre#
 国青04赛,#genre#
 热身05赛,#genre#
@@ -57,7 +56,6 @@ car,#genre#
 ⬇️港乐翻唱⬇️,http://rihou.cc:555/tv/t
 ⬇️港乐粤翻⬇️,http://rihou.cc:555/tv/t
 ⬇️港风女声⬇️,http://rihou.cc:555/tv/t
-08-03⬇️国青男篮热身赛⬇️🏀📡,http://rihou.cc:555/tv/t
 08-04⬇️蒙超联赛1/4决赛第1轮⬇️⚽📡,http://rihou.cc:555/tv/t
 08-04⬇️国青男篮热身赛⬇️🏀📡,http://rihou.cc:555/tv/t
 08-05⬇️足球热身赛⬇️⚽📡,http://rihou.cc:555/tv/t
