@@ -1,6 +1,6 @@
 # 港澳台频道列表
-# 更新时间: 2026-08-06 05:15:30
-# 共 189 个频道
+# 更新时间: 2026-08-07 04:24:31
+# 共 190 个频道
 #genre#
 无线翡翠4k音,https://o11.163189.xyz/stream/tvb/fct4k/
 Plus综合高码,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
@@ -150,9 +150,10 @@ astroaec双语,https://o11.163189.xyz/stream/live/aec/
 astroiqiyi单国,https://o11.163189.xyz/stream/live/iqiyi/
 astro欢喜双语,https://o11.163189.xyz/stream/live/hxt/
 小虎牙-pTSEbHriOn,https://live.ottiptv.cc/huya/23863796
-TVB追剧小能手,https://live.ottiptv.cc/huya/23865179
-迪士尼姐姐,https://live.ottiptv.cc/huya/29982656
+TVB悬疑大片,https://live.ottiptv.cc/huya/23865072
+探索世界科普,https://live.ottiptv.cc/huya/20985813
 仰望星空慢直播,https://live.ottiptv.cc/huya/29465892
+迪士尼姐姐,https://live.ottiptv.cc/huya/29982656
 宇宙探索飞船,https://live.ottiptv.cc/douyu/9456028
 星空茶茶,https://live.ottiptv.cc/douyu/8635497
 欢喜冤家的爱情-夏日乐悠悠,https://live.ottiptv.cc/yy/1354936191
