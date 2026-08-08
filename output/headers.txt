@@ -2,11 +2,6 @@
 猫TV影视,#genre#
 欣赏港乐,#genre#
 欣赏Pdtv,#genre#
-女篮07赛,#genre#
-中超07赛,#genre#
-湘超07赛,#genre#
-热身07赛,#genre#
-赛事精锦,#genre#
 陇超08赛,#genre#
 鲁超08赛,#genre#
 闽超08赛,#genre#
@@ -16,7 +11,9 @@
 东北08赛,#genre#
 湘超08赛,#genre#
 苏超08赛,#genre#
+热身08赛,#genre#
 疆超08赛,#genre#
+赛事精锦,#genre#
 中超09赛,#genre#
 女篮09赛,#genre#
 鲁超09赛,#genre#
@@ -74,11 +71,6 @@ car,#genre#
 ⬇️港乐翻唱⬇️,http://rihou.cc:555/tv/t
 ⬇️港乐粤翻⬇️,http://rihou.cc:555/tv/t
 ⬇️港风女声⬇️,http://rihou.cc:555/tv/t
-08-07⬇️中国女篮系列热身赛⬇️🏀📡,http://rihou.cc:555/tv/t
-08-07⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-08-07⬇️湖南省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-08-07⬇️足球热身赛⬇️⚽📡,http://rihou.cc:555/tv/t
-⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
 08-08⬇️甘肃省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 08-08⬇️山东省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 08-08⬇️福建省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
@@ -88,7 +80,9 @@ car,#genre#
 08-08⬇️东北地区足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 08-08⬇️湖南省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 08-08⬇️苏超常规赛第16周⬇️⚽📡,http://rihou.cc:555/tv/t
+08-08⬇️足球热身赛⬇️⚽📡,http://rihou.cc:555/tv/t
 08-08⬇️疆超季军赛⬇️⚽📡,http://rihou.cc:555/tv/t
+⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
 08-09⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 08-09⬇️中国女篮系列热身赛⬇️🏀📡,http://rihou.cc:555/tv/t
 08-09⬇️山东省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t

@@ -1,11 +1,15 @@
 # 赛事频道列表
-# 更新时间: 2026-08-07 04:24:31
-# 共 62 个频道
+# 更新时间: 2026-08-08 03:23:34
+# 共 65 个频道
 #genre#
 广东体育广州,http://tvtj1.jxwltx.com:8003/live2915.m3u8
 摇滚足球本,https://live.ottiptv.cc/huya/29982616
+世界格斗场,https://live.ottiptv.cc/huya/11352969
+最篮球,https://live.ottiptv.cc/huya/29982651
+吐槽运动,https://live.ottiptv.cc/huya/11342436
 大头猴足球,https://live.ottiptv.cc/huya/29982605
 亚运体育7号台,https://live.ottiptv.cc/huya/136154
+雨燕体育直播,https://live.ottiptv.cc/huya/29982618
 哈拉少足球,https://live.ottiptv.cc/huya/29982619
 篮球人物,https://live.ottiptv.cc/douyu/8434598
 篮球过人技巧,https://live.ottiptv.cc/douyu/9406897
@@ -15,20 +19,19 @@
 篮球之家老李,https://live.ottiptv.cc/douyu/9170147
 拳击大王,https://live.ottiptv.cc/douyu/9385340
 屿风体育,https://live.ottiptv.cc/douyu/10329889
-黄金赛事,https://live.ottiptv.cc/douyu/12701197
 虎牙中式台球比赛,https://live.ottiptv.cc/huya/29588938
 我的体育老师,https://live.ottiptv.cc/yy/1382745169
 鸭子天空-翱翔于篮球的梦想,https://live.ottiptv.cc/yy/1354930894
 拳拳到肉，搏击燃情,https://live.ottiptv.cc/yy/1382736870
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛07
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛07
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛07
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛07
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛07
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛07
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛07
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛07
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛07
+联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛08
+NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛08
+羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛08
+橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛08
+乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛08
+网球赛事回放,http://rihou.cc:555/tv/网球回放赛08
+排球赛事回放,http://rihou.cc:555/tv/排球回放赛08
+格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛08
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛08
 wwe格斗欣赏,http://rihou.cc:555/tv/[FY]wwe格斗
 WWE格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 足球小将剧集,http://8.155.43.98:35455/douyu/997925
