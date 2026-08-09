@@ -1,12 +1,20 @@
 # 赛事频道列表
-# 更新时间: 2026-08-08 03:23:34
-# 共 65 个频道
+# 更新时间: 2026-08-09 03:40:20
+# 共 63 个频道
 #genre#
 广东体育广州,http://tvtj1.jxwltx.com:8003/live2915.m3u8
-摇滚足球本,https://live.ottiptv.cc/huya/29982616
+联赛赛事回放,https://pull-m1.wxlivecdn.com/trtc1400439699/live2042943268680168758wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+NBA赛事回放,https://pull-m1.wxlivecdn.com/trtc1400439699/live2042943268680168758wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+羽球赛事回放,https://pull-m1.wxlivecdn.com/trtc1400439699/live2042943268680168758wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+橄球赛事回放,https://pull-m1.wxlivecdn.com/trtc1400439699/live2042943268680168758wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+乒球赛事回放,https://pull-m1.wxlivecdn.com/trtc1400439699/live2042943268680168758wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+网球赛事回放,https://pull-m1.wxlivecdn.com/trtc1400439699/live2042943268680168758wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+排球赛事回放,https://pull-m1.wxlivecdn.com/trtc1400439699/live2042943268680168758wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+格斗赛事回放,https://pull-m1.wxlivecdn.com/trtc1400439699/live2042943268680168758wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+斯赛赛事回放,https://pull-m1.wxlivecdn.com/trtc1400439699/live2042943268680168758wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
 世界格斗场,https://live.ottiptv.cc/huya/11352969
 最篮球,https://live.ottiptv.cc/huya/29982651
-吐槽运动,https://live.ottiptv.cc/huya/11342436
+摇滚足球本,https://live.ottiptv.cc/huya/29982616
 大头猴足球,https://live.ottiptv.cc/huya/29982605
 亚运体育7号台,https://live.ottiptv.cc/huya/136154
 雨燕体育直播,https://live.ottiptv.cc/huya/29982618
@@ -19,19 +27,9 @@
 篮球之家老李,https://live.ottiptv.cc/douyu/9170147
 拳击大王,https://live.ottiptv.cc/douyu/9385340
 屿风体育,https://live.ottiptv.cc/douyu/10329889
-虎牙中式台球比赛,https://live.ottiptv.cc/huya/29588938
 我的体育老师,https://live.ottiptv.cc/yy/1382745169
 鸭子天空-翱翔于篮球的梦想,https://live.ottiptv.cc/yy/1354930894
 拳拳到肉，搏击燃情,https://live.ottiptv.cc/yy/1382736870
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛08
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛08
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛08
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛08
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛08
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛08
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛08
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛08
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛08
 wwe格斗欣赏,http://rihou.cc:555/tv/[FY]wwe格斗
 WWE格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 足球小将剧集,http://8.155.43.98:35455/douyu/997925

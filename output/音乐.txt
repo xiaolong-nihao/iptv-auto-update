@@ -1,10 +1,12 @@
 # 音乐频道列表
-# 更新时间: 2026-08-08 03:23:34
-# 共 61 个频道
+# 更新时间: 2026-08-09 03:40:20
+# 共 60 个频道
 #genre#
 (勿)(址)MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
 (贩)(已)AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 (卖)(变)音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
+音乐库仓抖播,https://pull-m1.wxlivecdn.com/trtc1400419933/orig2042943112869095148orig.flv?cdntagname=orig&combuf=x%2FWytFLpnJLouBDdZolahBtOx%2BSy5hs9mf5h2MBpJ4SScQ04Anx0Xy%2FAmaMm8gsCLkquBfpQL1JmWhZC2M0ivwoDeZwQUbM46SuK%2FtM9vpPC17S443kE7MoiABF2vvYrldSj%2FppNspklA5eHnbJ%2FrVVpfJm8RzJkDNZXLoKDhU%2B6Ly%2B5o1kbINdTkyc8NA0KFC%2BthGpTX5a%2BYA4789tBK5VXrZ2wV7T5mir2%2F7QRLAuTKrXx&expt=&extbuf=X50dC%2BReEssHdJKUIoR01ucsxTnTjNjm9dhSeI1hNht%2FIA3XCjuIaWoqmiHrqjJy5Jqu%2FnVxf0QbOcyWekudV3GZTu30YhVYUWtl1gvxNOziDM1qhcOb%2FtOuaP%2BdVo3zIMjQcWn9IJ0HtlxTEkHjyP1511oxkgBwYzkXxdh1%2BUR10MwfWOSyBGCos%2FsU0qrbNW7GcTItIHdcJ8LkR4rwKx41kHkB&gid=&openid=9C566958C82576DE093FDDE183AD538D&q=4&sc=500&sv=1&txSecret=b791675cc3ae417c8419457d39450ed0&txTime=6A788ADD&vcodec=1&wu=1&wxns=1&wxtoken=dcb54ce9d8ebd3873704226a9a4792b6
+音乐仓库抖播,https://pull-m1.wxlivecdn.com/trtc1400419933/orig2042943213441881358h264.flv?cdntagname=h264&combuf=HOu%2Bz%2FDKq7dB6NrXFRdemEJMm4VBjrX%2BdFWpc1XEzkYglJhshPGVQLQKwqlDsvsMq3LFkbKf%2Bc467qAQY9GIsZOWPU69Mnar8m7XJfvhGO1JWYnAAok%2FTPmCawkMjlxJkCZ7Tb1DVFcZXG%2FWSJv2RK8HwkFSk08ESowmHvs8GKe28fnYBvp0vQu958k%2FazNSoXEy80%2BEnR3eZXFI9a%2FiZx%2B1H4updl4WqsEv6Oxxc92Gvg%3D%3D&expt=&extbuf=pd9a5Td6X4QlBUb822Ize1ngmSyNKIvJOxx7FZ3g6vCCt5t1lQBW9DdBme2z7pbZm4q6qRS7NF9YeZaKuK%2FcrcQNhB7f0ZBOZ0cjN6jhfvrnfSFhbOqEFSEXeMCpRt6OJm3c8cUgUSmrx3hdJSbVqr3%2Fv%2BtIkONI6XkysPsS3f2mcedFVMuU9Hu89lDyojKg18zv1X%2B6e0Jamb3NbZ4U%2FggEUQ%3D%3D&gid=&openid=F05F89840C93ED835D038B7AB5BD8E3A&q=4&sc=500&sv=1&txSecret=6b805e0bc08535c2e5b84b933386f54a&txTime=6A788AD4&vcodec=1&wu=1&wxext=030000&wxns=1&wxtoken=34821db4229a700a14279cac4e8fe7f1
 粤语劲爆串烧,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8ccfd682b29e5010370019960c10c99258.mp4
 粤语精选串烧,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bfe4d0bd101e4f037001992d999551258.mp4
 粤语PG'串烧,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d89cc31cde8c4f037001998e2818b6258.mp4
@@ -29,16 +31,13 @@
 经典Dj嗨歌08,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8e215ade7dc860103700199b330ed3a258.mp4
 经典Dj嗨歌09,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8e884a6e896c30103700199cc4951c3258.mp4
 经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
-放松轻音乐,https://live.ottiptv.cc/huya/21241813
+颜值DJ,https://live.ottiptv.cc/huya/21241770
 虎牙音乐,https://live.ottiptv.cc/huya/880207
 音乐台长,https://live.ottiptv.cc/douyu/9629943
 热星音乐菌,https://live.ottiptv.cc/douyu/8405922
 UP主DJC,https://live.ottiptv.cc/douyu/9429545
-音乐小石榴,https://live.ottiptv.cc/huya/17091681
 音乐才女与霸道总裁的治愈之恋,https://live.ottiptv.cc/yy/1382735573
 马年串烧贺岁,http://rihou.cc:555/tv/[mv]串烧贺岁
-音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖08
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖08
 今日演唱会上,http://rihou.cc:555/tv/[mv]今日演上
 今日演唱会中,http://rihou.cc:555/tv/[mv]今日演中
 今日演唱会下,http://rihou.cc:555/tv/[mv]今日演下
