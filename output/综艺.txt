@@ -1,8 +1,7 @@
 # 综艺频道列表
-# 更新时间: 2026-08-10 03:52:25
-# 共 47 个频道
+# 更新时间: 2026-08-11 03:42:05
+# 共 38 个频道
 #genre#
-中天娱乐频道,http://61.221.215.25:8800/hls/47/index.m3u8
 香港喜剧大全,https://live.ottiptv.cc/huya/23865080
 娱乐现场,https://live.ottiptv.cc/huya/17001286
 赵本山经典小品,https://live.ottiptv.cc/douyu/9817716
@@ -11,13 +10,13 @@
 宋小宝小品,https://live.ottiptv.cc/douyu/9817729
 许君聪经典小品,https://live.ottiptv.cc/douyu/10419558
 3030相声小品,https://live.ottiptv.cc/douyu/9286868
+娱乐新番,https://live.ottiptv.cc/douyu/9564845
 淮秀帮官方,https://live.ottiptv.cc/douyu/2519745
 秀才侃娱乐,https://live.ottiptv.cc/douyu/9382873
 fans圈娱乐,https://live.ottiptv.cc/douyu/9630581
 娱乐扒叔,https://live.ottiptv.cc/douyu/9624581
-娱乐新番,https://live.ottiptv.cc/douyu/9564845
+LX娱乐-招主播,https://live.ottiptv.cc/huya/28259384
 周星驰--喜剧之王,https://live.ottiptv.cc/huya/30631741
-喜剧大赏,https://live.ottiptv.cc/huya/30631713
 �逋鞠盗�-国产喜剧,https://live.ottiptv.cc/yy/1382736856
 爆笑小品大合集,https://live.ottiptv.cc/yy/1382736821
 国内喜剧,https://live.ottiptv.cc/yy/1382851598
@@ -41,11 +40,3 @@ fans圈娱乐,https://live.ottiptv.cc/douyu/9630581
 24h 我爱我家 喜剧,https://live.ottiptv.cc/yy/1356212303
 《东北小品》,https://live.ottiptv.cc/yy/29600150
 东北小品王,https://live.ottiptv.cc/yy/34313906
-邵氏喜剧欣赏,http://rihou.cc:555/tv/[FY]邵氏喜剧
-脱口秀大会肆,http://120.220.76.91:2003/huya.php?id=30080243
-脱口秀大会伍,http://120.220.76.91:2003/huya.php?id=11352875
-娱乐扒叔轮播,http://8.155.43.98:35455/douyu/9624581
-粤语综艺轮播,http://8.155.43.98:35455/douyu/7919720
-喜剧虎牙频道,http://120.220.76.91:2003/huya.php?id=11352877
-喜剧专场频道,http://120.220.76.91:2003/huya.php?id=11602044
-搞笑喜剧频道,http://120.220.76.91:2003/huya.php?id=11342423
