@@ -1,6 +1,6 @@
 # 综艺频道列表
-# 更新时间: 2026-08-11 03:42:05
-# 共 38 个频道
+# 更新时间: 2026-08-12 04:05:42
+# 共 39 个频道
 #genre#
 香港喜剧大全,https://live.ottiptv.cc/huya/23865080
 娱乐现场,https://live.ottiptv.cc/huya/17001286
@@ -10,13 +10,14 @@
 宋小宝小品,https://live.ottiptv.cc/douyu/9817729
 许君聪经典小品,https://live.ottiptv.cc/douyu/10419558
 3030相声小品,https://live.ottiptv.cc/douyu/9286868
-娱乐新番,https://live.ottiptv.cc/douyu/9564845
-淮秀帮官方,https://live.ottiptv.cc/douyu/2519745
 秀才侃娱乐,https://live.ottiptv.cc/douyu/9382873
 fans圈娱乐,https://live.ottiptv.cc/douyu/9630581
+娱乐新番,https://live.ottiptv.cc/douyu/9564845
 娱乐扒叔,https://live.ottiptv.cc/douyu/9624581
+淮秀帮官方,https://live.ottiptv.cc/douyu/2519745
 LX娱乐-招主播,https://live.ottiptv.cc/huya/28259384
 周星驰--喜剧之王,https://live.ottiptv.cc/huya/30631741
+喜剧大赏,https://live.ottiptv.cc/huya/30631713
 �逋鞠盗�-国产喜剧,https://live.ottiptv.cc/yy/1382736856
 爆笑小品大合集,https://live.ottiptv.cc/yy/1382736821
 国内喜剧,https://live.ottiptv.cc/yy/1382851598

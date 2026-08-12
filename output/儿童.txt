@@ -1,7 +1,8 @@
 # 儿童频道列表
-# 更新时间: 2026-08-11 03:42:05
-# 共 23 个频道
+# 更新时间: 2026-08-12 04:05:42
+# 共 25 个频道
 #genre#
+经典日本动漫速看,https://live.ottiptv.cc/huya/29982686
 小当家动漫社,https://live.ottiptv.cc/huya/24257300
 开心锤锤动漫,https://live.ottiptv.cc/douyu/9018297
 PP看动漫,https://live.ottiptv.cc/douyu/9837291
@@ -14,12 +15,13 @@ PP看动漫,https://live.ottiptv.cc/douyu/9837291
 三新动漫,https://live.ottiptv.cc/douyu/9548279
 雨忆动漫,https://live.ottiptv.cc/douyu/9568700
 米粒儿动漫,https://live.ottiptv.cc/douyu/9445279
-鑫酱盘动漫,https://live.ottiptv.cc/douyu/9547575
 搞笑动漫大本营,https://live.ottiptv.cc/douyu/9650181
+鑫酱盘动漫,https://live.ottiptv.cc/douyu/9547575
 17号说动漫,https://live.ottiptv.cc/douyu/9822277
 动漫唯美風,https://live.ottiptv.cc/douyu/8912038
 杰克动漫,https://live.ottiptv.cc/huya/19757963
 老P仔动漫,https://live.ottiptv.cc/huya/26510802
+乔我说动漫频道,https://live.ottiptv.cc/huya/17941367
 动漫,https://live.ottiptv.cc/yy/26664495
 精彩动漫,https://live.ottiptv.cc/yy/1420843376
 国漫动漫,https://live.ottiptv.cc/yy/1354768828
