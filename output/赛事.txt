@@ -1,15 +1,15 @@
 # 赛事频道列表
-# 更新时间: 2026-08-12 04:05:42
-# 共 19 个频道
+# 更新时间: 2026-08-13 04:10:10
+# 共 20 个频道
 #genre#
 最篮球,https://live.ottiptv.cc/huya/29982651
-摇滚足球本,https://live.ottiptv.cc/huya/29982616
 世界格斗场,https://live.ottiptv.cc/huya/11352969
-哈拉少足球,https://live.ottiptv.cc/huya/29982619
 吐槽运动,https://live.ottiptv.cc/huya/11342436
-亚运体育7号台,https://live.ottiptv.cc/huya/136154
 大头猴足球,https://live.ottiptv.cc/huya/29982605
+摇滚足球本,https://live.ottiptv.cc/huya/29982616
 雨燕体育直播,https://live.ottiptv.cc/huya/29982618
+亚运体育7号台,https://live.ottiptv.cc/huya/136154
+哈拉少足球,https://live.ottiptv.cc/huya/29982619
 篮球人物,https://live.ottiptv.cc/douyu/8434598
 篮球过人技巧,https://live.ottiptv.cc/douyu/9406897
 篮球长镜头,https://live.ottiptv.cc/douyu/9399887
@@ -18,6 +18,7 @@
 篮球之家老李,https://live.ottiptv.cc/douyu/9170147
 拳击大王,https://live.ottiptv.cc/douyu/9385340
 屿风体育,https://live.ottiptv.cc/douyu/10329889
+虎牙中式台球比赛,https://live.ottiptv.cc/huya/29588938
 我的体育老师,https://live.ottiptv.cc/yy/1382745169
 鸭子天空-翱翔于篮球的梦想,https://live.ottiptv.cc/yy/1354930894
 拳拳到肉，搏击燃情,https://live.ottiptv.cc/yy/1382736870
