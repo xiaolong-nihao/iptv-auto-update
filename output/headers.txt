@@ -4,6 +4,5 @@
 原创IP,#genre#
 原创,#genre#
 zonghe,#genre#
-game,#genre#
 car,#genre#
 
