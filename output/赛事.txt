@@ -1,13 +1,13 @@
 # 赛事频道列表
-# 更新时间: 2026-08-17 02:57:30
+# 更新时间: 2026-08-18 02:53:24
 # 共 18 个频道
 #genre#
-世界格斗场,https://live.ottiptv.cc/huya/11352969
 最篮球,https://live.ottiptv.cc/huya/29982651
+世界格斗场,https://live.ottiptv.cc/huya/11352969
 摇滚足球本,https://live.ottiptv.cc/huya/29982616
 吐槽运动,https://live.ottiptv.cc/huya/11342436
-哈拉少足球,https://live.ottiptv.cc/huya/29982619
 大头猴足球,https://live.ottiptv.cc/huya/29982605
+哈拉少足球,https://live.ottiptv.cc/huya/29982619
 亚运体育7号台,https://live.ottiptv.cc/huya/136154
 雨燕体育直播,https://live.ottiptv.cc/huya/29982618
 篮球人物,https://live.ottiptv.cc/douyu/8434598
