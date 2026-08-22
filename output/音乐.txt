@@ -1,12 +1,11 @@
 # 音乐频道列表
-# 更新时间: 2026-08-21 03:00:15
-# 共 61 个频道
+# 更新时间: 2026-08-22 02:52:17
+# 共 62 个频道
 #genre#
 (勿)(址)MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
 (贩)(已)AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 (卖)(变)音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
-音乐库仓抖播,https://pull-m1.wxlivecdn.com/trtc1400419933/orig2042947368984720697orig.flv?cdntagname=orig&combuf=Gz7YKpEDs9rsYjRcGsIZsx2wfOO7oCcXnGYgsAOL5%2FxTxeeifrEolNxqgQ1efuDcAlximQPBZhgTda8LeGS%2BaUZl%2F1JXeXlTrN4uDAUApPEz1tgzC2pFp4Gvgwqf79%2B8qfdwAP58tzLujB4SBLFLC%2BowkZfCFFyGb9YzKew3OZt9QYboSMWPj9OIWy1GNXE2OZjTCYreoQ2qPKCW%2Fkiq8rj8xq6zvAYQ%2BwOidxC21bDfZLRv&expt=&extbuf=ivFOZPdOtKmw6hsRduUgl%2BcpbKe77p%2FLC4qo9gwhggIU5fRvuDPp%2B6e8ZmwSHC%2FG3cFX5sjulQKTLwuP0IZ7dQ99J7Yu0h7dlnnl3sSCZtEUQz7aL4uKUZNee9IwGcbJhD4nP13hpTu3ZdTfgl43LAbADLkD9S%2BlK5OclLW%2B0Odg142tnXGkm%2BB5BengenyAEWY4JS0FZ%2F%2FmsmWGoTtrs9eqFQ%3D%3D&gid=&openid=C1CA40028AA4B3DBE2055C9BC8F2F673&q=4&sc=500&sv=1&txSecret=8359f1b6fba671a5c3866d166a88386f&txTime=6A8877A1&vcodec=1&wu=1&wxns=1&wxtoken=e4cabffa43f2e1a7009b95cad320b093
-音乐仓库抖播,https://pull-m1.wxlivecdn.com/trtc1400419933/orig2042947509016683866h264.flv?cdntagname=h264&combuf=OeeI0VlDeoueTCz2pq2Cbf%2B1YirvP09L6ncqf62h6ZdJTH7hjjJgMnjBu9XNOZ2r3jIyvJuOsAENG5ps7fmLu0kF2tTD2KVoEqmIUt8iAN%2FmhGro2zRdb1ZjefIiH1%2FEN7ClxQk0xB0lOniksn67ieGVxen009Or7loZSvUDnudSoOkaHrPy9v7HOnq8XY%2FJP3BuHzUNOMhoETjM1dKoKKno1DJ4o6gp%2F5pIBEgZKgRNiChNPg%3D%3D&expt=&extbuf=oxxgHPH4OkKtn4FbwTOVS%2FGhpzVv%2BCqlBGvCO6tD22eFJzIZs7haq0eKiXuzACIkdbhteQ4MFd5q4gmnp%2FDZ3icO3jwDZZy0ZKIURnrr4DgKFp3jZfNnfpahhndfmmnVaITeY7MT2uv%2FA52oNrpgeWkiuL9sEykMrzeXIqjnvTMMmm5MKh33rxr7iH7zpdHrd8osdMEKS%2BBVmP20laN5aoI%3D&gid=&openid=ED30DA157DD887A8CCAD349DCCEED07F&q=3&sc=500&sv=1&txSecret=9e6faac11fcd6e293d0b37e3c64cb693&txTime=6A887783&vcodec=1&wu=1&wxext=030000&wxns=1&wxtoken=dd475adc5ab2c57fe87b667d4130a7ea
+音乐库仓抖播,https://pull-m1.wxlivecdn.com/trtc1400419933/orig2042947712747615592orig.flv?cdntagname=orig&combuf=y%2BzK%2BwRvuWw%2F9K%2FRK6YOe5Ubl6VlbRBytYQKlQJ5io1lQ74V1KH3Ijh%2B2BycClcwWEAVHWCjVgdzTwUtj6B%2FNKR4Izgm%2FazcthMOWLOl0S%2Fmosn090qCy6jUs434pwoTmA%2Bn9jT03PkxPeWWtYUwevb6ZGe6S%2FvcqkVSKtsGJTLLH9enx8%2B0BCWfnhRiYvlejIoaGG5bHGaS76J0G7b0qmY3mhMUAjAQh4gupfOmX%2BTsp60i&expt=&extbuf=uIZGb%2FEKc76JjWKLZah1%2FXN8H3tlA12YK8mpviUXzO511LlGGen9virKlA6ieGkVVwjl44coV9hRsULEELdwauNSOlX928YajuuI1sdVU3l1zNZ9eQfmoBLoTzpepurhC7ditWextGXteiyEZmNHHJsnv6OyQhv6Q4%2BARXpf1LjUD9TrLd7v6ccas%2FGdWzITUmyvEec9xtsyyJuw0RkzhKArDw%3D%3D&gid=&openid=0E894431ABFDFEB14AE2054166A01FB9&q=4&sc=500&sv=1&txSecret=16c4d0ba9e3790da90e49474df09e3bc&txTime=6A89A955&vcodec=1&wu=1&wxns=1&wxtoken=4c3f0c44d746e8f6bfe275e1a91d30fe
 粤语劲爆串烧,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8ccfd682b29e5010370019960c10c99258.mp4
 粤语精选串烧,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bfe4d0bd101e4f037001992d999551258.mp4
 粤语PG'串烧,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d89cc31cde8c4f037001998e2818b6258.mp4
@@ -31,8 +30,10 @@
 经典Dj嗨歌08,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8e215ade7dc860103700199b330ed3a258.mp4
 经典Dj嗨歌09,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8e884a6e896c30103700199cc4951c3258.mp4
 经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
-虎牙音乐,https://live.ottiptv.cc/huya/880207
+音乐仓库抖播,https://5cef0af2e5597ed2e915c46981c8c781.livehwc4.com/hw.flv.wxqcloud.qq.com/trtc1400419933/orig2078976679228819090nh420.flv?gid=&openid=AB867ABE073B7E59EC2426186D099727&q=3&sc=500&sv=2&vcodec=1&wu=1&wxext=030000&wxns=1&wxtoken=9044a1c99e4301d0d49a5c8c47c461a2&txTime=6A89A946&txSecret=104ec312d395f290a88a1525765337b6&svrtype=liveoc&cdnredirecttag=1787320568&tencenttestclientip=14.117.156.38&cdnredirect=true&cdntagname=nh420&cdnredirectdomain=f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com&combuf=0RaNCspSf69M8vHL071cOIydzbdXmStY5veTtt9eswc5T64MMr34v96x2Cjob%2BueI4DToHAV%2B2jqgItR5LQI9VBQYxrEdUxldTL83QFnNQgZ0o9EehKBlhrjbO0I0GGdklyeWAhAaSM04wPquaEvWUKXPX6GuPTPgyvRequuZTTWEjFcODUpv2n3gA0HYf4z7O74PSsx9sGfdIXLdV12lTWliJCVZahNgynV6g%3D%3D&TxLiveCode=coldstream&expt=&extbuf=NuangvFsmV1cyU3m5KItYP8QyIO2%2FU1FuDnf1FoyffyNtadS1pustUg4JOSaZcjoRPuW3djUtSbUo1ThGOnSjvpaGW0DbZ8xJ7WizH6VscUDbhPqWoFBe3O1Gj1j%2BMX47t5VyYQZ8LkIjqFv7ytTvMc8RBmY9aB2hLtcQco1YTe9nZMxBkyAJspTEB3OzaB3moHshHyPAVhc8azlRhvmQtM%3D&policy=5
 放松轻音乐,https://live.ottiptv.cc/huya/21241813
+虎牙音乐,https://live.ottiptv.cc/huya/880207
+颜值DJ,https://live.ottiptv.cc/huya/21241770
 音乐台长,https://live.ottiptv.cc/douyu/9629943
 热星音乐菌,https://live.ottiptv.cc/douyu/8405922
 UP主DJC,https://live.ottiptv.cc/douyu/9429545
