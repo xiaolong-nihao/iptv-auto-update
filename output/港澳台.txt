@@ -1,6 +1,6 @@
 # 港澳台频道列表
-# 更新时间: 2026-08-22 02:52:17
-# 共 189 个频道
+# 更新时间: 2026-08-23 03:00:10
+# 共 190 个频道
 #genre#
 无线翡翠4k音,https://o11.163189.xyz/stream/tvb/fct4k/
 Plus综合高码,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
@@ -149,7 +149,9 @@ astroaod双语,https://o11.163189.xyz/stream/live/aod/
 astroaec双语,https://o11.163189.xyz/stream/live/aec/
 astroiqiyi单国,https://o11.163189.xyz/stream/live/iqiyi/
 astro欢喜双语,https://o11.163189.xyz/stream/live/hxt/
-TVB追剧小能手,https://live.ottiptv.cc/huya/23865179
+小虎牙-pTSEbHriOn,https://live.ottiptv.cc/huya/23863796
+TVBaby,https://live.ottiptv.cc/huya/23865164
+仰望星空慢直播,https://live.ottiptv.cc/huya/29465892
 迪士尼姐姐,https://live.ottiptv.cc/huya/29982656
 探索世界科普,https://live.ottiptv.cc/huya/20985813
 宇宙探索飞船,https://live.ottiptv.cc/douyu/9456028
@@ -164,7 +166,6 @@ Now新闻Pdtv,http://rihou.cc:555/tv/[Pd]Now新闻
 astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
 年代新闻欣赏,http://rihou.cc:555/tv/[Hk]年代新闻
 闽壹新闻欣赏,http://rihou.cc:555/tv/[Hk]闽壹新闻
-tvbS新闻欣赏,http://rihou.cc:555/tv/[FY]tvbS新闻
 tvbS闽南欣赏,http://rihou.cc:555/tv/[Hv]tvbS闽南
 pₒₚc电影欣赏,http://rihou.cc:555/tv/[Hv]pₒₚc电影
 龙祥电影欣赏,http://rihou.cc:555/tv/[Hk]龙祥电影
