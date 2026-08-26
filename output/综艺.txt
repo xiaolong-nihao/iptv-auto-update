@@ -1,7 +1,8 @@
 # 综艺频道列表
-# 更新时间: 2026-08-25 02:56:22
-# 共 30 个频道
+# 更新时间: 2026-08-26 03:02:31
+# 共 39 个频道
 #genre#
+中天娱乐频道,http://61.221.215.25:8800/hls/47/index.m3u8
 香港喜剧大全,https://live.ottiptv.cc/huya/23865080
 娱乐现场,https://live.ottiptv.cc/huya/17001286
 赵本山经典小品,https://live.ottiptv.cc/douyu/9817716
@@ -11,24 +12,32 @@
 许君聪经典小品,https://live.ottiptv.cc/douyu/10419558
 3030相声小品,https://live.ottiptv.cc/douyu/9286868
 淮秀帮官方,https://live.ottiptv.cc/douyu/2519745
-fans圈娱乐,https://live.ottiptv.cc/douyu/9630581
 秀才侃娱乐,https://live.ottiptv.cc/douyu/9382873
+fans圈娱乐,https://live.ottiptv.cc/douyu/9630581
 娱乐扒叔,https://live.ottiptv.cc/douyu/9624581
 娱乐新番,https://live.ottiptv.cc/douyu/9564845
-LX娱乐-招主播,https://live.ottiptv.cc/huya/28259384
 周星驰--喜剧之王,https://live.ottiptv.cc/huya/30631741
 喜剧大赏,https://live.ottiptv.cc/huya/30631713
 �逋鞠盗�-国产喜剧,https://live.ottiptv.cc/yy/1382736856
-爆笑小品大合集,https://live.ottiptv.cc/yy/1382736821
 爆笑来袭-小品欢乐集结号,https://live.ottiptv.cc/yy/1382735558
+爆笑小品大合集,https://live.ottiptv.cc/yy/1382736821
 憨豆先生-经典喜剧,https://live.ottiptv.cc/yy/1354936239
 巩汉林春晚小品合集,https://live.ottiptv.cc/yy/1354889035
-国内喜剧,https://live.ottiptv.cc/yy/1382736862
 本山快乐营-爆笑小品,https://live.ottiptv.cc/yy/1354930948
+国内喜剧,https://live.ottiptv.cc/yy/1382736862
 国产搞笑喜剧片,https://live.ottiptv.cc/yy/1354932431
 金牌喜剧班,https://live.ottiptv.cc/yy/1354889009
-蔡明春晚小品,https://live.ottiptv.cc/yy/1354936177
 喜剧闹翻天,https://live.ottiptv.cc/yy/1382735548
 热门喜剧,https://live.ottiptv.cc/yy/1354931495
 贾玲春晚小品,https://live.ottiptv.cc/yy/1382736720
 开播！情景喜剧第二季,https://live.ottiptv.cc/yy/1382736920
+蔡明春晚小品,https://live.ottiptv.cc/yy/1354936177
+超喜剧地下交通站男神贾贵,https://live.ottiptv.cc/yy/1353428972
+邵氏喜剧欣赏,http://rihou.cc:555/tv/[FY]邵氏喜剧
+脱口秀大会肆,http://120.220.76.91:2003/huya.php?id=30080243
+脱口秀大会伍,http://120.220.76.91:2003/huya.php?id=11352875
+娱乐扒叔轮播,http://8.155.43.98:35455/douyu/9624581
+粤语综艺轮播,http://8.155.43.98:35455/douyu/7919720
+喜剧虎牙频道,http://120.220.76.91:2003/huya.php?id=11352877
+喜剧专场频道,http://120.220.76.91:2003/huya.php?id=11602044
+搞笑喜剧频道,http://120.220.76.91:2003/huya.php?id=11342423
