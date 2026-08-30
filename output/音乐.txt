@@ -1,6 +1,6 @@
 # 音乐频道列表
-# 更新时间: 2026-08-29 08:37:58
-# 共 59 个频道
+# 更新时间: 2026-08-30 07:52:48
+# 共 58 个频道
 #genre#
 (勿)(址)MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
 (贩)(已)AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
@@ -30,15 +30,14 @@
 经典Dj嗨歌09,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8e884a6e896c30103700199cc4951c3258.mp4
 经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 虎牙音乐,https://live.ottiptv.cc/huya/880207
-放松轻音乐,https://live.ottiptv.cc/huya/21241813
 颜值DJ,https://live.ottiptv.cc/huya/21241770
 音乐台长,https://live.ottiptv.cc/douyu/9629943
 热星音乐菌,https://live.ottiptv.cc/douyu/8405922
 UP主DJC,https://live.ottiptv.cc/douyu/9429545
-音乐小石榴,https://live.ottiptv.cc/huya/17091681
+DJ-圣徒i小野猪,https://live.ottiptv.cc/huya/26843723
 马年串烧贺岁,http://rihou.cc:555/tv/[mv]串烧贺岁
-音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖29
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖29
+音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖30
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖30
 今日演唱会上,http://rihou.cc:555/tv/[mv]今日演上
 今日演唱会中,http://rihou.cc:555/tv/[mv]今日演中
 今日演唱会下,http://rihou.cc:555/tv/[mv]今日演下
