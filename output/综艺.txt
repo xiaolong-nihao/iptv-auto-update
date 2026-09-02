@@ -1,10 +1,9 @@
 # 综艺频道列表
-# 更新时间: 2026-09-01 07:16:37
-# 共 13 个频道
+# 更新时间: 2026-09-02 06:48:34
+# 共 12 个频道
 #genre#
 中天娱乐频道,http://61.221.215.25:8800/hls/47/index.m3u8
 香港喜剧大全,https://live.ottiptv.cc/huya/23865080
-娱乐现场,https://live.ottiptv.cc/huya/17001286
 周星驰--喜剧之王,https://live.ottiptv.cc/huya/30631741
 喜剧大赏,https://live.ottiptv.cc/huya/30631713
 邵氏喜剧欣赏,http://rihou.cc:555/tv/[FY]邵氏喜剧

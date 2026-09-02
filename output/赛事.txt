@@ -1,13 +1,16 @@
 # 赛事频道列表
-# 更新时间: 2026-09-01 07:16:37
-# 共 50 个频道
+# 更新时间: 2026-09-02 06:48:34
+# 共 53 个频道
 #genre#
 广东体育广州,http://tvtj1.jxwltx.com:8003/live2915.m3u8
 摇滚足球本,https://live.ottiptv.cc/huya/29982616
-吐槽运动,https://live.ottiptv.cc/huya/11342436
+世界格斗场,https://live.ottiptv.cc/huya/11352969
 最篮球,https://live.ottiptv.cc/huya/29982651
+哈拉少足球,https://live.ottiptv.cc/huya/29982619
 大头猴足球,https://live.ottiptv.cc/huya/29982605
 雨燕体育直播,https://live.ottiptv.cc/huya/29982618
+亚运体育7号台,https://live.ottiptv.cc/huya/136154
+吐槽运动,https://live.ottiptv.cc/huya/11342436
 联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛01
 NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛01
 羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛01

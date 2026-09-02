@@ -1,6 +1,6 @@
 # 港澳台频道列表
-# 更新时间: 2026-09-01 07:16:37
-# 共 100 个频道
+# 更新时间: 2026-09-02 06:48:34
+# 共 99 个频道
 #genre#
 无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
 凤凰电影频道,http://iot-mqqt.111yao.cn:8080/live/diypfhdy.m3u8
@@ -21,12 +21,11 @@ CCTV-06广州,http://tvtj.jxwltx.com:8003/cctv6.m3u8
 CCTV-07广州,http://tvtj.jxwltx.com:8003/cctv7.m3u8
 CCTV-08广州,http://tvtj.jxwltx.com:8003/cctv8.m3u8
 CCTV-09广州,http://tvtj.jxwltx.com:8003/cctv9.m3u8
-华视-动作大片,https://live.ottiptv.cc/huya/23352535
-小虎牙-pTSEbHriOn,https://live.ottiptv.cc/huya/23863796
-TVB追剧小能手,https://live.ottiptv.cc/huya/23865179
-探索世界科普,https://live.ottiptv.cc/huya/20985813
+华视-悬疑恐怖,https://live.ottiptv.cc/huya/23358441
 迪士尼姐姐,https://live.ottiptv.cc/huya/29982656
-仰望星空慢直播,https://live.ottiptv.cc/huya/29465892
+小虎牙-pTSEbHriOn,https://live.ottiptv.cc/huya/23863796
+TVB悬疑大片,https://live.ottiptv.cc/huya/23865072
+探索世界科普,https://live.ottiptv.cc/huya/20985813
 Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
 中天新闻Pdtv,http://rihou.cc:555/tv/[Pd]中天新闻
 有线新闻Pdtv,http://rihou.cc:555/tv/[Pd]有线新闻
