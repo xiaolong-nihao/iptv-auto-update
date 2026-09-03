@@ -1,5 +1,7 @@
 # 纪录片频道列表
-# 更新时间: 2026-09-01 07:16:37
-# 共 1 个频道
+# 更新时间: 2026-09-03 06:51:19
+# 共 3 个频道
 #genre#
 正经纪录片,https://live.ottiptv.cc/huya/23860049
+纪录片之家字幕组,https://live.ottiptv.cc/douyu/8834003
+世界纪录大全,https://live.ottiptv.cc/douyu/9406359

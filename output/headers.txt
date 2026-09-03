@@ -3,11 +3,11 @@
 欣赏港乐,#genre#
 欣赏Pdtv,#genre#
 闽南4Gtv,#genre#
-男篮01赛,#genre#
-足协01赛,#genre#
-意杯02赛,#genre#
 男篮02赛,#genre#
 足协02赛,#genre#
+意杯02赛,#genre#
+意杯03赛,#genre#
+男篮03赛,#genre#
 赛事预告,#genre#
 赛事精锦,#genre#
 央卫咪咕,#genre#
@@ -37,6 +37,7 @@ Q-三国粤,#genre#
 视觉效果,#genre#
 4K频道,#genre#
 一起看,#genre#
+原创IP,#genre#
 原创,#genre#
 
 ➡️抖舞陪看⬅️,http://rihou.cc:555/tv/[mv]抖舞陪看
@@ -51,11 +52,9 @@ Q-三国粤,#genre#
 ⬇️港乐翻唱⬇️,http://rihou.cc:555/tv/t
 ⬇️港乐粤翻⬇️,http://rihou.cc:555/tv/t
 ⬇️港风女声⬇️,http://rihou.cc:555/tv/t
-09-01⬇️中国篮球“未来杯”赛⬇️🏀📡,http://rihou.cc:555/tv/t
-09-01⬇️足协杯1/4决赛⬇️⚽📡,http://rihou.cc:555/tv/t
-09-02⬇️意大利杯第二轮⬇️⚽📡,http://rihou.cc:555/tv/t
 09-02⬇️中国篮球“未来杯”赛⬇️🏀📡,http://rihou.cc:555/tv/t
 09-02⬇️足协杯1/4决赛⬇️⚽📡,http://rihou.cc:555/tv/t
+09-02⬇️意大利杯第二轮⬇️⚽📡,http://rihou.cc:555/tv/t
 09-03⬇️意大利杯第二轮⬇️⚽📡,http://rihou.cc:555/tv/t
 09-03⬇️中国篮球“未来杯”赛⬇️🏀📡,http://rihou.cc:555/tv/t
 09-04⬇️意大利杯第二轮⬇️⚽📡,http://rihou.cc:555/tv/t
