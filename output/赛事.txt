@@ -1,33 +1,32 @@
 # 赛事频道列表
-# 更新时间: 2026-09-03 06:51:19
-# 共 61 个频道
+# 更新时间: 2026-09-04 06:56:18
+# 共 60 个频道
 #genre#
 广东体育广州,http://tvtj1.jxwltx.com:8003/live2915.m3u8
-最篮球,https://live.ottiptv.cc/huya/29982651
 摇滚足球本,https://live.ottiptv.cc/huya/29982616
-吐槽运动,https://live.ottiptv.cc/huya/11342436
 世界格斗场,https://live.ottiptv.cc/huya/11352969
-雨燕体育直播,https://live.ottiptv.cc/huya/29982618
-哈拉少足球,https://live.ottiptv.cc/huya/29982619
-亚运体育7号台,https://live.ottiptv.cc/huya/136154
+最篮球,https://live.ottiptv.cc/huya/29982651
 大头猴足球,https://live.ottiptv.cc/huya/29982605
+哈拉少足球,https://live.ottiptv.cc/huya/29982619
+雨燕体育直播,https://live.ottiptv.cc/huya/29982618
+亚运体育7号台,https://live.ottiptv.cc/huya/136154
 篮球人物,https://live.ottiptv.cc/douyu/8434598
 篮球过人技巧,https://live.ottiptv.cc/douyu/9406897
 绘说篮球C,https://live.ottiptv.cc/douyu/9401305
 篮球长镜头,https://live.ottiptv.cc/douyu/9399887
-屿风体育,https://live.ottiptv.cc/douyu/10329889
-篮球小人物,https://live.ottiptv.cc/douyu/9184257
 拳击大王,https://live.ottiptv.cc/douyu/9385340
+篮球小人物,https://live.ottiptv.cc/douyu/9184257
+屿风体育,https://live.ottiptv.cc/douyu/10329889
 篮球之家老李,https://live.ottiptv.cc/douyu/9170147
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛02
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛02
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛02
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛02
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛02
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛02
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛02
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛02
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛02
+联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛03
+NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛03
+羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛03
+橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛03
+乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛03
+网球赛事回放,http://rihou.cc:555/tv/网球回放赛03
+排球赛事回放,http://rihou.cc:555/tv/排球回放赛03
+格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛03
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛03
 WWE格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 我的体育老师,http://8.155.43.98:35455/yy/1382745169
 足球小将剧集,http://8.155.43.98:35455/douyu/997925
