@@ -1,5 +1,5 @@
 # 音乐频道列表
-# 更新时间: 2026-09-05 06:40:57
+# 更新时间: 2026-09-06 06:51:20
 # 共 56 个频道
 #genre#
 (勿)(址)MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
@@ -29,8 +29,8 @@
 经典Dj嗨歌08,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8e215ade7dc860103700199b330ed3a258.mp4
 经典Dj嗨歌09,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8e884a6e896c30103700199cc4951c3258.mp4
 经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
+颜值DJ,https://live.ottiptv.cc/huya/21241770
 放松轻音乐,https://live.ottiptv.cc/huya/21241813
-虎牙音乐,https://live.ottiptv.cc/huya/880207
 音乐台长,https://live.ottiptv.cc/douyu/9629943
 热星音乐菌,https://live.ottiptv.cc/douyu/8405922
 UP主DJC,https://live.ottiptv.cc/douyu/9429545

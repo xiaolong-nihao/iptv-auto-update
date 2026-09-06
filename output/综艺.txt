@@ -1,5 +1,5 @@
 # 综艺频道列表
-# 更新时间: 2026-09-05 06:40:57
+# 更新时间: 2026-09-06 06:51:20
 # 共 24 个频道
 #genre#
 中天娱乐频道,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -12,10 +12,10 @@
 许君聪经典小品,https://live.ottiptv.cc/douyu/10419558
 3030相声小品,https://live.ottiptv.cc/douyu/9286868
 淮秀帮官方,https://live.ottiptv.cc/douyu/2519745
-fans圈娱乐,https://live.ottiptv.cc/douyu/9630581
-娱乐新番,https://live.ottiptv.cc/douyu/9564845
 娱乐扒叔,https://live.ottiptv.cc/douyu/9624581
 秀才侃娱乐,https://live.ottiptv.cc/douyu/9382873
+娱乐新番,https://live.ottiptv.cc/douyu/9564845
+fans圈娱乐,https://live.ottiptv.cc/douyu/9630581
 周星驰--喜剧之王,https://live.ottiptv.cc/huya/30631741
 喜剧大赏,https://live.ottiptv.cc/huya/30631713
 邵氏喜剧欣赏,http://rihou.cc:555/tv/[FY]邵氏喜剧
