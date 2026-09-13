@@ -1,33 +1,32 @@
 # 赛事频道列表
-# 更新时间: 2026-09-12 06:51:38
-# 共 68 个频道
+# 更新时间: 2026-09-13 07:10:38
+# 共 67 个频道
 #genre#
 广东体育广州,http://tvtj1.jxwltx.com:8003/live2915.m3u8
+汇竞技,https://live.ottiptv.cc/douyu/12837494
 摇滚足球本,https://live.ottiptv.cc/huya/29982616
 最篮球,https://live.ottiptv.cc/huya/29982651
-哈拉少足球,https://live.ottiptv.cc/huya/29982619
-大头猴足球,https://live.ottiptv.cc/huya/29982605
+世界格斗场,https://live.ottiptv.cc/huya/11352969
 吐槽运动,https://live.ottiptv.cc/huya/11342436
-亚运体育7号台,https://live.ottiptv.cc/huya/136154
+大头猴足球,https://live.ottiptv.cc/huya/29982605
 雨燕体育直播,https://live.ottiptv.cc/huya/29982618
+哈拉少足球,https://live.ottiptv.cc/huya/29982619
+亚运体育7号台,https://live.ottiptv.cc/huya/136154
+体育show,https://live.ottiptv.cc/douyu/12896223
 篮球人物,https://live.ottiptv.cc/douyu/8434598
 篮球过人技巧,https://live.ottiptv.cc/douyu/9406897
 绘说篮球C,https://live.ottiptv.cc/douyu/9401305
-汇动体育,https://live.ottiptv.cc/douyu/11500471
-屿风体育,https://live.ottiptv.cc/douyu/10329889
-篮球长镜头,https://live.ottiptv.cc/douyu/9399887
-拳击大王,https://live.ottiptv.cc/douyu/9385340
-篮球之家老李,https://live.ottiptv.cc/douyu/9170147
 篮球小人物,https://live.ottiptv.cc/douyu/9184257
-我的体育老师,https://live.ottiptv.cc/yy/1382745169
-拳拳到肉，搏击燃情,https://live.ottiptv.cc/yy/1382736870
-19:00粤港澳篮球邀请赛🆚Day1,http://rihou.cc:555/tv/v
-20:00桑坦德竞技🆚阿拉维斯,http://rihou.cc:555/tv/v
-00:30毕尔巴鄂竞技🆚埃尔切,http://rihou.cc:555/tv/v
+黄金赛事,https://live.ottiptv.cc/douyu/12701197
+篮球长镜头,https://live.ottiptv.cc/douyu/9399887
+篮球之家老李,https://live.ottiptv.cc/douyu/9170147
+拳击大王,https://live.ottiptv.cc/douyu/9385340
+屿风体育,https://live.ottiptv.cc/douyu/10329889
 19:00粤港澳篮球邀请赛🆚Day2,http://rihou.cc:555/tv/v
 03:00皇家社会🆚马德里竞技,http://rihou.cc:555/tv/v
 英超15赛,http://rihou.cc:555/tv/t
 WWE格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
+我的体育老师,http://8.155.43.98:35455/yy/1382745169
 足球小将剧集,http://8.155.43.98:35455/douyu/997925
 足球小将轮播,http://8.155.43.98:35455/douyu/11870067
 足球小将解说,http://120.220.76.91:2003/huya.php?id=25725150
