@@ -1,9 +1,6 @@
 注意事项,#genre#
 猫TV影视,#genre#
 欣赏港乐,#genre#
-意甲15赛,#genre#
-英超15赛,#genre#
-西甲15赛,#genre#
 亚冠15赛,#genre#
 亚冠16赛,#genre#
 西甲16赛,#genre#
@@ -39,7 +36,6 @@ Q-三国粤,#genre#
 原创IP,#genre#
 原创,#genre#
 zonghe,#genre#
-other,#genre#
 car,#genre#
 
 ➡️抖舞陪看⬅️,http://rihou.cc:555/tv/[mv]抖舞陪看
@@ -54,9 +50,6 @@ car,#genre#
 ⬇️港乐翻唱⬇️,http://rihou.cc:555/tv/t
 ⬇️港乐粤翻⬇️,http://rihou.cc:555/tv/t
 ⬇️港风女声⬇️,http://rihou.cc:555/tv/t
-09-15⬇️意甲联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-09-15⬇️英超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-09-15⬇️西甲联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 09-15⬇️亚冠精英联赛阶段⬇️⚽📡,http://rihou.cc:555/tv/t
 09-16⬇️亚冠精英联赛阶段⬇️⚽📡,http://rihou.cc:555/tv/t
 09-16⬇️西甲联赛⬇️⚽📡,http://rihou.cc:555/tv/t
