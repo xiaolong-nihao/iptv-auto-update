@@ -1,6 +1,6 @@
 # 综艺频道列表
-# 更新时间: 2026-09-18 07:03:46
-# 共 39 个频道
+# 更新时间: 2026-09-19 07:02:06
+# 共 43 个频道
 #genre#
 中天娱乐频道,http://61.221.215.25:8800/hls/47/index.m3u8
 香港喜剧大全,https://live.ottiptv.cc/huya/23865080
@@ -10,18 +10,18 @@
 许君聪经典小品,https://live.ottiptv.cc/douyu/10419558
 贾玲经典小品,https://live.ottiptv.cc/douyu/10419541
 3030相声小品,https://live.ottiptv.cc/douyu/9286868
+淮秀帮官方,https://live.ottiptv.cc/douyu/2519745
 秀才侃娱乐,https://live.ottiptv.cc/douyu/9382873
 娱乐新番,https://live.ottiptv.cc/douyu/9564845
 fans圈娱乐,https://live.ottiptv.cc/douyu/9630581
 娱乐扒叔,https://live.ottiptv.cc/douyu/9624581
-淮秀帮官方,https://live.ottiptv.cc/douyu/2519745
 周星驰--喜剧之王,https://live.ottiptv.cc/huya/30631741
 喜剧大赏,https://live.ottiptv.cc/huya/30631713
 �逋鞠盗�-国产喜剧,https://live.ottiptv.cc/yy/1382736856
 爆笑小品大合集,https://live.ottiptv.cc/yy/1382736821
 憨豆先生-经典喜剧,https://live.ottiptv.cc/yy/1354936239
-本山快乐营-爆笑小品,https://live.ottiptv.cc/yy/1354930948
 巩汉林春晚小品合集,https://live.ottiptv.cc/yy/1354889035
+本山快乐营-爆笑小品,https://live.ottiptv.cc/yy/1354930948
 国内喜剧,https://live.ottiptv.cc/yy/1382736862
 金牌喜剧班,https://live.ottiptv.cc/yy/1354889009
 国产搞笑喜剧片,https://live.ottiptv.cc/yy/1354932431
@@ -31,8 +31,12 @@ fans圈娱乐,https://live.ottiptv.cc/douyu/9630581
 开播！情景喜剧第二季,https://live.ottiptv.cc/yy/1382736920
 热门喜剧,https://live.ottiptv.cc/yy/1354931495
 YY星秀璀璨，精彩不断,https://live.ottiptv.cc/yy/1354808044
-24h 我爱我家 喜剧,https://live.ottiptv.cc/yy/1356212303
+超喜剧地下交通站男神贾贵,https://live.ottiptv.cc/yy/1353428972
+港片 喜剧 动作,https://live.ottiptv.cc/yy/1355480591
 赌神 港片 喜剧,https://live.ottiptv.cc/yy/1355112116
+24h 我爱我家 喜剧,https://live.ottiptv.cc/yy/1356212303
+《东北小品》,https://live.ottiptv.cc/yy/29600150
+东北小品王,https://live.ottiptv.cc/yy/34313906
 邵氏喜剧欣赏,http://rihou.cc:555/tv/[FY]邵氏喜剧
 脱口秀大会肆,http://120.220.76.91:2003/huya.php?id=30080243
 脱口秀大会伍,http://120.220.76.91:2003/huya.php?id=11352875
