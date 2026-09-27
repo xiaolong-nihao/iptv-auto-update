@@ -32,6 +32,7 @@ Q-三国粤,#genre#
 原创IP,#genre#
 原创,#genre#
 zonghe,#genre#
+sport,#genre#
 other,#genre#
 car,#genre#
 
