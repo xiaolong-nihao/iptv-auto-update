@@ -1,5 +1,5 @@
 # 综艺频道列表
-# 更新时间: 2026-09-27 07:36:05
+# 更新时间: 2026-09-28 08:13:46
 # 共 43 个频道
 #genre#
 中天娱乐频道,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -7,23 +7,23 @@
 赵本山经典小品,https://live.ottiptv.cc/douyu/9817716
 开心麻花经典小品,https://live.ottiptv.cc/douyu/10153463
 宋小宝小品,https://live.ottiptv.cc/douyu/9817729
-许君聪经典小品,https://live.ottiptv.cc/douyu/10419558
 贾玲经典小品,https://live.ottiptv.cc/douyu/10419541
+许君聪经典小品,https://live.ottiptv.cc/douyu/10419558
 3030相声小品,https://live.ottiptv.cc/douyu/9286868
+淮秀帮官方,https://live.ottiptv.cc/douyu/2519745
 秀才侃娱乐,https://live.ottiptv.cc/douyu/9382873
 娱乐新番,https://live.ottiptv.cc/douyu/9564845
-娱乐扒叔,https://live.ottiptv.cc/douyu/9624581
 fans圈娱乐,https://live.ottiptv.cc/douyu/9630581
-淮秀帮官方,https://live.ottiptv.cc/douyu/2519745
+娱乐扒叔,https://live.ottiptv.cc/douyu/9624581
 周星驰--喜剧之王,https://live.ottiptv.cc/huya/30631741
 LX娱乐-招主播,https://live.ottiptv.cc/huya/28259384
 喜剧大赏,https://live.ottiptv.cc/huya/30631713
 爆笑小品大合集,https://live.ottiptv.cc/yy/1382736821
 �逋鞠盗�-国产喜剧,https://live.ottiptv.cc/yy/1382736856
-巩汉林春晚小品合集,https://live.ottiptv.cc/yy/1354889035
 憨豆先生-经典喜剧,https://live.ottiptv.cc/yy/1354936239
-本山快乐营-爆笑小品,https://live.ottiptv.cc/yy/1354930948
+巩汉林春晚小品合集,https://live.ottiptv.cc/yy/1354889035
 国内喜剧,https://live.ottiptv.cc/yy/1382736862
+本山快乐营-爆笑小品,https://live.ottiptv.cc/yy/1354930948
 金牌喜剧班,https://live.ottiptv.cc/yy/1354889009
 国产搞笑喜剧片,https://live.ottiptv.cc/yy/1354932431
 喜剧闹翻天,https://live.ottiptv.cc/yy/1382735548
@@ -31,8 +31,8 @@ LX娱乐-招主播,https://live.ottiptv.cc/huya/28259384
 蔡明春晚小品,https://live.ottiptv.cc/yy/1354936177
 热门喜剧,https://live.ottiptv.cc/yy/1354931495
 开播！情景喜剧第二季,https://live.ottiptv.cc/yy/1382736920
-赵本山宋小宝小品大全,https://live.ottiptv.cc/yy/1382745331
 港片 喜剧 动作,https://live.ottiptv.cc/yy/1355480591
+赵本山宋小宝小品大全,https://live.ottiptv.cc/yy/1382745331
 24h 我爱我家 喜剧,https://live.ottiptv.cc/yy/1356212303
 赌神 港片 喜剧,https://live.ottiptv.cc/yy/1355112116
 《东北小品》,https://live.ottiptv.cc/yy/29600150
