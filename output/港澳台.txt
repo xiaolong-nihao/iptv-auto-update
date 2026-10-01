@@ -1,7 +1,8 @@
 # 港澳台频道列表
-# 更新时间: 2026-09-30 07:59:37
-# 共 65 个频道
+# 更新时间: 2026-10-01 08:19:16
+# 共 73 个频道
 #genre#
+无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
 凤凰电影频道,http://iot-mqqt.111yao.cn:8080/live/diypfhdy.m3u8
 星空电影频道,http://iot-mqqt.111yao.cn:8080/live/diypstarmovies.m3u8
 星空音乐频道,http://iot-mqqt.111yao.cn:8080/live/diypchannelv.m3u8
@@ -20,20 +21,32 @@ CCTV-06广州,http://tvtj.jxwltx.com:8003/cctv6.m3u8
 CCTV-07广州,http://tvtj.jxwltx.com:8003/cctv7.m3u8
 CCTV-08广州,http://tvtj.jxwltx.com:8003/cctv8.m3u8
 CCTV-09广州,http://tvtj.jxwltx.com:8003/cctv9.m3u8
-华视-动作大片,https://live.ottiptv.cc/huya/23352535
 小虎牙-pTSEbHriOn,https://live.ottiptv.cc/huya/23863796
-仰望星空慢直播,https://live.ottiptv.cc/huya/29465892
-iTVB大后宫,https://live.ottiptv.cc/huya/23863804
-迪士尼姐姐,https://live.ottiptv.cc/huya/29982656
+华视-警匪大片,https://live.ottiptv.cc/huya/23358421
 探索世界科普,https://live.ottiptv.cc/huya/20985813
+TVB悬疑大片,https://live.ottiptv.cc/huya/23865072
+仰望星空慢直播,https://live.ottiptv.cc/huya/29465892
+迪士尼姐姐,https://live.ottiptv.cc/huya/29982656
 宇宙探索飞船,https://live.ottiptv.cc/douyu/9456028
 星空茶茶,https://live.ottiptv.cc/douyu/8635497
 欢喜冤家的爱情-夏日乐悠悠,https://live.ottiptv.cc/yy/1354936191
 欢喜冤家宜解不宜结,https://live.ottiptv.cc/yy/1382736853
-有线新闻欣赏,http://rihou.cc:555/tv/[Pd]有线新闻
-无线新闻欣赏,http://rihou.cc:555/tv/[Pd]无线新闻
-Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
-中天新闻欣赏,http://rihou.cc:555/tv/[Pd]中天新闻
+Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
+中天新闻Pdtv,http://rihou.cc:555/tv/[Pd]中天新闻
+有线新闻Pdtv,http://rihou.cc:555/tv/[Pd]有线新闻
+Now新闻Pdtv,http://rihou.cc:555/tv/[Pd]Now新闻
+RTHK-31Pdtv,http://rihou.cc:555/tv/[Pd]RTHK-31
+澳视澳门Pdtv,http://rihou.cc:555/tv/[Pd]澳视澳门
+龙华电影Pdtv,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华经典Pdtv,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华偶像Pdtv,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩Pdtv,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华戏剧Pdtv,http://rihou.cc:555/tv/[Pd]龙华戏剧
+龙华洋片Pdtv,http://rihou.cc:555/tv/[Pd]龙华洋片
+龙华卡通Pdtv,http://rihou.cc:555/tv/[Pd]龙华卡通
+八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
+astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
+Astr欢喜Pdtv,http://rihou.cc:555/tv/[Pd]Astr欢喜
 寰宇新闻欣赏,http://rihou.cc:555/tv/[Hk]寰宇新闻
 东森新闻欣赏,http://rihou.cc:555/tv/[Hk]东森新闻
 中视新闻欣赏,http://rihou.cc:555/tv/[Hk]中视新闻
@@ -44,19 +57,14 @@ Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
 闽镜新闻欣赏,http://rihou.cc:555/tv/[Hk]闽镜新闻
 闽壹新闻欣赏,http://rihou.cc:555/tv/[Hk]闽壹新闻
 tvbS闽南欣赏,http://rihou.cc:555/tv/[Hv]tvbS闽南
-Plus综合欣赏,http://rihou.cc:555/tv/[Pd]Plus综合
 万辉翡翠台庆,http://rihou.cc:555/tv/[mv]翡翠台庆
-澳视澳门FYtv,http://iptv.4666888.xyz/iptv2A.php?id=41
 广东珠江FYtv,http://iptv.4666888.xyz/iptv2A.php?id=19
 广东体育FYtv,http://iptv.4666888.xyz/iptv2A.php?id=20
 美亚电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=30
-RTHK-31FYtv,http://iptv.4666888.xyz/iptv2A.php?id=23
 tvbs新闻FYtv,http://iptv.4666888.xyz/iptv2A.php?id=43
-龙华电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=45
 非凡商业FYtv,http://iptv.4666888.xyz/iptv2A.php?id=44
 华艺中文FYtv,http://iptv.4666888.xyz/iptv2A.php?id=37
 博运动壹FYtv,http://iptv.4666888.xyz/iptv2A.php?id=6
-八度空间FYtv,http://iptv.4666888.xyz/iptv2A.php?id=52
 爱奇艺综FYtv,http://iptv.4666888.xyz/iptv2A.php?id=21
 JET-综合FYtv,http://iptv.4666888.xyz/iptv2A.php?id=51
 ELta综合FYtv,http://iptv.4666888.xyz/iptv2A.php?id=49

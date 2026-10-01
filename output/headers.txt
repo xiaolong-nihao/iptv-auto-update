@@ -3,6 +3,7 @@
 欣赏港乐,#genre#
 赛事精锦,#genre#
 央卫咪咕,#genre#
+欣赏Pdtv,#genre#
 欣赏频道,#genre#
 网页音乐,#genre#
 欣赏音乐,#genre#
