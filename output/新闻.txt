@@ -1,5 +1,5 @@
 # 新闻频道列表
-# 更新时间: 2026-10-03 07:35:35
+# 更新时间: 2026-10-04 07:46:33
 # 共 19 个频道
 #genre#
 广州新闻频道,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
