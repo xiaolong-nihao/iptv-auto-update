@@ -1,5 +1,5 @@
 # 港澳台频道列表
-# 更新时间: 2026-10-04 07:46:33
+# 更新时间: 2026-10-05 08:21:34
 # 共 73 个频道
 #genre#
 无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
@@ -25,8 +25,8 @@ CCTV-09广州,http://tvtj.jxwltx.com:8003/cctv9.m3u8
 小虎牙-pTSEbHriOn,https://live.ottiptv.cc/huya/23863796
 iTVB大后宫,https://live.ottiptv.cc/huya/23863804
 仰望星空慢直播,https://live.ottiptv.cc/huya/29465892
-探索世界科普,https://live.ottiptv.cc/huya/20985813
 迪士尼姐姐,https://live.ottiptv.cc/huya/29982656
+探索世界科普,https://live.ottiptv.cc/huya/20985813
 宇宙探索飞船,https://live.ottiptv.cc/douyu/9456028
 星空茶茶,https://live.ottiptv.cc/douyu/8635497
 欢喜冤家的爱情-夏日乐悠悠,https://live.ottiptv.cc/yy/1354936191
