@@ -1,6 +1,6 @@
 # 综艺频道列表
-# 更新时间: 2026-10-17 06:34:16
-# 共 13 个频道
+# 更新时间: 2026-10-18 06:57:39
+# 共 33 个频道
 #genre#
 香港喜剧大全,https://live.ottiptv.cc/huya/23865080
 赵本山经典小品,https://live.ottiptv.cc/douyu/9817716
@@ -15,3 +15,23 @@ fans圈娱乐,https://live.ottiptv.cc/douyu/9630581
 娱乐扒叔,https://live.ottiptv.cc/douyu/9624581
 周星驰--喜剧之王,https://live.ottiptv.cc/huya/30631741
 喜剧大赏,https://live.ottiptv.cc/huya/30631713
+�逋鞠盗�-国产喜剧,https://live.ottiptv.cc/yy/1382736856
+爆笑小品大合集,https://live.ottiptv.cc/yy/1382736821
+热门喜剧,https://live.ottiptv.cc/yy/1354931495
+憨豆先生-经典喜剧,https://live.ottiptv.cc/yy/1354936239
+本山快乐营-爆笑小品,https://live.ottiptv.cc/yy/1354930948
+国内喜剧,https://live.ottiptv.cc/yy/1382735563
+金牌喜剧班,https://live.ottiptv.cc/yy/1354889009
+贾玲春晚小品,https://live.ottiptv.cc/yy/1382736720
+喜剧闹翻天,https://live.ottiptv.cc/yy/1382735548
+巩汉林春晚小品合集,https://live.ottiptv.cc/yy/1354889035
+蔡明春晚小品,https://live.ottiptv.cc/yy/1354936177
+开播！情景喜剧第二季,https://live.ottiptv.cc/yy/1382736920
+国产搞笑喜剧片,https://live.ottiptv.cc/yy/1354932431
+港片 喜剧 动作,https://live.ottiptv.cc/yy/1355480591
+超喜剧地下交通站男神贾贵,https://live.ottiptv.cc/yy/1353428972
+24h 我爱我家 喜剧,https://live.ottiptv.cc/yy/1356212303
+周星驰喜剧武侠恐怖好看,https://live.ottiptv.cc/yy/29945997
+赌神 港片 喜剧,https://live.ottiptv.cc/yy/1355112116
+《东北小品》,https://live.ottiptv.cc/yy/29600150
+东北小品王,https://live.ottiptv.cc/yy/34313906
