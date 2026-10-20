@@ -1,5 +1,5 @@
 # 音乐频道列表
-# 更新时间: 2026-10-19 07:19:22
+# 更新时间: 2026-10-20 07:10:31
 # 共 11 个频道
 #genre#
 (勿)(址)MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
