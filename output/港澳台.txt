@@ -1,10 +1,11 @@
 # 港澳台频道列表
-# 更新时间: 2026-10-22 07:06:03
-# 共 10 个频道
+# 更新时间: 2026-10-23 06:58:16
+# 共 11 个频道
 #genre#
-华视-悬疑恐怖,https://live.ottiptv.cc/huya/23358441
+TVB练习生,https://live.ottiptv.cc/huya/23865132
+华视-动作大片,https://live.ottiptv.cc/huya/23352535
 小虎牙-pTSEbHriOn,https://live.ottiptv.cc/huya/23863796
-TVB追剧小能手,https://live.ottiptv.cc/huya/23865179
+探索世界科普,https://live.ottiptv.cc/huya/20985813
 仰望星空慢直播,https://live.ottiptv.cc/huya/29465892
 迪士尼姐姐,https://live.ottiptv.cc/huya/29982656
 宇宙探索飞船,https://live.ottiptv.cc/douyu/9456028
