@@ -1,9 +1,7 @@
 注意事项,#genre#
 4K频道,#genre#
 一起看,#genre#
-原创IP,#genre#
 原创,#genre#
 zonghe,#genre#
-other,#genre#
 car,#genre#
 
