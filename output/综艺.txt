@@ -1,5 +1,5 @@
 # 综艺频道列表
-# 更新时间: 2026-11-24 11:59:50
+# 更新时间: 2026-11-25 10:52:50
 # 共 33 个频道
 #genre#
 娱乐bb机,https://mursor.ottiptv.cc/huya/29982635
@@ -18,20 +18,20 @@ fans圈娱乐,https://mursor.ottiptv.cc/douyu/9630581
 喜剧大赏,https://mursor.ottiptv.cc/huya/30631713
 爆笑小品大合集,https://mursor.ottiptv.cc/yy/1382736821
 �逋鞠盗�-国产喜剧,https://mursor.ottiptv.cc/yy/1382736856
+国内喜剧,https://mursor.ottiptv.cc/yy/1382736862
 憨豆先生-经典喜剧,https://mursor.ottiptv.cc/yy/1354936239
 本山快乐营-爆笑小品,https://mursor.ottiptv.cc/yy/1354930948
 巩汉林春晚小品合集,https://mursor.ottiptv.cc/yy/1354889035
 喜剧闹翻天,https://mursor.ottiptv.cc/yy/1382735548
-国内喜剧,https://mursor.ottiptv.cc/yy/1382736862
 贾玲春晚小品,https://mursor.ottiptv.cc/yy/1382736720
 国产搞笑喜剧片,https://mursor.ottiptv.cc/yy/1354932431
+热门喜剧,https://mursor.ottiptv.cc/yy/1354931495
 开播！情景喜剧第二季,https://mursor.ottiptv.cc/yy/1382736920
 金牌喜剧班,https://mursor.ottiptv.cc/yy/1354889009
-热门喜剧,https://mursor.ottiptv.cc/yy/1354931495
+24h 我爱我家 喜剧,https://mursor.ottiptv.cc/yy/1356212303
 港片 喜剧 动作,https://mursor.ottiptv.cc/yy/1355480591
 超喜剧地下交通站男神贾贵,https://mursor.ottiptv.cc/yy/1353428972
-周星驰喜剧武侠恐怖好看,https://mursor.ottiptv.cc/yy/29945997
-24h 我爱我家 喜剧,https://mursor.ottiptv.cc/yy/1356212303
 赌神 港片 喜剧,https://mursor.ottiptv.cc/yy/1355112116
+周星驰喜剧武侠恐怖好看,https://mursor.ottiptv.cc/yy/29945997
 《东北小品》,https://mursor.ottiptv.cc/yy/29600150
 东北小品王,https://mursor.ottiptv.cc/yy/34313906
